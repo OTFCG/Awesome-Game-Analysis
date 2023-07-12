@@ -21,6 +21,7 @@ A collection of video game tech analysis resources, covers blogs, articles, pres
 |Shadow of the Colossus| Japan Studio, Team Ico | Internal | 2005 |<details><summary>Expand</summary>- [Froyok's Blog](https://www.froyok.fr/blog/2012-10-breakdown-shadow-of-the-colossus-pal-ps2/page.html)</details>|
 |Pokémon X/Y| Game Freak | Internal | 2013 |<details><summary>Expand</summary>- [Game Art Tricks](https://simonschreibt.de/gat/pokemon-rapidash/)</details>|
 |Metal Gear Solid V| Kojima Productions | Fox Engine | 2015 | <details><summary>Expand</summary>- [Graphics Study](https://www.adriancourreges.com/blog/2017/12/15/mgs-v-graphics-study/)<br>- [GDC 13](https://www.gdcvault.com/play/1018086/Photorealism-Through-the-Eyes-of)<br>- [DigitalFoundry Tech Analysis](https://www.eurogamer.net/digitalfoundry-tech-analysis-mgs5-fox-engine)<br>- [NVIDIA Performance Guide](https://www.nvidia.com/en-us/geforce/news/metal-gear-solid-v-the-phantom-pain-graphics-and-performance-guide/)</details>|
+|Overwatch|Blizzard Entertainment, Iron Galaxy|Internal|2016|<details><summary>Expand</summary>- [Alain Galvan's Blog](https://alain.xyz/blog/frame-analysis-overwatch)<br></details>|
 
 
 ## References
