@@ -9,7 +9,7 @@ A collection of video game tech analysis resources, covers blogs, articles, pres
 |Doom Eternal|id Software|id Tech 7|2020|<details><summary>Expand</summary>- [Simon Coenen's Blog](https://simoncoenen.com/blog/programming/graphics/DoomEternalStudy.html)</details>|
 |Death Stranding|Kojima Productions|Decima|2019|<details><summary>Expand</summary>- [Behind the Pretty Frames](https://mamoniem.com/behind-the-pretty-frames-death-stranding/)</details>| 
 |Diablo IV|Blizzard Albany, Blizzard Team 3|Internal|2023|<details><summary>Expand</summary>- [Behind the Pretty Frames](https://mamoniem.com/behind-the-pretty-frames-diablo-iv/)<br>- [Blizzard](https://news.blizzard.com/en-us/diablo4/23964183/peeling-back-the-varnish-the-graphics-of-diablo-iv)</details>| 
-|Resident-evil IV Re|Capcom Division 1, M-Two|RE Engine|2023|<details><summary>Expand</summary>- [Behind the Pretty Frames](https://mamoniem.com/behind-the-pretty-frames-resident-evil/)</details>|
+|Resident-evil II Re|Capcom Division 1|RE Engine|2019|<details><summary>Expand</summary>- [Behind the Pretty Frames](https://mamoniem.com/behind-the-pretty-frames-resident-evil/)<br>- [Anton Schreiner's Blog](https://aschrein.github.io/2019/08/01/re2_breakdown.html)</details>|
 |God of war 4|Santa Monica Studio|Internal|2018|<details><summary>Expand</summary>- [Behind the Pretty Frames](https://mamoniem.com/behind-the-pretty-frames-god-of-war/)</details>| 
 |Elden Ring|FromSoftware|Internal|2022|<details><summary>Expand</summary>- [Behind the Pretty Frames](https://mamoniem.com/behind-the-pretty-frames-elden-ring/)</details>|
 |Red Dead Redemption 2|Rockstar San Diego|RAGE|2018|<details><summary>Expand</summary>- [imgeself's Blog](https://imgeself.github.io/posts/2020-06-19-graphics-study-rdr2/)</details>|
@@ -29,6 +29,7 @@ A collection of video game tech analysis resources, covers blogs, articles, pres
 - [X] [Behind the Pretty Frames](https://mamoniem.com/category/behind-the-pretty-frames/)
 - [X] [imgself's Blog](https://imgeself.github.io/posts/)
 - [X] [Froyok's Blog](https://www.froyok.fr/articles.html)
+- [X] [Anton Schreiner's Blog](https://aschrein.github.io/)
 - [ ] [Game Art Tricks](https://simonschreibt.de/game-art-tricks/)
 - [ ] [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor)
 - [ ] [Graphics Studies](https://www.adriancourreges.com/blog/)
