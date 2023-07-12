@@ -10,6 +10,7 @@
 |God of war 4|Santa Monica Studio|Internal|2018|- [Behind the Pretty Frames](https://mamoniem.com/behind-the-pretty-frames-god-of-war/)|
 |Elden Ring|FromSoftware|Internal|2022|- [Behind the Pretty Frames](https://mamoniem.com/behind-the-pretty-frames-elden-ring/)|
 |Red Dead Redemption 2|Rockstar San Diego|RAGE|2018|- [imgeself's Blog](https://imgeself.github.io/posts/2020-06-19-graphics-study-rdr2/)|
+|The Witcher 3|CD Projekt Red|RED Engine 3|2015|- [Mateusz's Blog](https://astralcode.blogspot.com/2018/11/reverse-engineering-rendering-of.html)|
 
 ## References
 - [X] [Behind the Pretty Frames](https://mamoniem.com/category/behind-the-pretty-frames/)
