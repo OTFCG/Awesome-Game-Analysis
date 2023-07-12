@@ -15,7 +15,7 @@ A collection of video game tech analysis resources, covers blogs, articles, pres
 |Red Dead Redemption 2|Rockstar San Diego|RAGE|2018|<details><summary>Expand</summary>- [imgeself's Blog](https://imgeself.github.io/posts/2020-06-19-graphics-study-rdr2/)</details>|
 |The Witcher 3|CD Projekt Red|RED Engine 3|2015|<details><summary>Expand</summary>- [Mateusz's Blog](https://astralcode.blogspot.com/2018/11/reverse-engineering-rendering-of.html)</details>|
 |GTA 5| Rockstar North | RAGE | 2013 |<details><summary>Expand</summary>- [Game Art Tricks](https://simonschreibt.de/gat/gta-v-underestimated-glow/)<br>- [Game Art Tricks](https://simonschreibt.de/gat/gta-v-wormy-fountain/)<br>- [Graphics Study](https://www.adriancourreges.com/blog/2015/11/02/gta-v-graphics-study/)</details>|
-|Destiny 2| Bungie | Tiger Engine | 2017 |<details><summary>Expand</summary>- [GDC2018:Physically Inspired Shading in 'Destiny 2'](https://www.gdcvault.com/play/1025290/Translating-Art-into-Technology-Physically)</details>|
+|Destiny 2| Bungie | Tiger Engine | 2017 |<details><summary>Expand</summary>- [GDC 2018: Physically Inspired Shading in 'Destiny 2'](https://www.gdcvault.com/play/1025290/Translating-Art-into-Technology-Physically)<br>- [Destiny's Multithreaded Rendering Architecture](https://www.youtube.com/watch?v=0nTDFLMLX9k)</details>|
 |Batman : Arkham City| Rocksteady Studios | UE3 | 2011 |<details><summary>Expand</summary>- [Froyok's Blog](https://www.froyok.fr/blog/2012-09-breakdown-batman-arkham-city/)</details>|
 |Assassin's Creed II| Ubisoft Montréal | Anvil Engine | 2009 |<details><summary>Expand</summary>- [Froyok's Blog](https://www.froyok.fr/blog/2015-12-breakdown-assassins-creed-ii-2/)</details>|
 |Shadow of the Colossus| Japan Studio, Team Ico | Internal | 2005 |<details><summary>Expand</summary>- [Froyok's Blog](https://www.froyok.fr/blog/2012-10-breakdown-shadow-of-the-colossus-pal-ps2/page.html)</details>|
@@ -37,4 +37,4 @@ A collection of video game tech analysis resources, covers blogs, articles, pres
 - [ ] [Nathan Gordon's Blog](https://medium.com/@gordonnl)
 - [ ] [r/TheMakingOfGames](https://www.reddit.com/r/TheMakingOfGames/)
 - [ ] [r/videogamescience](https://www.reddit.com/r/videogamescience/)
-- [ ] [GDCVault](https://www.gdcvault.com/)
+- [ ] [GDC Vault](https://www.gdcvault.com/)
