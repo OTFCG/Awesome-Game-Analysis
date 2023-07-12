@@ -1,4 +1,7 @@
 # Awesome-Game-Analysis
+A collection of video game tech analysis resources, covers blogs, articles, presentations, and references related to game analysis and development.
+
+---
 
 |Game|Developer|Engine|Year|Break Down|
 |:---|:---|:---|:---|:---|
