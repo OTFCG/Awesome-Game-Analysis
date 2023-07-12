@@ -12,7 +12,7 @@
 |Red Dead Redemption 2|Rockstar San Diego|RAGE|2018|- [imgeself's Blog](https://imgeself.github.io/posts/2020-06-19-graphics-study-rdr2/)|
 |The Witcher 3|CD Projekt Red|RED Engine 3|2015|- [Mateusz's Blog](https://astralcode.blogspot.com/2018/11/reverse-engineering-rendering-of.html)|
 |GTA 5| Rockstar North | RAGE | 2013 |- [Game Art Tricks](https://simonschreibt.de/gat/gta-v-underestimated-glow/)<br>- [Game Art Tricks](https://simonschreibt.de/gat/gta-v-wormy-fountain/)|
-|Destiny 2| Bungie | Tiger Engine | 2017 |- [GDC2018:Physically Inspired Shading in 'Destiny 2](https://www.gdcvault.com/play/1025290/Translating-Art-into-Technology-Physically)|
+|Destiny 2| Bungie | Tiger Engine | 2017 |- [GDC2018:Physically Inspired Shading in 'Destiny 2'](https://www.gdcvault.com/play/1025290/Translating-Art-into-Technology-Physically)|
 
 ## References
 - [X] [Behind the Pretty Frames](https://mamoniem.com/category/behind-the-pretty-frames/)
