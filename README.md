@@ -29,3 +29,4 @@
 - [ ] [Léna Piquet's Blog](https://www.froyok.fr/articles.html)
 - [ ] [r/TheMakingOfGames](https://www.reddit.com/r/TheMakingOfGames/)
 - [ ] [r/videogamescience](https://www.reddit.com/r/videogamescience/)
+- [ ] [GDCVault](https://www.gdcvault.com/)
