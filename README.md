@@ -1,4 +1,4 @@
-# Awesome-Game-BreakDown
+# Awesome-Game-Analysis
 
 |Game|Developer|Engine|Year|Break Down|
 |:---|:---|:---|:---|:---|
