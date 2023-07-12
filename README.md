@@ -14,3 +14,4 @@
 - [ ] [Game Art Tricks](https://simonschreibt.de/game-art-tricks/)
 - [ ] [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor)
 - [ ] [Graphics Studies](https://www.adriancourreges.com/blog/)
+- [ ] [Crytek Presentations](https://archive.org/download/crytek_presentations)
