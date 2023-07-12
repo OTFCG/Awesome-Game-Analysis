@@ -11,7 +11,7 @@
 |Elden Ring|FromSoftware|Internal|2022|- [Behind the Pretty Frames](https://mamoniem.com/behind-the-pretty-frames-elden-ring/)|
 |Red Dead Redemption 2|Rockstar San Diego|RAGE|2018|- [imgeself's Blog](https://imgeself.github.io/posts/2020-06-19-graphics-study-rdr2/)|
 |The Witcher 3|CD Projekt Red|RED Engine 3|2015|- [Mateusz's Blog](https://astralcode.blogspot.com/2018/11/reverse-engineering-rendering-of.html)|
-|GTA 5| Rockstar North | RAGE | 2013 |- [Game Art Tricks](https://simonschreibt.de/gat/gta-v-underestimated-glow/)<br>- [Game Art Tricks](https://simonschreibt.de/gat/gta-v-wormy-fountain/)|
+|GTA 5| Rockstar North | RAGE | 2013 |- [Game Art Tricks](https://simonschreibt.de/gat/gta-v-underestimated-glow/)<br>- [Game Art Tricks](https://simonschreibt.de/gat/gta-v-wormy-fountain/)<br>- [Graphics Study](https://www.adriancourreges.com/blog/2015/11/02/gta-v-graphics-study/)|
 |Destiny 2| Bungie | Tiger Engine | 2017 |- [GDC2018:Physically Inspired Shading in 'Destiny 2'](https://www.gdcvault.com/play/1025290/Translating-Art-into-Technology-Physically)|
 |Batman : Arkham City| Rocksteady Studios | UE3 | 2011 |- [Froyok's Blog](https://www.froyok.fr/blog/2012-09-breakdown-batman-arkham-city/)|
 |Assassin's Creed II| Ubisoft Montréal | Anvil Engine | 2009 |- [Froyok's Blog](https://www.froyok.fr/blog/2015-12-breakdown-assassins-creed-ii-2/)|
