@@ -13,10 +13,14 @@
 |The Witcher 3|CD Projekt Red|RED Engine 3|2015|- [Mateusz's Blog](https://astralcode.blogspot.com/2018/11/reverse-engineering-rendering-of.html)|
 |GTA 5| Rockstar North | RAGE | 2013 |- [Game Art Tricks](https://simonschreibt.de/gat/gta-v-underestimated-glow/)<br>- [Game Art Tricks](https://simonschreibt.de/gat/gta-v-wormy-fountain/)|
 |Destiny 2| Bungie | Tiger Engine | 2017 |- [GDC2018:Physically Inspired Shading in 'Destiny 2'](https://www.gdcvault.com/play/1025290/Translating-Art-into-Technology-Physically)|
+|Batman : Arkham City| Rocksteady Studios | UE3 | 2011 |- [Froyok's Blog](https://www.froyok.fr/blog/2012-09-breakdown-batman-arkham-city/)|
+|Assassin's Creed II| Ubisoft Montréal | Anvil Engine | 2009 |- [Froyok's Blog](https://www.froyok.fr/blog/2015-12-breakdown-assassins-creed-ii-2/)|
+|Shadow of the Colossus| Japan Studio, Team Ico | Internal | 2005 |- [Froyok's Blog](https://www.froyok.fr/blog/2012-10-breakdown-shadow-of-the-colossus-pal-ps2/page.html)|
 
 ## References
 - [X] [Behind the Pretty Frames](https://mamoniem.com/category/behind-the-pretty-frames/)
 - [X] [imgself's Blog](https://imgeself.github.io/posts/)
+- [X] [Froyok's Blog](https://www.froyok.fr/articles.html)
 - [ ] [Game Art Tricks](https://simonschreibt.de/game-art-tricks/)
 - [ ] [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor)
 - [ ] [Graphics Studies](https://www.adriancourreges.com/blog/)
@@ -26,7 +30,6 @@
 - [ ] [IRYOKU's Blog](https://www.iryoku.com/)
 - [ ] [Silent’s Blog](https://cookieplmonster.github.io/)
 - [ ] [Nathan Gordon's Blog](https://medium.com/@gordonnl)
-- [ ] [Léna Piquet's Blog](https://www.froyok.fr/articles.html)
 - [ ] [r/TheMakingOfGames](https://www.reddit.com/r/TheMakingOfGames/)
 - [ ] [r/videogamescience](https://www.reddit.com/r/videogamescience/)
 - [ ] [GDCVault](https://www.gdcvault.com/)
