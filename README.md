@@ -9,6 +9,7 @@
 |Resident-evil IV Re|Capcom Division 1, M-Two|RE Engine|2023|- [Behind the Pretty Frames](https://mamoniem.com/behind-the-pretty-frames-resident-evil/)|
 |God of war 4|Santa Monica Studio|Internal|2018|- [Behind the Pretty Frames](https://mamoniem.com/behind-the-pretty-frames-god-of-war/)|
 |Elden Ring|FromSoftware|Internal|2022|- [Behind the Pretty Frames](https://mamoniem.com/behind-the-pretty-frames-elden-ring/)|
+|Red Dead Redemption 2|Rockstar San Diego|RAGE|2018|- [imgeself's Blog](https://imgeself.github.io/posts/2020-06-19-graphics-study-rdr2/)|
 
 ## References
 - [X] [Behind the Pretty Frames](https://mamoniem.com/category/behind-the-pretty-frames/)
