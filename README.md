@@ -23,6 +23,7 @@ A collection of video game tech analysis resources, covers blogs, articles, pres
 |Metal Gear Solid V| Kojima Productions | Fox Engine | 2015 | <details><summary>Expand</summary>- [Graphics Study](https://www.adriancourreges.com/blog/2017/12/15/mgs-v-graphics-study/)<br>- [GDC 13](https://www.gdcvault.com/play/1018086/Photorealism-Through-the-Eyes-of)<br>- [DigitalFoundry Tech Analysis](https://www.eurogamer.net/digitalfoundry-tech-analysis-mgs5-fox-engine)<br>- [NVIDIA Performance Guide](https://www.nvidia.com/en-us/geforce/news/metal-gear-solid-v-the-phantom-pain-graphics-and-performance-guide/)</details>|
 |Overwatch|Blizzard Entertainment, Iron Galaxy|Internal|2016|<details><summary>Expand</summary>- [Alain Galvan's Blog](https://alain.xyz/blog/frame-analysis-overwatch)<br></details>|
 |Metro Exodus|4A Games|4A Engine|2019|<details><summary>Expand</summary>- [Anton Schreiner's Blog](https://aschrein.github.io/2019/08/11/metro_breakdown.html)<br>- [Balázs Török's Blog](http://morad.in/2019/03/27/observations-about-the-rendering-of-metro-exodus/)<br></details>|
+|Cyberpunk 2077|CD Projekt Red|REDengine 4|2020|<details><summary>Expand</summary>- [c0de517e](https://c0de517e.blogspot.com/2020/12/hallucinations-re-rendering-of.html)<br>- [Hang Zhang's Blog](https://zhangdoa.com/rendering-analysis-cyberpunk-2077)<br>- [Shader Execution Reordering](https://chipsandcheese.com/2023/05/16/shader-execution-reordering-nvidia-tackles-divergence/)<br></details>|
 
 
 ## References
