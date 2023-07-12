@@ -16,6 +16,8 @@
 |Batman : Arkham City| Rocksteady Studios | UE3 | 2011 |- [Froyok's Blog](https://www.froyok.fr/blog/2012-09-breakdown-batman-arkham-city/)|
 |Assassin's Creed II| Ubisoft Montréal | Anvil Engine | 2009 |- [Froyok's Blog](https://www.froyok.fr/blog/2015-12-breakdown-assassins-creed-ii-2/)|
 |Shadow of the Colossus| Japan Studio, Team Ico | Internal | 2005 |- [Froyok's Blog](https://www.froyok.fr/blog/2012-10-breakdown-shadow-of-the-colossus-pal-ps2/page.html)|
+|Pokémon X/Y| Game Freak | Internal | 2013 |- [Game Art Tricks](https://simonschreibt.de/gat/pokemon-rapidash/)|
+
 
 ## References
 - [X] [Behind the Pretty Frames](https://mamoniem.com/category/behind-the-pretty-frames/)
