@@ -25,7 +25,7 @@ A collection of video game tech analysis resources, covers blogs, articles, pres
 |Metro Exodus|4A Games|4A Engine|2019|<details><summary>Expand</summary>- [Anton Schreiner's Blog](https://aschrein.github.io/2019/08/11/metro_breakdown.html)<br>- [Balázs Török's Blog](http://morad.in/2019/03/27/observations-about-the-rendering-of-metro-exodus/)<br></details>|
 |Cyberpunk 2077|CD Projekt Red|REDengine 4|2020|<details><summary>Expand</summary>- [c0de517e](https://c0de517e.blogspot.com/2020/12/hallucinations-re-rendering-of.html)<br>- [Hang Zhang's Blog](https://zhangdoa.com/rendering-analysis-cyberpunk-2077)<br>- [Shader Execution Reordering](https://chipsandcheese.com/2023/05/16/shader-execution-reordering-nvidia-tackles-divergence/)<br></details>|
 |Zelda - Wind Waker|Nintendo EAD|Internal|2002|<details><summary>Expand</summary>- [Nathan Gordon's Blog](https://medium.com/@gordonnl/wind-waker-graphics-analysis-a0b575a31127)<br>- [Soenke Seidel's Blog](https://polycount.com/discussion/104415/zelda-wind-waker-tech-and-texture-analysis-picture-heavy)<br></details>|
-
+|Doom 3|id Software|id Tech 4|2004|<details><summary>Expand</summary>-[Game Art Tricks](https://simonschreibt.de/gat/gat-doom-3-hdui/)<br>-[Game Art Tricks](http://simonschreibt.de/gat/doom-3-volumetric-glow/)<br></details>|
 
 ## References
 - [X] [Behind the Pretty Frames](https://mamoniem.com/category/behind-the-pretty-frames/)
