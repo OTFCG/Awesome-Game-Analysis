@@ -38,14 +38,14 @@ A collection of video game tech analysis resources, covers blogs, articles, pres
 |God of War III|Santa Monica Studio|Internal|2010|<details><summary>Expand</summary>- [Morphological Antialiasing](https://www.realtimerendering.com/blog/morphological-antialiasing-in-god-of-war-iii/)<br>- [More on God of War III Antialiasing](https://www.realtimerendering.com/blog/more-on-god-of-war-iii-antialiasing/)<br>- [DF article](https://www.eurogamer.net/digitalfoundry-mlaa-360-pc-article)<br></details>|
 |Teardown|Tuxedo Labs|Internal|2020|<details><summary>Expand</summary>- [Frame Teardown](https://acko.net/blog/teardown-frame-teardown/)<br>- [Teardown Breakdown](https://juandiegomontoya.github.io/teardown_breakdown.html)<br></details>|
 |A Plague Tale: Innocence|Asobo Studio|Internal|2019|<details><summary>Expand</summary>- [Dissecting A Plague Tale: Innocence](http://morad.in/2019/06/16/dissecting-a-plague-tale-innocence/)<br></details>|
-|Ni no Kuni II|Level-5|Internal|2018|<details><summary>Expand</summary>- [Detailed Breakdown of Ni no Kuni II's Rendering Process](https://blog.thomaspoulet.fr/ninokuni2-frame/)<br></details>|
+|Ni no Kuni II|Level-5|Internal|2018|<details><summary>Expand</summary>- [Thomas' Blog](https://blog.thomaspoulet.fr/ninokuni2-frame/)<br></details>|
 |Yakuza 0|Ryu Ga Gotoku Studio|Dragon Engine|2015|<details><summary>Expand</summary>- [Fixing attempts for Yakuza 0](https://cookieplmonster.github.io/2019/02/24/yakuza-0-fixing-attempts/)<br></details>|
 |Slime Rancher|Monomi Park|Unity|2017|<details><summary>Expand</summary>- [A frame of Slime Rancher](https://pixelalchemy.dev/posts/a-frame-of-slime-rancher/)<br></details>|
 |Shadow Tactics: Blades of the Shogun|Mimimi Productions|Unity|2016|<details><summary>Expand</summary>- [Kosmonaut's Blog](https://kosmonautblog.wordpress.com/2017/01/09/shadow-tactics-rendering-breakdown/)<br></details>|
 |The Witness|Thekla|Internal|2016|<details><summary>Expand</summary>- [The Witness Frame Part 1](https://blog.thomaspoulet.fr/the-witness-frame-part-1)<br></details>|
-|Waves 2: Notorious|Rob "Squid" Hale|UE4|2015|<details><summary>Expand</summary>- [A detailed analysis of the rendering process of Waves 2: Notorious](https://pixelalchemy.dev/posts/a-frame-of-waves-2)<br></details>|
+|Waves 2: Notorious|Rob "Squid" Hale|UE4|2015|<details><summary>Expand</summary>- [A Frame of Waves 2](https://pixelalchemy.dev/posts/a-frame-of-waves-2)<br></details>|
 |Batman: Arkham Knight|Rocksteady|UE3|2015|<details><summary>Expand</summary>- [Unmasking Arkham Knight](http://morad.in/2020/04/03/unmasking-arkham-knight/)<br></details>|
-|Deus Ex|Ion Storm|Internal|2000|<details><summary>Expand</summary>- [deus-ex-human-revolution-graphics-study](https://www.adriancourreges.com/blog/2015/03/10/deus-ex-human-revolution-graphics-study/)<br>- [DeSmedt_Matthijs_Deus Ex Is](https://ubm-twvideo01.s3.amazonaws.com/o1/vault/gdc2012/slides/Programming%20Track/DeSmedt_Matthijs_Deus%20Ex%20Is.pdf)<br>- [Reimagining a Classic: The Design](https://gdcvault.com/play/1015489/Reimagining-a-Classic-The-Design)<br>- [Building the Story-driven Experience](https://www.gdcvault.com/play/1015027/Building-the-Story-driven-Experience)<br></details>|
+|Deus Ex|Ion Storm|Internal|2000|<details><summary>Expand</summary>- [Graphics Study](https://www.adriancourreges.com/blog/2015/03/10/deus-ex-human-revolution-graphics-study/)<br>- [GDC 2012](https://ubm-twvideo01.s3.amazonaws.com/o1/vault/gdc2012/slides/Programming%20Track/DeSmedt_Matthijs_Deus%20Ex%20Is.pdf)<br>- [Reimagining a Classic: The Design](https://gdcvault.com/play/1015489/Reimagining-a-Classic-The-Design)<br>- [Building the Story-driven Experience](https://www.gdcvault.com/play/1015027/Building-the-Story-driven-Experience)<br></details>|
 |Supreme Commander|Gas Powered Games|Internal|2007|<details><summary>Expand</summary>- [Supreme Commander Graphics Study](https://www.adriancourreges.com/blog/2015/06/23/supreme-commander-graphics-study/)<br>- [Wiki of Height Map](https://supcom.fandom.com/wiki/Height-_/_Texturemaps_with_image_editing_tools)<br>- [GameSpot's article](http://web.archive.org/web/20070807085133/http://www.gamespot.com/features/totalstory/)<br></details>|
 
 
@@ -57,6 +57,7 @@ A collection of video game tech analysis resources, covers blogs, articles, pres
 - [X] [Frame Analysis](https://alain.xyz/blog)
 - [X] [The Code Corsair](https://www.elopezr.com/)
 - [X] [Graphics Studies](https://www.adriancourreges.com/blog/)
+- [ ] [Thomas' Blog](https://blog.thomaspoulet.fr)
 - [ ] [Game Art Tricks](https://simonschreibt.de/game-art-tricks/)
 - [ ] [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor)
 - [ ] [Crytek Presentations](https://archive.org/download/crytek_presentations)
