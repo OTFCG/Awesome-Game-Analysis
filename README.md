@@ -35,6 +35,7 @@ A collection of video game tech analysis resources, covers blogs, articles, pres
 |Jurassic World: Evolution|Frontier|Cobra|2018|<details><summary>Expand</summary>- [The Code Corsair](https://www.elopezr.com/the-rendering-of-jurassic-world-evolution/)<br></details>|
 |Middle-earth: Shadow of Mordor|Monolith Productions|LithTech Jupiter EX|2014|<details><summary>Expand</summary>- [The Code Corsair](https://www.elopezr.com/the-rendering-of-middle-earth-shadow-of-mordor/)<br></details>|
 |Castlevania: Lords of Shadow 2|MercurySteam|Mercury|2014|<details><summary>Expand</summary>- [The Code Corsair](https://www.elopezr.com/castlevania-lords-of-shadow-2-graphics-study/)<br></details>|
+|God of War III|Santa Monica Studio|Internal|2010|<details><summary>Expand</summary>- [Morphological Antialiasing](https://www.realtimerendering.com/blog/morphological-antialiasing-in-god-of-war-iii/)<br>- [More on God of War III Antialiasing](https://www.realtimerendering.com/blog/more-on-god-of-war-iii-antialiasing/)<br>- [DF article](https://www.eurogamer.net/digitalfoundry-mlaa-360-pc-article)<br></details>|
 
 ## References
 - [X] [Behind the Pretty Frames](https://mamoniem.com/category/behind-the-pretty-frames/)
