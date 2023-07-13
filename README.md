@@ -26,17 +26,20 @@ A collection of video game tech analysis resources, covers blogs, articles, pres
 |Cyberpunk 2077|CD Projekt Red|REDengine 4|2020|<details><summary>Expand</summary>- [c0de517e](https://c0de517e.blogspot.com/2020/12/hallucinations-re-rendering-of.html)<br>- [Hang Zhang's Blog](https://zhangdoa.com/rendering-analysis-cyberpunk-2077)<br>- [Shader Execution Reordering](https://chipsandcheese.com/2023/05/16/shader-execution-reordering-nvidia-tackles-divergence/)<br></details>|
 |Zelda - Wind Waker|Nintendo EAD|Internal|2002|<details><summary>Expand</summary>- [Nathan Gordon's Blog](https://medium.com/@gordonnl/wind-waker-graphics-analysis-a0b575a31127)<br>- [Soenke Seidel's Blog](https://polycount.com/discussion/104415/zelda-wind-waker-tech-and-texture-analysis-picture-heavy)<br></details>|
 |Doom 3|id Software|id Tech 4|2004|<details><summary>Expand</summary>-[Game Art Tricks](https://simonschreibt.de/gat/gat-doom-3-hdui/)<br>-[Game Art Tricks](http://simonschreibt.de/gat/doom-3-volumetric-glow/)<br></details>|
+|Control|Remedy|Northlight Engine|2019|<details><summary>Expand</summary>- [Frame Analysis](https://alain.xyz/blog/frame-analysis-control)<br></details>|
+|Minecraft (Bedrock)|Mojang Studios|RenderDragon|2017|<details><summary>Expand</summary>- [Frame Analysis - RTX](https://alain.xyz/blog/frame-analysis-minecraftrtx)<br>- [Microsoft Game Dev](https://www.youtube.com/watch?v=PyIgZTE66eM)<br>- [DF's Minecraft RTX Deep Dive](https://www.youtube.com/watch?v=TVtSsJf86_Y)<br>- [GTC 2020](https://developer.nvidia.com/gtc/2020/video/s22677)<br></details>|
+|Mortal Kombat 11|NetherRealm Studios|UE3|2019|<details><summary>Expand</summary>- [Frame Analysis](https://alain.xyz/blog/frame-analysis-mk11)<br></details>|
 
 ## References
 - [X] [Behind the Pretty Frames](https://mamoniem.com/category/behind-the-pretty-frames/)
 - [X] [imgself's Blog](https://imgeself.github.io/posts/)
 - [X] [Froyok's Blog](https://www.froyok.fr/articles.html)
 - [X] [Anton Schreiner's Blog](https://aschrein.github.io/)
+- [X] [Frame Analysis](https://alain.xyz/blog)
 - [ ] [Game Art Tricks](https://simonschreibt.de/game-art-tricks/)
 - [ ] [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor)
 - [ ] [Graphics Studies](https://www.adriancourreges.com/blog/)
 - [ ] [Crytek Presentations](https://archive.org/download/crytek_presentations)
-- [ ] [Frame Analysis](https://alain.xyz/blog)
 - [ ] [The Code Corsair](https://www.elopezr.com/)
 - [ ] [IRYOKU's Blog](https://www.iryoku.com/)
 - [ ] [Silent’s Blog](https://cookieplmonster.github.io/)
