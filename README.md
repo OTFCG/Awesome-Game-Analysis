@@ -36,6 +36,14 @@ A collection of video game tech analysis resources, covers blogs, articles, pres
 |Middle-earth: Shadow of Mordor|Monolith Productions|LithTech Jupiter EX|2014|<details><summary>Expand</summary>- [The Code Corsair](https://www.elopezr.com/the-rendering-of-middle-earth-shadow-of-mordor/)<br></details>|
 |Castlevania: Lords of Shadow 2|MercurySteam|Mercury|2014|<details><summary>Expand</summary>- [The Code Corsair](https://www.elopezr.com/castlevania-lords-of-shadow-2-graphics-study/)<br></details>|
 |God of War III|Santa Monica Studio|Internal|2010|<details><summary>Expand</summary>- [Morphological Antialiasing](https://www.realtimerendering.com/blog/morphological-antialiasing-in-god-of-war-iii/)<br>- [More on God of War III Antialiasing](https://www.realtimerendering.com/blog/more-on-god-of-war-iii-antialiasing/)<br>- [DF article](https://www.eurogamer.net/digitalfoundry-mlaa-360-pc-article)<br></details>|
+|Teardown|Tuxedo Labs|Internal|2020|<details><summary>Expand</summary>- [Frame Teardown](https://acko.net/blog/teardown-frame-teardown/)<br>- [Teardown Breakdown](https://juandiegomontoya.github.io/teardown_breakdown.html)<br></details>|
+|A Plague Tale: Innocence|Asobo Studio|Internal|2019|<details><summary>Expand</summary>- [Dissecting A Plague Tale: Innocence](http://morad.in/2019/06/16/dissecting-a-plague-tale-innocence/)<br></details>|
+|Ni no Kuni II|Level-5|Internal|2018|<details><summary>Expand</summary>- [Detailed Breakdown of Ni no Kuni II's Rendering Process](https://blog.thomaspoulet.fr/ninokuni2-frame/)<br></details>|
+|Yakuza 0|Ryu Ga Gotoku Studio|Dragon Engine|2015|<details><summary>Expand</summary>- [Fixing attempts for Yakuza 0](https://cookieplmonster.github.io/2019/02/24/yakuza-0-fixing-attempts/)<br></details>|
+|Slime Rancher|Monomi Park|Unity|2017|<details><summary>Expand</summary>- [A frame of Slime Rancher](https://pixelalchemy.dev/posts/a-frame-of-slime-rancher/)<br></details>|
+|Shadow Tactics: Blades of the Shogun|Mimimi Productions|Unity|2016|<details><summary>Expand</summary>- [Kosmonaut's Blog](https://kosmonautblog.wordpress.com/2017/01/09/shadow-tactics-rendering-breakdown/)<br></details>|
+|The Witness|Thekla|Internal|2016|<details><summary>Expand</summary>- [The Witness Frame Part 1](https://blog.thomaspoulet.fr/the-witness-frame-part-1)<br></details>|
+
 
 ## References
 - [X] [Behind the Pretty Frames](https://mamoniem.com/category/behind-the-pretty-frames/)
