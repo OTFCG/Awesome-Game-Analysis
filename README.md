@@ -30,6 +30,11 @@ A collection of video game tech analysis resources, covers blogs, articles, pres
 |Minecraft (Bedrock)|Mojang Studios|RenderDragon|2017|<details><summary>Expand</summary>- [Frame Analysis - RTX](https://alain.xyz/blog/frame-analysis-minecraftrtx)<br>- [Microsoft Game Dev](https://www.youtube.com/watch?v=PyIgZTE66eM)<br>- [DF's Minecraft RTX Deep Dive](https://www.youtube.com/watch?v=TVtSsJf86_Y)<br>- [GTC 2020](https://developer.nvidia.com/gtc/2020/video/s22677)<br></details>|
 |Mortal Kombat 11|NetherRealm Studios|UE3|2019|<details><summary>Expand</summary>- [Frame Analysis](https://alain.xyz/blog/frame-analysis-mk11)<br></details>|
 |Halo Infinite|343 Industries|Slipspace|2021|<details><summary>Expand</summary>- [One Frame in 'Halo Infinite'](https://www.gdcvault.com/play/1027657/One-Frame-in-Halo-Infinite)<br></details>|
+|Rise of the Tomb Raider|Crystal Dynamics|Foundation Engine|2015|<details><summary>Expand</summary>- [The Code Corsair](https://www.elopezr.com/the-rendering-of-rise-of-the-tomb-raider/)<br></details>|
+|Mafia: Definitive Edition|Hangar 13|Mafia III engine|2020|<details><summary>Expand</summary>- [The Code Corsair](https://www.elopezr.com/the-rendering-of-mafia-definitive-edition/)<br></details>|
+|Jurassic World: Evolution|Frontier|Cobra|2018|<details><summary>Expand</summary>- [The Code Corsair](https://www.elopezr.com/the-rendering-of-jurassic-world-evolution/)<br></details>|
+|Middle-earth: Shadow of Mordor|Monolith Productions|LithTech Jupiter EX|2014|<details><summary>Expand</summary>- [The Code Corsair](https://www.elopezr.com/the-rendering-of-middle-earth-shadow-of-mordor/)<br></details>|
+|Castlevania: Lords of Shadow 2|MercurySteam|Mercury|2014|<details><summary>Expand</summary>- [The Code Corsair](https://www.elopezr.com/castlevania-lords-of-shadow-2-graphics-study/)<br></details>|
 
 ## References
 - [X] [Behind the Pretty Frames](https://mamoniem.com/category/behind-the-pretty-frames/)
@@ -37,11 +42,11 @@ A collection of video game tech analysis resources, covers blogs, articles, pres
 - [X] [Froyok's Blog](https://www.froyok.fr/articles.html)
 - [X] [Anton Schreiner's Blog](https://aschrein.github.io/)
 - [X] [Frame Analysis](https://alain.xyz/blog)
+- [X] [The Code Corsair](https://www.elopezr.com/)
 - [ ] [Game Art Tricks](https://simonschreibt.de/game-art-tricks/)
 - [ ] [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor)
 - [ ] [Graphics Studies](https://www.adriancourreges.com/blog/)
 - [ ] [Crytek Presentations](https://archive.org/download/crytek_presentations)
-- [ ] [The Code Corsair](https://www.elopezr.com/)
 - [ ] [IRYOKU's Blog](https://www.iryoku.com/)
 - [ ] [Silent’s Blog](https://cookieplmonster.github.io/)
 - [ ] [Nathan Gordon's Blog](https://medium.com/@gordonnl)
