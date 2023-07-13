@@ -29,6 +29,7 @@ A collection of video game tech analysis resources, covers blogs, articles, pres
 |Control|Remedy|Northlight Engine|2019|<details><summary>Expand</summary>- [Frame Analysis](https://alain.xyz/blog/frame-analysis-control)<br></details>|
 |Minecraft (Bedrock)|Mojang Studios|RenderDragon|2017|<details><summary>Expand</summary>- [Frame Analysis - RTX](https://alain.xyz/blog/frame-analysis-minecraftrtx)<br>- [Microsoft Game Dev](https://www.youtube.com/watch?v=PyIgZTE66eM)<br>- [DF's Minecraft RTX Deep Dive](https://www.youtube.com/watch?v=TVtSsJf86_Y)<br>- [GTC 2020](https://developer.nvidia.com/gtc/2020/video/s22677)<br></details>|
 |Mortal Kombat 11|NetherRealm Studios|UE3|2019|<details><summary>Expand</summary>- [Frame Analysis](https://alain.xyz/blog/frame-analysis-mk11)<br></details>|
+|Halo Infinite|343 Industries|Slipspace|2021|<details><summary>Expand</summary>- [One Frame in 'Halo Infinite'](https://www.gdcvault.com/play/1027657/One-Frame-in-Halo-Infinite)<br></details>|
 
 ## References
 - [X] [Behind the Pretty Frames](https://mamoniem.com/category/behind-the-pretty-frames/)
