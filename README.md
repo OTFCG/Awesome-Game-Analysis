@@ -53,8 +53,7 @@ A collection of video game tech analysis resources, covers blogs, articles, pres
 |Fallout 3|Bethesda Game Studios|Gamebryo|2008|<details><summary>Expand</summary>- [Game Art Tricks](http://simonschreibt.de/gat/fallout-3-edges/)<br></details>|
 |Fallout 4|Bethesda Game Studios|Creation Engine|2015|<details><summary>Expand</summary>- [Game Art Tricks](http://simonschreibt.de/gat/fallout4-wasteland-eyes/)<br>- [Game Art Tricks](http://simonschreibt.de/gat/fallout-4-the-mushroom-case/)<br></details>|
 |Digital Combat Simulator|Eagle Dynamics|Internal|2008|<details><summary>Expand</summary>- [DCS Frame Analysis](https://blog.thomaspoulet.fr/dcs-frame/)<br></details>|
-
-
+|COD: Advanced Warfare|Sledgehammer Games|Internal|2014|<details><summary>Expand</summary>- [Next Generation Post Processing](https://www.iryoku.com/next-generation-post-processing-in-call-of-duty-advanced-warfare)<br></details>|
 
 ## References
 - [X] [Behind the Pretty Frames](https://mamoniem.com/category/behind-the-pretty-frames/)
@@ -67,7 +66,7 @@ A collection of video game tech analysis resources, covers blogs, articles, pres
 - [X] [Silent’s Blog](https://cookieplmonster.github.io/)
 - [X] [Nathan Gordon's Blog](https://medium.com/@gordonnl)
 - [X] [Thomas' Blog](https://blog.thomaspoulet.fr)
-- [ ] [IRYOKU's Blog](https://www.iryoku.com/)
+- [X] [IRYOKU's Blog](https://www.iryoku.com/)
 - [ ] [Game Art Tricks](https://simonschreibt.de/game-art-tricks/)
 - [ ] [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor)
 - [ ] [Crytek Presentations](https://archive.org/download/crytek_presentations)
