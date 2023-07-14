@@ -52,6 +52,8 @@ A collection of video game tech analysis resources, covers blogs, articles, pres
 |Diablo 3|Blizzard Albany, Team 3|Internal|2012|<details><summary>Expand</summary>- [Game Art Tricks](http://simonschreibt.de/gat/diablo-3-wings-of-angels/)<br>- [Game Art Tricks](http://simonschreibt.de/gat/diablo-3-trees/)<br/> - [Game Art Tricks](http://simonschreibt.de/gat/diablo-3-resource-bubbles/)<br></details>|
 |Fallout 3|Bethesda Game Studios|Gamebryo|2008|<details><summary>Expand</summary>- [Game Art Tricks](http://simonschreibt.de/gat/fallout-3-edges/)<br></details>|
 |Fallout 4|Bethesda Game Studios|Creation Engine|2015|<details><summary>Expand</summary>- [Game Art Tricks](http://simonschreibt.de/gat/fallout4-wasteland-eyes/)<br>- [Game Art Tricks](http://simonschreibt.de/gat/fallout-4-the-mushroom-case/)<br></details>|
+|Digital Combat Simulator|Eagle Dynamics|Internal|2008|<details><summary>Expand</summary>- [DCS Frame Analysis](https://blog.thomaspoulet.fr/dcs-frame/)<br></details>|
+
 
 
 ## References
@@ -64,7 +66,7 @@ A collection of video game tech analysis resources, covers blogs, articles, pres
 - [X] [Graphics Studies](https://www.adriancourreges.com/blog/)
 - [X] [Silent’s Blog](https://cookieplmonster.github.io/)
 - [X] [Nathan Gordon's Blog](https://medium.com/@gordonnl)
-- [ ] [Thomas' Blog](https://blog.thomaspoulet.fr)
+- [X] [Thomas' Blog](https://blog.thomaspoulet.fr)
 - [ ] [IRYOKU's Blog](https://www.iryoku.com/)
 - [ ] [Game Art Tricks](https://simonschreibt.de/game-art-tricks/)
 - [ ] [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor)
