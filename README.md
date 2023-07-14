@@ -49,7 +49,7 @@ A collection of video game tech analysis resources, covers blogs, articles, pres
 |Batman: Arkham Knight|Rocksteady|UE3|2015|<details><summary>Expand</summary>- [Unmasking Arkham Knight](http://morad.in/2020/04/03/unmasking-arkham-knight/)<br></details>|
 |Deus Ex: Human Revolution|Eidos-Montréal|Crystal|2011|<details><summary>Expand</summary>- [Graphics Study](https://www.adriancourreges.com/blog/2015/03/10/deus-ex-human-revolution-graphics-study/)<br>- [GDC 2012](https://ubm-twvideo01.s3.amazonaws.com/o1/vault/gdc2012/slides/Programming%20Track/DeSmedt_Matthijs_Deus%20Ex%20Is.pdf)<br>- [Reimagining a Classic: The Design](https://gdcvault.com/play/1015489/Reimagining-a-Classic-The-Design)<br>- [Building the Story-driven Experience](https://www.gdcvault.com/play/1015027/Building-the-Story-driven-Experience)<br></details>|
 |Supreme Commander|Gas Powered Games|Internal|2007|<details><summary>Expand</summary>- [Supreme Commander Graphics Study](https://www.adriancourreges.com/blog/2015/06/23/supreme-commander-graphics-study/)<br>- [Wiki of Height Map](https://supcom.fandom.com/wiki/Height-_/_Texturemaps_with_image_editing_tools)<br>- [GameSpot's article](http://web.archive.org/web/20070807085133/http://www.gamespot.com/features/totalstory/)<br></details>|
-
+|Diablo 3|Blizzard Albany, Team 3|Internal|2012|<details><summary>Expand</summary>- [Game Art Tricks](http://simonschreibt.de/gat/diablo-3-wings-of-angels/)<br>- [Game Art Tricks](http://simonschreibt.de/gat/diablo-3-trees/)<br/> - [Game Art Tricks](http://simonschreibt.de/gat/diablo-3-resource-bubbles/)|
 
 ## References
 - [X] [Behind the Pretty Frames](https://mamoniem.com/category/behind-the-pretty-frames/)
