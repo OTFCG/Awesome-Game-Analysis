@@ -47,13 +47,26 @@ A collection of video game tech analysis resources, covers blogs, articles, pres
 |The Witness|Thekla|Internal|2016|<details><summary>Expand</summary>- [The Witness Frame Part 1](https://blog.thomaspoulet.fr/the-witness-frame-part-1)<br></details>|
 |Waves 2: Notorious|Rob "Squid" Hale|UE4|2015|<details><summary>Expand</summary>- [A Frame of Waves 2](https://pixelalchemy.dev/posts/a-frame-of-waves-2)<br></details>|
 |Batman: Arkham Knight|Rocksteady|UE3|2015|<details><summary>Expand</summary>- [Unmasking Arkham Knight](http://morad.in/2020/04/03/unmasking-arkham-knight/)<br></details>|
-|Deus Ex: Human Revolution|Eidos-Montréal|Crystal|2011|<details><summary>Expand</summary>- [Graphics Study](https://www.adriancourreges.com/blog/2015/03/10/deus-ex-human-revolution-graphics-study/)<br>- [GDC 2012](https://ubm-twvideo01.s3.amazonaws.com/o1/vault/gdc2012/slides/Programming%20Track/DeSmedt_Matthijs_Deus%20Ex%20Is.pdf)<br>- [Reimagining a Classic: The Design](https://gdcvault.com/play/1015489/Reimagining-a-Classic-The-Design)<br>- [Building the Story-driven Experience](https://www.gdcvault.com/play/1015027/Building-the-Story-driven-Experience)<br></details>|
+|Deus Ex: Human Revolution|Eidos-Montréal|Crystal|2011|<details><summary>Expand</summary>- [Graphics Study](https://www.adriancourreges.com/blog/2015/03/10/deus-ex-human-revolution-graphics-study/)<br>- [GDC 2012](https://ubm-twvideo01.s3.amazonaws.com/o1/vault/gdc2012/slides/Programming%20Track/DeSmedt_Matthijs_Deus%20Ex%20Is.pdf)<br>- [Reimagining a Classic: The Design](https://gdcvault.com/play/1015489/Reimagining-a-Classic-The-Design)<br>- [Building the Story-driven Experience](https://www.gdcvault.com/play/1015027/Building-the-Story-driven-Experience)<br>- [Game Art Tricks: Alpha Terrain](https://simonschreibt.de/gat/deus-ex-alpha-terrain/)</details>|
 |Supreme Commander|Gas Powered Games|Internal|2007|<details><summary>Expand</summary>- [Supreme Commander Graphics Study](https://www.adriancourreges.com/blog/2015/06/23/supreme-commander-graphics-study/)<br>- [Wiki of Height Map](https://supcom.fandom.com/wiki/Height-_/_Texturemaps_with_image_editing_tools)<br>- [GameSpot's article](http://web.archive.org/web/20070807085133/http://www.gamespot.com/features/totalstory/)<br></details>|
 |Diablo 3|Blizzard Albany, Team 3|Internal|2012|<details><summary>Expand</summary>- [Game Art Tricks](http://simonschreibt.de/gat/diablo-3-wings-of-angels/)<br>- [Game Art Tricks](http://simonschreibt.de/gat/diablo-3-trees/)<br/> - [Game Art Tricks](http://simonschreibt.de/gat/diablo-3-resource-bubbles/)<br></details>|
 |Fallout 3|Bethesda Game Studios|Gamebryo|2008|<details><summary>Expand</summary>- [Game Art Tricks](http://simonschreibt.de/gat/fallout-3-edges/)<br></details>|
 |Fallout 4|Bethesda Game Studios|Creation Engine|2015|<details><summary>Expand</summary>- [Game Art Tricks](http://simonschreibt.de/gat/fallout4-wasteland-eyes/)<br>- [Game Art Tricks](http://simonschreibt.de/gat/fallout-4-the-mushroom-case/)<br></details>|
 |Digital Combat Simulator|Eagle Dynamics|Internal|2008|<details><summary>Expand</summary>- [DCS Frame Analysis](https://blog.thomaspoulet.fr/dcs-frame/)<br></details>|
 |COD: Advanced Warfare|Sledgehammer Games|Internal|2014|<details><summary>Expand</summary>- [Next Generation Post Processing](https://www.iryoku.com/next-generation-post-processing-in-call-of-duty-advanced-warfare)<br></details>|
+|Jedi: Fallen Order|Respawn|UE4|2019|<details><summary>Expand</summary>- [Analysis of Water Effects](https://simonschreibt.de/gat/jedi-fallen-order-splishy-splashy/)<br></details>|
+|Divinity: Original Sin 2|Larian Studios|Divinity Engine|2017|<details><summary>Expand</summary>- [Divine Fire: A deep dive into the VFX](https://simonschreibt.de/gat/divine-fire/)<br></details>|
+|Star Wars Battlefront II|EA DICE, Criterion Games, Motive Studios|Frostbite|2017|<details><summary>Expand</summary>- [Battlefront II Layered Explosion](https://simonschreibt.de/gat/battlefront-ii-layered-explosion/)<br></details>|
+|Mafia II|2K Czech|Internal|2010|<details><summary>Expand</summary>- [Hat vs Hair](https://simonschreibt.de/gat/mafia-ii-hat-vs-hair/)<br></details>|
+|Zelda: Breath of the Wild|Nintendo|Internal|2017|<details><summary>Expand</summary>- [The Bling-Bling Offset](https://simonschreibt.de/gat/zelda-the-bling-bling-offset/)<br></details>|
+|Assassin’s Creed: Black Flag|Ubisoft Montreal|AnvilNext|2013|<details><summary>Expand</summary>- [Black Flag Waterplane](https://simonschreibt.de/gat/black-flag-waterplane/)<br>- [GameDev's Tech Talk](http://www.gamedev.net/topic/652966-assassins-creed-iv-black-flag-ocean-technology-talk/)<br>- [FxGuide's Article](https://www.fxguide.com/featured/5-things-you-need-to-know-about-the-tech-of-assassins-creed-iv-black-flag/)<br>- [Gamer Nexus's Graphics Analysis](http://www.gamersnexus.net/gg/1205-assassins-creed-4-black-flag-graphics-analysis)<br></details>|
+|Alien Isolation|Creative Assembly|Custom|2014|<details><summary>Expand</summary>- [Alien vs Wolfenstein: Cutting Torch](https://simonschreibt.de/gat/alien-vs-wolfenstein-cutting-torch/)<br>- [Inside Alien Isolation Graphics](https://gen-graphics.blogspot.com/2018/01/inside-alien-isolation-graphics.html)<br>- [High Tech Fear: Alien Isolation](https://community.amd.com/community/gaming/blog/2015/05/12/high-tech-fear--alien-isolation)<br></details>|
+|Wolfenstein: The New Order|MachineGames|id Tech 5|2014|<details><summary>Expand</summary>- [Alien vs Wolfenstein: Cutting Torch](https://simonschreibt.de/gat/alien-vs-wolfenstein-cutting-torch/)<br></details>|
+|RIME|Tequila Works|UE4|2017|<details><summary>Expand</summary>- [Stylized VFX in RIME](https://simonschreibt.de/gat/stylized-vfx-in-rime/)<br></details>|
+|Dark Maus|Daniel Wright|Internal|2016|<details><summary>Expand</summary>- [Dark Maus: Topdown Trees](http://simonschreibt.de/gat/darkmaus-topdown-trees/)<br></details>|
+
+
+
 
 ## References
 - [X] [Behind the Pretty Frames](https://mamoniem.com/category/behind-the-pretty-frames/)
@@ -67,7 +80,7 @@ A collection of video game tech analysis resources, covers blogs, articles, pres
 - [X] [Nathan Gordon's Blog](https://medium.com/@gordonnl)
 - [X] [Thomas' Blog](https://blog.thomaspoulet.fr)
 - [X] [IRYOKU's Blog](https://www.iryoku.com/)
-- [ ] [Game Art Tricks](https://simonschreibt.de/game-art-tricks/)
+- [X] [Game Art Tricks](https://simonschreibt.de/game-art-tricks/)
 - [ ] [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor)
 - [ ] [Crytek Presentations](https://archive.org/download/crytek_presentations)
 - [ ] [r/TheMakingOfGames](https://www.reddit.com/r/TheMakingOfGames/)
