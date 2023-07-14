@@ -80,7 +80,7 @@ A collection of video game tech analysis resources, covers blogs, articles, pres
 - [X] [Nathan Gordon's Blog](https://medium.com/@gordonnl)
 - [X] [Thomas' Blog](https://blog.thomaspoulet.fr)
 - [X] [IRYOKU's Blog](https://www.iryoku.com/)
-- [X] [Game Art Tricks](https://simonschreibt.de/game-art-tricks/)
+- [ ] [Game Art Tricks](https://simonschreibt.de/game-art-tricks/)
 - [ ] [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor)
 - [ ] [Crytek Presentations](https://archive.org/download/crytek_presentations)
 - [ ] [r/TheMakingOfGames](https://www.reddit.com/r/TheMakingOfGames/)
