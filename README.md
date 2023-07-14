@@ -63,7 +63,7 @@ A collection of video game tech analysis resources, covers blogs, articles, pres
 - [X] [The Code Corsair](https://www.elopezr.com/)
 - [X] [Graphics Studies](https://www.adriancourreges.com/blog/)
 - [X] [Silent’s Blog](https://cookieplmonster.github.io/)
-- [ ] [Nathan Gordon's Blog](https://medium.com/@gordonnl)
+- [X] [Nathan Gordon's Blog](https://medium.com/@gordonnl)
 - [ ] [Thomas' Blog](https://blog.thomaspoulet.fr)
 - [ ] [IRYOKU's Blog](https://www.iryoku.com/)
 - [ ] [Game Art Tricks](https://simonschreibt.de/game-art-tricks/)
