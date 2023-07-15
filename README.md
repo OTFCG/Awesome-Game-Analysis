@@ -74,7 +74,7 @@ A collection of video game tech analysis resources, covers blogs, articles, pres
 |Binding of Isaac|Edmund McMillen, Florian Himsl|Flash|2011|<details><summary>Expand</summary>- [Binding of Isaac Composition](http://simonschreibt.de/gat/binding-of-isaac-composition/)<br></details>|
 |1nsane|Invictus Games|Internal|2000|<details><summary>Expand</summary>- [1nsane Carpet 2 Repetitive Worlds](http://simonschreibt.de/gat/1nsane-carpet-2-repetitive-worlds/)<br></details>|
 |Starcraft 2|Blizzard Entertainment|SC2 Engine|2010|<details><summary>Expand</summary>- [Starcraft 2 Localization](http://simonschreibt.de/gat/starcraft-2-localization/)<br></details>|
-|Bioshock|2K Boston, 2K Australia|UE2.5|2007|<details><summary>Expand</summary>- [Bioshock Glossiness](http://simonschreibt.de/gat/bioshock-glossiness/)<br></details>|
+|Bioshock|2K Boston, 2K Australia|UE2.5|2007|<details><summary>Expand</summary>- [Bioshock Glossiness](http://simonschreibt.de/gat/bioshock-glossiness/)<br>- [The Cutting Room Floor](https://tcrf.net/BioShock)</details>|
 |007 Legends : Moonraker|Eurocom|UE3|2012|<details><summary>Expand</summary>- [007 Legends The World](http://simonschreibt.de/gat/007-legends-the-world/)<br></details>|
 |Dead Space 3|Visceral Games|Frostbite 3|2013|<details><summary>Expand</summary>- [Dead Space 3 Diffuse Reflections](http://simonschreibt.de/gat/dead-space-3-diffuse-reflections/)<br></details>|
 |Metal Gear Rising|Platinum qGames|Internal|2013|<details><summary>Expand</summary>- [Metal Gear Rising Slicing](http://simonschreibt.de/gat/metal-gear-rising-slicing/)<br></details>|
