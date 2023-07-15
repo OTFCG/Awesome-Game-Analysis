@@ -5,7 +5,6 @@
 - [ ] new heading: ##Engine, same as the ##Games but provide the engine tech analysis collection.
 - [ ] refine some of the link text in brackets which is too trivial.
 - [ ] move to [otfcg.github.io](https://otfcg.github.io/)
-- [ ] merge the single game to one line entry
 
 ## Complete Collection
 - [X] [Behind the Pretty Frames](https://mamoniem.com/category/behind-the-pretty-frames/)
@@ -20,9 +19,9 @@
 - [X] [Thomas' Blog](https://blog.thomaspoulet.fr)
 - [X] [IRYOKU's Blog](https://www.iryoku.com/)
 - [X] [Game Art Tricks](https://simonschreibt.de/game-art-tricks/)
+- [X] [GDC's Programming Talks](https://www.youtube.com/playlist?list=PL2e4mYbwSTbaw1l65rE0Gv6_B9ctOzYyW)
 - [ ] [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor)
 - [ ] [Crytek Presentations](https://archive.org/download/crytek_presentations)
 - [ ] [r/TheMakingOfGames](https://www.reddit.com/r/TheMakingOfGames/)
 - [ ] [r/videogamescience](https://www.reddit.com/r/videogamescience/)
 - [ ] [GDC Vault](https://www.gdcvault.com/)
-- [ ] [GDC's Programming Talks](https://www.youtube.com/playlist?list=PL2e4mYbwSTbaw1l65rE0Gv6_B9ctOzYyW)
