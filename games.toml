@@ -1,0 +1,841 @@
+title = "Analysis - Games"
+
+[Doom]
+Developer = "id Software"
+Engine = "id Tech 6"
+Year = 2016
+Analysis = [ [ "The Devil is in the details", "https://advances.realtimerendering.com/s2016/Siggraph2016_idTech6.pdf",], [ "Graphics Study", "https://www.adriancourreges.com/blog/2016/09/09/doom-2016-graphics-study/",], [ "DigitalFoundry Interview", "https://www.eurogamer.net/digitalfoundry-2016-doom-tech-interview",], [ "GamesBeat Interview", "https://venturebeat.com/games/the-definitive-interview-on-the-making-of-doom/",], [ "DSOGaming Interview", "https://www.dsogaming.com/interviews/id-software-tech-interview-dx12-vulkan-mega-textures-pbr-global-illumination-more/",], [ "QuakeCon P1", "https://www.twitch.tv/videos/81946710",], [ "QuakeCon P2", "https://www.twitch.tv/videos/81950107",],]
+
+
+
+["Doom Eternal"]
+Developer = "id Software"
+Engine = "id Tech 7"
+Year = 2020
+Analysis = [ [ "Simon Coenen's Blog", "https://simoncoenen.com/blog/programming/graphics/DoomEternalStudy.html",],]
+
+
+
+["Death Stranding"]
+Developer = "Kojima Productions"
+Engine = "Decima"
+Year = 2019
+Analysis = [ [ "Behind the Pretty Frames", "https://mamoniem.com/behind-the-pretty-frames-death-stranding/",],]
+
+
+
+["Diablo IV"]
+Developer = "Blizzard Albany, Team 3"
+Engine = "Internal"
+Year = 2023
+Analysis = [ [ "Behind the Pretty Frames", "https://mamoniem.com/behind-the-pretty-frames-diablo-iv/",], [ "Blizzard", "https://news.blizzard.com/en-us/diablo4/23964183/peeling-back-the-varnish-the-graphics-of-diablo-iv",],]
+
+
+
+["Resident-evil II Re"]
+Developer = "Capcom Division 1"
+Engine = "RE Engine"
+Year = 2019
+Analysis = [ [ "Behind the Pretty Frames", "https://mamoniem.com/behind-the-pretty-frames-resident-evil/",], [ "Anton Schreiner's Blog", "https://aschrein.github.io/2019/08/01/re2_breakdown.html",],]
+
+
+
+["God of war 4"]
+Developer = "Santa Monica Studio"
+Engine = "Internal"
+Year = 2018
+Analysis = [ [ "Behind the Pretty Frames", "https://mamoniem.com/behind-the-pretty-frames-god-of-war/",],]
+
+
+
+["Elden Ring"]
+Developer = "FromSoftware"
+Engine = "Internal"
+Year = 2022
+Analysis = [ [ "Behind the Pretty Frames", "https://mamoniem.com/behind-the-pretty-frames-elden-ring/",],]
+
+
+
+["Red Dead Redemption 2"]
+Developer = "Rockstar San Diego"
+Engine = "RAGE"
+Year = 2018
+Analysis = [ [ "imgeself's Blog", "https://imgeself.github.io/posts/2020-06-19-graphics-study-rdr2/",],]
+
+
+
+["The Witcher 3"]
+Developer = "CD Projekt Red"
+Engine = "RED Engine 3"
+Year = 2015
+Analysis = [ [ "Mateusz's Blog", "https://astralcode.blogspot.com/2018/11/reverse-engineering-rendering-of.html",], [ "'Witcher 3' on the Nintendo Switch", "https://www.gdcvault.com/play/1026635/-Witcher-3-on-the",],]
+
+
+
+["GTA 5"]
+Developer = "Rockstar North"
+Engine = "RAGE"
+Year = 2013
+Analysis = [ [ "Game Art Tricks: Underestimated Glow", "https://simonschreibt.de/gat/gta-v-underestimated-glow/",], [ "Game Art Tricks: The Wormy Fountain", "https://simonschreibt.de/gat/gta-v-wormy-fountain/",], [ "Graphics Study", "https://www.adriancourreges.com/blog/2015/11/02/gta-v-graphics-study/",], [ "NVIDIA Performance Guide", "https://www.nvidia.com/en-us/geforce/news/grand-theft-auto-v-pc-graphics-and-performance-guide/",],]
+
+
+
+["Destiny 2"]
+Developer = "Bungie"
+Engine = "Tiger Engine"
+Year = 2017
+Analysis = [ [ "GDC 2018: Physically Inspired Shading in 'Destiny 2'", "https://www.gdcvault.com/play/1025290/Translating-Art-into-Technology-Physically",], [ "Destiny's Multithreaded Rendering Architecture", "https://www.youtube.com/watch?v=0nTDFLMLX9k",], [ "GDC 17: Destiny Shader Pipeline", "https://www.gdcvault.com/play/1033914/-Destiny-Shader",],]
+
+
+
+["Batman : Arkham City"]
+Developer = "Rocksteady Studios"
+Engine = "UE3"
+Year = 2011
+Analysis = [ [ "Froyok's Blog", "https://www.froyok.fr/blog/2012-09-breakdown-batman-arkham-city/",],]
+
+
+
+["Assassin's Creed II"]
+Developer = "Ubisoft Montréal"
+Engine = "Anvil Engine"
+Year = 2009
+Analysis = [ [ "Froyok's Blog", "https://www.froyok.fr/blog/2015-12-breakdown-assassins-creed-ii-2/",],]
+
+
+
+["Shadow of the Colossus"]
+Developer = "Japan Studio, Team Ico"
+Engine = "Internal"
+Year = 2005
+Analysis = [ [ "Froyok's Blog", "https://www.froyok.fr/blog/2012-10-breakdown-shadow-of-the-colossus-pal-ps2/page.html",],]
+
+
+
+["Pokémon X/Y"]
+Developer = "Game Freak"
+Engine = "Internal"
+Year = 2013
+Analysis = [ [ "Game Art Tricks", "https://simonschreibt.de/gat/pokemon-rapidash/",],]
+
+
+
+["Metal Gear Solid V"]
+Developer = "Kojima Productions"
+Engine = "Fox Engine"
+Year = 2015
+Analysis = [ [ "Graphics Study", "https://www.adriancourreges.com/blog/2017/12/15/mgs-v-graphics-study/",], [ "GDC 13", "https://www.gdcvault.com/play/1018086/Photorealism-Through-the-Eyes-of",], [ "DigitalFoundry Tech Analysis", "https://www.eurogamer.net/digitalfoundry-tech-analysis-mgs5-fox-engine",], [ "NVIDIA Performance Guide", "https://www.nvidia.com/en-us/geforce/news/metal-gear-solid-v-the-phantom-pain-graphics-and-performance-guide/",],]
+
+
+
+[Overwatch]
+Developer = "Blizzard, Iron Galaxy"
+Engine = "Internal"
+Year = 2016
+Analysis = [ [ "Alain Galvan's Blog", "https://alain.xyz/blog/frame-analysis-overwatch",],]
+
+
+
+["Metro Exodus"]
+Developer = "4A Games"
+Engine = "4A Engine"
+Year = 2019
+Analysis = [ [ "Anton Schreiner's Blog", "https://aschrein.github.io/2019/08/11/metro_breakdown.html",], [ "Balázs Török's Blog", "http://morad.in/2019/03/27/observations-about-the-rendering-of-metro-exodus/",],]
+
+
+
+["Cyberpunk 2077"]
+Developer = "CD Projekt Red"
+Engine = "REDengine 4"
+Year = 2020
+Analysis = [ [ "c0de517e", "https://c0de517e.blogspot.com/2020/12/hallucinations-re-rendering-of.html",], [ "Hang Zhang's Blog", "https://zhangdoa.com/rendering-analysis-cyberpunk-2077",], [ "Shader Execution Reordering", "https://chipsandcheese.com/2023/05/16/shader-execution-reordering-nvidia-tackles-divergence/",],]
+
+
+
+["Zelda - Wind Waker"]
+Developer = "Nintendo EAD"
+Engine = "Internal"
+Year = 2002
+Analysis = [ [ "Nathan Gordon's Blog", "https://medium.com/@gordonnl/wind-waker-graphics-analysis-a0b575a31127",], [ "Soenke Seidel's Blog", "https://polycount.com/discussion/104415/zelda-wind-waker-tech-and-texture-analysis-picture-heavy",], [ "Game Art Tricks", "http://simonschreibt.de/gat/zelda-wind-waker-hyrule-travel-guide/",],]
+
+
+
+["Doom 3"]
+Developer = "id Software"
+Engine = "id Tech 4"
+Year = 2004
+Analysis = [ [ "Game Art Tricks", "https://simonschreibt.de/gat/gat-doom-3-hdui/",], [ "Game Art Tricks", "http://simonschreibt.de/gat/doom-3-volumetric-glow/",],]
+
+
+
+[Control]
+Developer = "Remedy"
+Engine = "Northlight Engine"
+Year = 2019
+Analysis = [ [ "Frame Analysis", "https://alain.xyz/blog/frame-analysis-control",],]
+
+
+
+["Minecraft (Bedrock)"]
+Developer = "Mojang Studios"
+Engine = "RenderDragon"
+Year = 2017
+Analysis = [ [ "Frame Analysis - RTX", "https://alain.xyz/blog/frame-analysis-minecraftrtx",], [ "Microsoft Game Dev", "https://www.youtube.com/watch?v=PyIgZTE66eM",], [ "DF's Minecraft RTX Deep Dive", "https://www.youtube.com/watch?v=TVtSsJf86_Y",], [ "GTC 2020", "https://developer.nvidia.com/gtc/2020/video/s22677",],]
+
+
+
+["Mortal Kombat 11"]
+Developer = "NetherRealm Studios"
+Engine = "UE3"
+Year = 2019
+Analysis = [ [ "Frame Analysis", "https://alain.xyz/blog/frame-analysis-mk11",],]
+
+
+
+["Halo Infinite"]
+Developer = "343 Industries"
+Engine = "Slipspace"
+Year = 2021
+Analysis = [ [ "One Frame in 'Halo Infinite'", "https://www.gdcvault.com/play/1027657/One-Frame-in-Halo-Infinite",],]
+
+
+
+["Rise of the Tomb Raider"]
+Developer = "Crystal Dynamics"
+Engine = "Foundation Engine"
+Year = 2015
+Analysis = [ [ "The Code Corsair", "https://www.elopezr.com/the-rendering-of-rise-of-the-tomb-raider/",],]
+
+
+
+["Mafia: Definitive Edition"]
+Developer = "Hangar 13"
+Engine = "Mafia III engine"
+Year = 2020
+Analysis = [ [ "The Code Corsair", "https://www.elopezr.com/the-rendering-of-mafia-definitive-edition/",],]
+
+
+
+["Jurassic World: Evolution"]
+Developer = "Frontier"
+Engine = "Cobra"
+Year = 2018
+Analysis = [ [ "The Code Corsair", "https://www.elopezr.com/the-rendering-of-jurassic-world-evolution/",],]
+
+
+
+["Middle-earth: Shadow of Mordor"]
+Developer = "Monolith Productions"
+Engine = "LithTech Jupiter EX"
+Year = 2014
+Analysis = [ [ "The Code Corsair", "https://www.elopezr.com/the-rendering-of-middle-earth-shadow-of-mordor/",],]
+
+
+
+["Castlevania: Lords of Shadow 2"]
+Developer = "MercurySteam"
+Engine = "Mercury"
+Year = 2014
+Analysis = [ [ "The Code Corsair", "https://www.elopezr.com/castlevania-lords-of-shadow-2-graphics-study/",],]
+
+
+
+["God of War III"]
+Developer = "Santa Monica Studio"
+Engine = "Internal"
+Year = 2010
+Analysis = [ [ "Morphological Antialiasing", "https://www.realtimerendering.com/blog/morphological-antialiasing-in-god-of-war-iii/",], [ "More on God of War III Antialiasing", "https://www.realtimerendering.com/blog/more-on-god-of-war-iii-antialiasing/",], [ "DF article", "https://www.eurogamer.net/digitalfoundry-mlaa-360-pc-article",],]
+
+
+
+[Teardown]
+Developer = "Tuxedo Labs"
+Engine = "Internal"
+Year = 2020
+Analysis = [ [ "Frame Teardown", "https://acko.net/blog/teardown-frame-teardown/",], [ "Teardown Breakdown", "https://juandiegomontoya.github.io/teardown_breakdown.html",],]
+
+
+
+["A Plague Tale: Innocence"]
+Developer = "Asobo Studio"
+Engine = "Internal"
+Year = 2019
+Analysis = [ [ "Dissecting A Plague Tale: Innocence", "http://morad.in/2019/06/16/dissecting-a-plague-tale-innocence/",],]
+
+
+
+["Ni no Kuni II"]
+Developer = "Level-5"
+Engine = "Internal"
+Year = 2018
+Analysis = [ [ "Thomas' Blog", "https://blog.thomaspoulet.fr/ninokuni2-frame/",],]
+
+
+
+["Yakuza 0"]
+Developer = "Ryu Ga Gotoku Studio"
+Engine = "Dragon Engine"
+Year = 2015
+Analysis = [ [ "Fixing attempts for Yakuza 0", "https://cookieplmonster.github.io/2019/02/24/yakuza-0-fixing-attempts/",],]
+
+
+
+["Slime Rancher"]
+Developer = "Monomi Park"
+Engine = "Unity"
+Year = 2017
+Analysis = [ [ "A frame of Slime Rancher", "https://pixelalchemy.dev/posts/a-frame-of-slime-rancher/",],]
+
+
+
+["Shadow Tactics: Blades of the Shogun"]
+Developer = "Mimimi Productions"
+Engine = "Unity"
+Year = 2016
+Analysis = [ [ "Kosmonaut's Blog", "https://kosmonautblog.wordpress.com/2017/01/09/shadow-tactics-rendering-breakdown/",],]
+
+
+
+["The Witness"]
+Developer = "Thekla"
+Engine = "Internal"
+Year = 2016
+Analysis = [ [ "The Witness Frame Part 1", "https://blog.thomaspoulet.fr/the-witness-frame-part-1",],]
+
+
+
+["Waves 2: Notorious"]
+Developer = "Rob \"Squid\" Hale"
+Engine = "UE4"
+Year = 2015
+Analysis = [ [ "A Frame of Waves 2", "https://pixelalchemy.dev/posts/a-frame-of-waves-2",],]
+
+
+
+["Batman: Arkham Knight"]
+Developer = "Rocksteady"
+Engine = "UE3"
+Year = 2015
+Analysis = [ [ "Unmasking Arkham Knight", "http://morad.in/2020/04/03/unmasking-arkham-knight/",],]
+
+
+
+["Deus Ex: Human Revolution"]
+Developer = "Eidos-Montréal"
+Engine = "Crystal"
+Year = 2011
+Analysis = [ [ "Graphics Study", "https://www.adriancourreges.com/blog/2015/03/10/deus-ex-human-revolution-graphics-study/",], [ "GDC 2012", "https://ubm-twvideo01.s3.amazonaws.com/o1/vault/gdc2012/slides/Programming%20Track/DeSmedt_Matthijs_Deus%20Ex%20Is.pdf",], [ "Reimagining a Classic: The Design", "https://gdcvault.com/play/1015489/Reimagining-a-Classic-The-Design",], [ "Building the Story-driven Experience", "https://www.gdcvault.com/play/1015027/Building-the-Story-driven-Experience",], [ "Game Art Tricks: Alpha Terrain", "https://simonschreibt.de/gat/deus-ex-alpha-terrain/",],]
+
+
+
+["Supreme Commander"]
+Developer = "Gas Powered Games"
+Engine = "Internal"
+Year = 2007
+Analysis = [ [ "Supreme Commander Graphics Study", "https://www.adriancourreges.com/blog/2015/06/23/supreme-commander-graphics-study/",], [ "Wiki of Height Map", "https://supcom.fandom.com/wiki/Height-_/_Texturemaps_with_image_editing_tools",], [ "GameSpot's article", "http://web.archive.org/web/20070807085133/http://www.gamespot.com/features/totalstory/",],]
+
+
+
+["Diablo 3"]
+Developer = "Blizzard Albany, Team 3"
+Engine = "Internal"
+Year = 2012
+Analysis = [ [ "Game Art Tricks", "http://simonschreibt.de/gat/diablo-3-wings-of-angels/",], [ "Game Art Tricks", "http://simonschreibt.de/gat/diablo-3-trees/",], [ "Game Art Tricks", "http://simonschreibt.de/gat/diablo-3-resource-bubbles/",], [ "Game Art Tricks", "http://simonschreibt.de/gat/diablo-3-the-sacred-spiderweb/",],]
+
+
+
+["Fallout 3"]
+Developer = "Bethesda Game Studios"
+Engine = "Gamebryo"
+Year = 2008
+Analysis = [ [ "Game Art Tricks", "http://simonschreibt.de/gat/fallout-3-edges/",],]
+
+
+
+["Fallout 4"]
+Developer = "Bethesda Game Studios"
+Engine = "Creation Engine"
+Year = 2015
+Analysis = [ [ "Game Art Tricks", "http://simonschreibt.de/gat/fallout4-wasteland-eyes/",], [ "Game Art Tricks", "http://simonschreibt.de/gat/fallout-4-the-mushroom-case/",],]
+
+
+
+["Digital Combat Simulator"]
+Developer = "Eagle Dynamics"
+Engine = "Internal"
+Year = 2008
+Analysis = [ [ "DCS Frame Analysis", "https://blog.thomaspoulet.fr/dcs-frame/",],]
+
+
+
+["COD: Advanced Warfare"]
+Developer = "Sledgehammer Games"
+Engine = "Internal"
+Year = 2014
+Analysis = [ [ "Next Generation Post Processing", "https://www.iryoku.com/next-generation-post-processing-in-call-of-duty-advanced-warfare",],]
+
+
+
+["Jedi: Fallen Order"]
+Developer = "Respawn"
+Engine = "UE4"
+Year = 2019
+Analysis = [ [ "Analysis of Water Effects", "https://simonschreibt.de/gat/jedi-fallen-order-splishy-splashy/",],]
+
+
+
+["Divinity: Original Sin 2"]
+Developer = "Larian Studios"
+Engine = "Divinity Engine"
+Year = 2017
+Analysis = [ [ "Divine Fire: A deep dive into the VFX", "https://simonschreibt.de/gat/divine-fire/",],]
+
+
+
+["Star Wars Battlefront II"]
+Developer = "EA DICE, Criterion Games, Motive Studios"
+Engine = "Frostbite"
+Year = 2017
+Analysis = [ [ "Battlefront II Layered Explosion", "https://simonschreibt.de/gat/battlefront-ii-layered-explosion/",],]
+
+
+
+["Mafia II"]
+Developer = "2K Czech"
+Engine = "Internal"
+Year = 2010
+Analysis = [ [ "Hat vs Hair", "https://simonschreibt.de/gat/mafia-ii-hat-vs-hair/",],]
+
+
+
+["Zelda: Breath of the Wild"]
+Developer = "Nintendo"
+Engine = "Internal"
+Year = 2017
+Analysis = [ [ "The Bling-Bling Offset", "https://simonschreibt.de/gat/zelda-the-bling-bling-offset/",],]
+
+
+
+["Assassin’s Creed: Black Flag"]
+Developer = "Ubisoft Montreal"
+Engine = "AnvilNext"
+Year = 2013
+Analysis = [ [ "Black Flag Waterplane", "https://simonschreibt.de/gat/black-flag-waterplane/",], [ "GameDev's Tech Talk", "http://www.gamedev.net/topic/652966-assassins-creed-iv-black-flag-ocean-technology-talk/",], [ "FxGuide's Article", "https://www.fxguide.com/featured/5-things-you-need-to-know-about-the-tech-of-assassins-creed-iv-black-flag/",], [ "Gamer Nexus's Graphics Analysis", "http://www.gamersnexus.net/gg/1205-assassins-creed-4-black-flag-graphics-analysis",], [ "Tech Demo", "https://www.youtube.com/watch?app=desktop&v=SMTj3J4H6Gk&t=1m37s",],]
+
+
+
+["Alien Isolation"]
+Developer = "Creative Assembly"
+Engine = "Custom"
+Year = 2014
+Analysis = [ [ "Alien vs Wolfenstein: Cutting Torch", "https://simonschreibt.de/gat/alien-vs-wolfenstein-cutting-torch/",], [ "Inside Alien Isolation Graphics", "https://gen-graphics.blogspot.com/2018/01/inside-alien-isolation-graphics.html",], [ "High Tech Fear: Alien Isolation", "https://community.amd.com/community/gaming/blog/2015/05/12/high-tech-fear--alien-isolation",],]
+
+
+
+["Wolfenstein: The New Order"]
+Developer = "MachineGames"
+Engine = "id Tech 5"
+Year = 2014
+Analysis = [ [ "Alien vs Wolfenstein: Cutting Torch", "https://simonschreibt.de/gat/alien-vs-wolfenstein-cutting-torch/",],]
+
+
+
+[RIME]
+Developer = "Tequila Works"
+Engine = "UE4"
+Year = 2017
+Analysis = [ [ "Stylized VFX in RIME", "https://simonschreibt.de/gat/stylized-vfx-in-rime/",],]
+
+
+
+["Dark Maus"]
+Developer = "Daniel Wright"
+Engine = "Internal"
+Year = 2016
+Analysis = [ [ "Dark Maus: Topdown Trees", "http://simonschreibt.de/gat/darkmaus-topdown-trees/",],]
+
+
+
+["Diablo 2"]
+Developer = "Blizzard North"
+Engine = "Internal"
+Year = 2000
+Analysis = [ [ "Don't Starve & Diablo Parallax", "http://simonschreibt.de/gat/dont-starve-diablo-parallax-7/",],]
+
+
+
+["Don't Starve"]
+Developer = "Klei Entertainment"
+Engine = "Custom"
+Year = 2013
+Analysis = [ [ "Don't Starve & Diablo Parallax", "http://simonschreibt.de/gat/dont-starve-diablo-parallax-7/",],]
+
+
+
+["Sacred 2"]
+Developer = "Ascaron"
+Engine = "Sacred"
+Year = 2008
+Analysis = [ [ "Sacred 2 Fake Mirror", "http://simonschreibt.de/gat/sacred-2-fake-mirror/",],]
+
+
+
+["Tomb Raider 9 (Tomb Raider)"]
+Developer = "Crystal Dynamics"
+Engine = "Crystal"
+Year = 2013
+Analysis = [ [ "Tomb Raider Lara's Hot Secrets", "http://simonschreibt.de/gat/tomb-raider-laras-hot-secrets/",],]
+
+
+
+["TES: Oblivion"]
+Developer = "Bethesda Game Studios"
+Engine = "Gamebryo"
+Year = 2006
+Analysis = [ [ "Oblivion Territory Tree vs Palm", "http://simonschreibt.de/gat/oblivion-territory-tree-vs-palm/",],]
+
+
+
+["Enemy Territory: Quake Wars"]
+Developer = "Splash Damage"
+Engine = "id Tech 4"
+Year = 2007
+Analysis = [ [ "Oblivion Territory Tree vs Palm", "http://simonschreibt.de/gat/oblivion-territory-tree-vs-palm/",],]
+
+
+
+["Company of Heroes"]
+Developer = "Relic Entertainment"
+Engine = "Essence Engine"
+Year = 2006
+Analysis = [ [ "Company of Heroes Flamethrower", "http://simonschreibt.de/gat/company-of-heroes-flamethrower/",], [ "Company of Heroes Shaded Smoke", "http://simonschreibt.de/gat/company-of-heroes-shaded-smoke/",],]
+
+
+
+["Binding of Isaac"]
+Developer = "Edmund McMillen, Florian Himsl"
+Engine = "Flash"
+Year = 2011
+Analysis = [ [ "Binding of Isaac Composition", "http://simonschreibt.de/gat/binding-of-isaac-composition/",],]
+
+
+
+[1nsane]
+Developer = "Invictus Games"
+Engine = "Internal"
+Year = 2000
+Analysis = [ [ "1nsane Carpet 2 Repetitive Worlds", "http://simonschreibt.de/gat/1nsane-carpet-2-repetitive-worlds/",],]
+
+
+
+["Starcraft 2"]
+Developer = "Blizzard Entertainment"
+Engine = "SC2 Engine"
+Year = 2010
+Analysis = [ [ "Starcraft 2 Localization", "http://simonschreibt.de/gat/starcraft-2-localization/",],]
+
+
+
+[Bioshock]
+Developer = "2K Boston, 2K Australia"
+Engine = "UE2.5"
+Year = 2007
+Analysis = [ [ "Bioshock Glossiness", "http://simonschreibt.de/gat/bioshock-glossiness/",], [ "The Cutting Room Floor", "https://tcrf.net/BioShock",],]
+
+
+
+["007 Legends : Moonraker"]
+Developer = "Eurocom"
+Engine = "UE3"
+Year = 2012
+Analysis = [ [ "007 Legends The World", "http://simonschreibt.de/gat/007-legends-the-world/",],]
+
+
+
+["Dead Space 3"]
+Developer = "Visceral Games"
+Engine = "Frostbite 3"
+Year = 2013
+Analysis = [ [ "Dead Space 3 Diffuse Reflections", "http://simonschreibt.de/gat/dead-space-3-diffuse-reflections/",],]
+
+
+
+["Metal Gear Rising"]
+Developer = "Platinum qGames"
+Engine = "Internal"
+Year = 2013
+Analysis = [ [ "Metal Gear Rising Slicing", "http://simonschreibt.de/gat/metal-gear-rising-slicing/",],]
+
+
+
+["Assassins Creed 3"]
+Developer = "Ubisoft Montreal"
+Engine = "AnvilNext"
+Year = 2012
+Analysis = [ [ "Assassins Creed 3 Bouncing Light", "http://simonschreibt.de/gat/assassins-creed-3-bouncing-light/",], [ "Assassins Creed 3 LOD Blending", "http://simonschreibt.de/gat/assassins-creed-3-lod-blending/",],]
+
+
+
+["Mirror Edge"]
+Developer = "DICE"
+Engine = "UE3"
+Year = 2008
+Analysis = [ [ "Henrikgdc09 Compat", "https://fr.slideshare.net/DICEStudio/henrikgdc09-compat",],]
+
+
+
+["The Last of Us"]
+Developer = "Naughty Dog"
+Engine = "Internal"
+Year = 2013
+Analysis = [ [ "Lighting Technology of The Last Of Us", "http://miciwan.com/SIGGRAPH2013/Lighting%20Technology%20of%20The%20Last%20Of%20Us.pdf",], [ "GDC 14: A Context-Aware Character Dialog System", "https://www.gdcvault.com/play/1020386/A-Context-Aware-Character-Dialog",],]
+
+
+
+["Sacred 2"]
+Developer = "Ascaron"
+Engine = "Internal"
+Year = 2008
+Analysis = [ [ "Burning Map Effect in Sacred 2", "http://simonschreibt.de/gat/sacred-2-burning-map/",], [ "Pulse Shader in Sacred 2", "http://simonschreibt.de/gat/sacred-2-pulse-shader/",], [ "Crystal Reflection in Sacred 2", "http://simonschreibt.de/gat/sacred-2-crystal-reflexion/",],]
+
+
+
+["Kid Icarus"]
+Developer = "Nintendo R&D1"
+Engine = "Internal"
+Year = 1986
+Analysis = [ [ "Kid Icarus Tricks", "http://simonschreibt.de/gat/kid-icarus-tricks/",],]
+
+
+
+["Deus Ex"]
+Developer = "Ion Storm"
+Engine = "UE1"
+Year = 2000
+Analysis = [ [ "Deus Ex Scanlines", "http://simonschreibt.de/gat/deus-ex-scanlines/",], [ "Deus Ex Occlusion", "http://simonschreibt.de/gat/deus-ex-occlusion/",],]
+
+
+
+["Divine Divinity"]
+Developer = "Larian Studios"
+Engine = "Internal"
+Year = 2002
+Analysis = [ [ "Divine Divinity 2D Reflexion", "http://simonschreibt.de/gat/divine-divinity-2d-reflexion/",],]
+
+
+
+["Warcraft 3"]
+Developer = "Blizzard"
+Engine = "Internal"
+Year = 2002
+Analysis = [ [ "Warcraft 3 Billboards", "http://simonschreibt.de/gat/warcraft-3-billboards/",],]
+
+
+
+["World of Warcraft"]
+Developer = "Blizzard"
+Engine = "Internal"
+Year = 2004
+Analysis = [ [ "World of Warcraft Balloon", "http://simonschreibt.de/gat/world-of-warcraft-balloon/",],]
+
+
+
+["Battlefield 2"]
+Developer = "DICE"
+Engine = "Refraction Engine"
+Year = 2005
+Analysis = [ [ "Battlefield 2 Flag Sound", "http://simonschreibt.de/gat/battlefield-2-flag-sound/",],]
+
+
+
+["Battlefield Bad Company 2"]
+Developer = "DICE"
+Engine = "Frostbite 1.5"
+Year = 2010
+Analysis = [ [ "Battlefield Bad Company 2 Smoke Column", "http://simonschreibt.de/gat/battlefield-bad-company-2-smoke-column/",],]
+
+
+
+["Left 4 Dead 2"]
+Developer = "Valve Corporation"
+Engine = "Source"
+Year = 2009
+Analysis = [ [ "Left 4 Dead 2 Puke", "http://simonschreibt.de/gat/left-4-dead-2-puke/",],]
+
+
+
+["God of War Ragnarok"]
+Developer = "Santa Monica Studio"
+Engine = "Internal"
+Year = 2022
+Analysis = [ [ "God of War Ragnarok", "https://www.gdcvault.com/play/1028787/-God-of-War-Ragnarok",],]
+
+
+
+["Knockout City"]
+Developer = "Velan Studios"
+Engine = "Internal"
+Year = 2021
+Analysis = [ [ "Knockout City's Parallel Play", "https://www.gdcvault.com/play/1027634/-Knockout-City-s-Parallel",],]
+
+
+
+["Final Fantasy VII Remake"]
+Developer = "Square Enix"
+Engine = "Internal"
+Year = 2020
+Analysis = [ [ "Final Fantasy VII Remake", "https://www.gdcvault.com/play/1027049/-Final-Fantasy-VII-Remake",], [ "Final Fantasy VII Remake", "https://www.gdcvault.com/play/1027355/-Final-Fantasy-VII-Remake",],]
+
+
+
+["Watch Dogs 2"]
+Developer = "Ubisoft Montreal"
+Engine = "Disrupt"
+Year = 2016
+Analysis = [ [ "Replicating Chaos: Vehicle Replication in Watch Dogs 2", "https://www.gdcvault.com/play/1026956/Replicating-Chaos-Vehicle-Replication-in",],]
+
+
+
+["Call of Duty: Modern Warfare"]
+Developer = "Infinity Ward"
+Engine = "IW engine"
+Year = 2019
+Analysis = [ [ "Handling Network Latency Variation in Call of Duty: Modern Warfare", "https://www.gdcvault.com/play/1026896/Handling-Network-Latency-Variation-in",], [ "Handling Network Latency Variation in Call of Duty: Modern Warfare", "https://www.gdcvault.com/play/1026833/Handling-Network-Latency-Variation-in",],]
+
+
+
+["Shadows of the Tomb Raider"]
+Developer = "Eidos-Montréal"
+Engine = "Foundation engine"
+Year = 2018
+Analysis = [ [ "Shadows of the Tomb Raider", "https://www.gdcvault.com/play/1026163/-Shadows-of-the-Tomb",],]
+
+
+
+["Middle-earth: Shadow of War"]
+Developer = "Monolith"
+Engine = "Lithtech"
+Year = 2017
+Analysis = [ [ "Middle-earth: Shadow of War", "https://www.gdcvault.com/play/1025199/-Middle-earth-Shadow-of",],]
+
+
+
+["Gears of War 4"]
+Developer = "The Coalition"
+Engine = "UE4"
+Year = 2016
+Analysis = [ [ "Gears of War 4", "https://www.gdcvault.com/play/1024008/-Gears-of-War-4",],]
+
+
+
+["Adventure Capitalist"]
+Developer = "Hyper Hippo"
+Engine = "Unity"
+Year = 2014
+Analysis = [ [ "Adventure Capitalist Postmortem or", "https://www.gdcvault.com/play/1023119/-Adventure-Capitalist-Postmortem-or",],]
+
+
+
+["Assassin's Creed Syndicate"]
+Developer = "Ubisoft Quebec"
+Engine = "AnvilNext 2"
+Year = 2015
+Analysis = [ [ "Assassin's Creed Syndicate: A Technical Postmortem", "https://www.gdcvault.com/play/1023305/-Assassin-s-Creed-Syndicate",],]
+
+
+
+["Kingdom Come: Deliverance"]
+Developer = "Warhorse Studios"
+Engine = "CryEngine"
+Year = 2018
+Analysis = [ [ "Adaptive Clothing System in Kingdom Come: Deliverance", "https://www.gdcvault.com/play/1022822/Adaptive-Clothing-System-in-Kingdom",],]
+
+
+
+["Far Cry 4"]
+Developer = "Ubisoft Montreal"
+Engine = "Dunia Engine 2"
+Year = 2014
+Analysis = [ [ "Adaptive Virtual Texture Rendering in Far Cry 4", "https://www.gdcvault.com/play/1021760/Adaptive-Virtual-Texture-Rendering-in",],]
+
+
+
+["Hitman: Absolution"]
+Developer = "IO Interactive"
+Engine = "Glacier 2"
+Year = 2012
+Analysis = [ [ "Creating the AI for the Characters of Hitman: Absolution", "https://www.gdcvault.com/play/1019353/Creating-the-AI-for-the",],]
+
+
+
+[CityVille]
+Developer = "Zynga"
+Engine = "Flash"
+Year = 2010
+Analysis = [ [ "CityVille: Lessons Learned & Tools Used", "https://www.gdcvault.com/play/1016594/CityVille-Lessons-Learned-Tools-Used",],]
+
+
+
+["Ghost Recon Future Soldier"]
+Developer = "Ubisoft Paris"
+Engine = "Internal"
+Year = 2012
+Analysis = [ [ "A Different Approach for Continuous Physics in Ghost Recon Future Soldier", "https://www.gdcvault.com/play/1015856/A-Different-Approach-for-Continuous",],]
+
+
+
+["League of Legends"]
+Developer = "Riot Games"
+Engine = "Internal"
+Year = 2009
+Analysis = [ [ "Building the Chat Service for League of Legends", "https://www.gdcvault.com/play/1015092/Building-the-Chat-Service-for",],]
+
+
+
+["Crysis 2"]
+Developer = "Crytek"
+Engine = "CryEngine 3"
+Year = 2011
+Analysis = [ [ "Crysis 2 Multiplayer: A Programmer's Postmortem", "https://www.gdcvault.com/play/1014886/Crysis-2-Multiplayer-A-Programmer",],]
+
+
+
+["Dead Rising 2"]
+Developer = "Capcom Vancouver"
+Engine = "MT Framework"
+Year = 2010
+Analysis = [ [ "1000s of Zombies, 1000s of Problems, 1000s of Dollars", "https://www.gdcvault.com/play/1014616/1000s-of-Zombies-1000s-of",],]
+
+
+
+["Two Worlds II"]
+Developer = "Reality Pump"
+Engine = "GRACE 2"
+Year = 2010
+Analysis = [ [ "Advanced Material", "https://www.gdcvault.com/play/1013725/Advanced-Material",],]
+
+
+
+["Skate 3"]
+Developer = "EA Black Box"
+Engine = "RenderWare"
+Year = 2010
+Analysis = [ [ "Building Game UI with Scaleform", "https://www.gdcvault.com/play/1013151/Building-Game-UI-with",],]
+
+
+
+["Forza Motorsport 3"]
+Developer = "Turn 10 Studios"
+Engine = "ForzaTech"
+Year = 2009
+Analysis = [ [ "Forza Motorsport 3 Audio Design", "https://www.gdcvault.com/play/1013160/Forza-Motorsport-3-Audio-Design",],]
+
+
+
+["Velvet Assassin"]
+Developer = "Replay Studios"
+Engine = "UE3"
+Year = 2009
+Analysis = [ [ "Building a Dynamic Lighting Engine", "https://www.gdcvault.com/play/1012013/Building-a-Dynamic-Lighting-Engine",],]
+
+
