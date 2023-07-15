@@ -111,7 +111,7 @@ A collection of video game tech analysis resources, covers blogs, articles, pres
 |Two Worlds II|Reality Pump|GRACE 2 (Internal)|2010|<details><summary>Expand</summary>- [Advanced Material](https://www.gdcvault.com/play/1013725/Advanced-Material)</details>|
 |Skate 3|EA Black Box|RenderWare|2010|<details><summary>Expand</summary>- [Building Game UI with Scaleform](https://www.gdcvault.com/play/1013151/Building-Game-UI-with)</details>|
 |Forza Motorsport 3|Turn 10 Studios|ForzaTech (Internal)|2009|<details><summary>Expand</summary>- [Forza Motorsport 3 Audio Design](https://www.gdcvault.com/play/1013160/Forza-Motorsport-3-Audio-Design)</details>|
-|Velvet Assassin|Replay Studios|Unreal Engine 3|2009|<details><summary>Expand</summary>- [Building a Dynamic Lighting Engine](https://www.gdcvault.com/play/1012013/Building-a-Dynamic-Lighting-Engine)</details>|
+|Velvet Assassin|Replay Studios|UE3|2009|<details><summary>Expand</summary>- [Building a Dynamic Lighting Engine](https://www.gdcvault.com/play/1012013/Building-a-Dynamic-Lighting-Engine)</details>|
 
 
 
