@@ -105,6 +105,13 @@ A collection of video game tech analysis resources, covers blogs, articles, pres
 |Hitman: Absolution|IO Interactive|Glacier 2|2012|<details><summary>Expand</summary>- [Creating the AI for the Characters of Hitman: Absolution](https://www.gdcvault.com/play/1019353/Creating-the-AI-for-the)<br></details>|
 |CityVille|Zynga|Flash|2010|<details><summary>Expand</summary>- [CityVille: Lessons Learned & Tools Used](https://www.gdcvault.com/play/1016594/CityVille-Lessons-Learned-Tools-Used)<br></details>|
 |Ghost Recon Future Soldier|Ubisoft Paris|Internal|2012|<details><summary>Expand</summary>- [A Different Approach for Continuous Physics in Ghost Recon Future Soldier](https://www.gdcvault.com/play/1015856/A-Different-Approach-for-Continuous)<br></details>|
+|League of Legends|Riot Games|Custom (Internal)|2009|<details><summary>Expand</summary>- [Building the Chat Service for League of Legends](https://www.gdcvault.com/play/1015092/Building-the-Chat-Service-for)</details>|
+|Crysis 2|Crytek|CryEngine 3|2011|<details><summary>Expand</summary>- [Crysis 2 Multiplayer: A Programmer's Postmortem](https://www.gdcvault.com/play/1014886/Crysis-2-Multiplayer-A-Programmer)</details>|
+|Dead Rising 2|Capcom Vancouver|MT Framework|2010|<details><summary>Expand</summary>- [1000s of Zombies, 1000s of Problems, 1000s of Dollars](https://www.gdcvault.com/play/1014616/1000s-of-Zombies-1000s-of)</details>|
+|Two Worlds II|Reality Pump|GRACE 2 (Internal)|2010|<details><summary>Expand</summary>- [Advanced Material](https://www.gdcvault.com/play/1013725/Advanced-Material)</details>|
+|Skate 3|EA Black Box|RenderWare|2010|<details><summary>Expand</summary>- [Building Game UI with Scaleform](https://www.gdcvault.com/play/1013151/Building-Game-UI-with)</details>|
+|Forza Motorsport 3|Turn 10 Studios|ForzaTech (Internal)|2009|<details><summary>Expand</summary>- [Forza Motorsport 3 Audio Design](https://www.gdcvault.com/play/1013160/Forza-Motorsport-3-Audio-Design)</details>|
+|Velvet Assassin|Replay Studios|Unreal Engine 3|2009|<details><summary>Expand</summary>- [Building a Dynamic Lighting Engine](https://www.gdcvault.com/play/1012013/Building-a-Dynamic-Lighting-Engine)</details>|
 
 
 
