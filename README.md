@@ -94,6 +94,12 @@ A collection of video game tech analysis resources, covers blogs, articles, pres
 |Knockout City|Velan Studios|Internal|2021|<details><summary>Expand</summary>- [Knockout City's Parallel Play](https://www.gdcvault.com/play/1027634/-Knockout-City-s-Parallel)<br></details>|
 |Final Fantasy VII Remake|Square Enix|Internal|2020|<details><summary>Expand</summary>- [Final Fantasy VII Remake](https://www.gdcvault.com/play/1027049/-Final-Fantasy-VII-Remake)<br>- [Final Fantasy VII Remake](https://www.gdcvault.com/play/1027355/-Final-Fantasy-VII-Remake)<br></details>|
 |Watch Dogs 2|Ubisoft Montreal|Disrupt|2016|<details><summary>Expand</summary>- [Replicating Chaos: Vehicle Replication in Watch Dogs 2](https://www.gdcvault.com/play/1026956/Replicating-Chaos-Vehicle-Replication-in)<br></details>|
+|Call of Duty: Modern Warfare|Infinity Ward|IW engine|2019|<details><summary>Expand</summary>- [Handling Network Latency Variation in Call of Duty: Modern Warfare](https://www.gdcvault.com/play/1026896/Handling-Network-Latency-Variation-in)<br>- [Handling Network Latency Variation in Call of Duty: Modern Warfare](https://www.gdcvault.com/play/1026833/Handling-Network-Latency-Variation-in)</details>|
+|Shadows of the Tomb Raider|Eidos-Montréal|Foundation engine|2018|<details><summary>Expand</summary>- [Shadows of the Tomb Raider](https://www.gdcvault.com/play/1026163/-Shadows-of-the-Tomb)</details>|
+|Middle-earth: Shadow of War|Monolith|Lithtech|2017|<details><summary>Expand</summary>- [Middle-earth: Shadow of War](https://www.gdcvault.com/play/1025199/-Middle-earth-Shadow-of)</details>|
+|Gears of War 4|The Coalition|UE4|2016|<details><summary>Expand</summary>- [Gears of War 4](https://www.gdcvault.com/play/1024008/-Gears-of-War-4)</details>|
+|Adventure Capitalist|Hyper Hippo|Unity|2014|<details><summary>Expand</summary>- [Adventure Capitalist Postmortem or](https://www.gdcvault.com/play/1023119/-Adventure-Capitalist-Postmortem-or)</details>|
+
 
 
 ## References
