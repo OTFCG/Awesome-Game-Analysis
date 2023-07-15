@@ -64,7 +64,16 @@ A collection of video game tech analysis resources, covers blogs, articles, pres
 |Wolfenstein: The New Order|MachineGames|id Tech 5|2014|<details><summary>Expand</summary>- [Alien vs Wolfenstein: Cutting Torch](https://simonschreibt.de/gat/alien-vs-wolfenstein-cutting-torch/)<br></details>|
 |RIME|Tequila Works|UE4|2017|<details><summary>Expand</summary>- [Stylized VFX in RIME](https://simonschreibt.de/gat/stylized-vfx-in-rime/)<br></details>|
 |Dark Maus|Daniel Wright|Internal|2016|<details><summary>Expand</summary>- [Dark Maus: Topdown Trees](http://simonschreibt.de/gat/darkmaus-topdown-trees/)<br></details>|
-
+|Diablo 2|Blizzard North|Internal|2000|<details><summary>Expand</summary>- [Don't Starve & Diablo Parallax](http://simonschreibt.de/gat/dont-starve-diablo-parallax-7/)</details>|
+|Don't Starve|Klei Entertainment|Custom|2013|<details><summary>Expand</summary>- [Don't Starve & Diablo Parallax](http://simonschreibt.de/gat/dont-starve-diablo-parallax-7/)</details>|
+|Sacred 2|Ascaron|Sacred|2008|<details><summary>Expand</summary>- [Sacred 2 Fake Mirror](http://simonschreibt.de/gat/sacred-2-fake-mirror/)</details>|
+|Tomb Raider 9 (Tomb Raider)|Crystal Dynamics|Crystal|2013|<details><summary>Expand</summary>- [Tomb Raider Lara's Hot Secrets](http://simonschreibt.de/gat/tomb-raider-laras-hot-secrets/)</details>|
+|TES: Oblivion|Bethesda Game Studios|Gamebryo|2006|<details><summary>Expand</summary>- [Oblivion Territory Tree vs Palm](http://simonschreibt.de/gat/oblivion-territory-tree-vs-palm/)<br></details>|
+|Enemy Territory: Quake Wars|Splash Damage|id Tech 4|2007|<details><summary>Expand</summary>- [Oblivion Territory Tree vs Palm](http://simonschreibt.de/gat/oblivion-territory-tree-vs-palm/)<br></details>|
+|Company of Heroes|Relic Entertainment|Essence Engine|2006|<details><summary>Expand</summary>- [Company of Heroes Flamethrower](http://simonschreibt.de/gat/company-of-heroes-flamethrower/)<br>- [Company of Heroes Shaded Smoke](http://simonschreibt.de/gat/company-of-heroes-shaded-smoke/)<br></details>|
+|Binding of Isaac|Edmund McMillen, Florian Himsl|Flash|2011|<details><summary>Expand</summary>- [Binding of Isaac Composition](http://simonschreibt.de/gat/binding-of-isaac-composition/)<br></details>|
+|1nsane|Invictus Games|Internal|2000|<details><summary>Expand</summary>- [1nsane Carpet 2 Repetitive Worlds](http://simonschreibt.de/gat/1nsane-carpet-2-repetitive-worlds/)<br></details>|
+|Starcraft 2|Blizzard Entertainment|SC2 Engine|2010|<details><summary>Expand</summary>- [Starcraft 2 Localization](http://simonschreibt.de/gat/starcraft-2-localization/)<br></details>|
 
 
 
