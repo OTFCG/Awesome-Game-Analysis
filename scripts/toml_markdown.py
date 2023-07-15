@@ -124,9 +124,10 @@ def test_multiple():
 section_top='''
 # Awesome-Game-Analysis
 This repository serves as a comprehensive collection of video game technology analysis resources.
+
 Suggestions are welcome to be filed via the GitHub issue tracker for this repository, please use the issue tracker to submit your ideas.
-In order to maintain the structure of this repository, please don't directly make changes to the `README.md` file.
-Instead, read our [Contribution Guide](https://github.com/OTFCG/Awesome-Game-Analysis/blob/main/contribution_guide.md) before PRs.
+
+***In order to maintain the structure of this repository, please don't directly make changes to the `README.md` file. Instead, read our [Contribution Guide](https://github.com/OTFCG/Awesome-Game-Analysis/blob/main/contribution_guide.md) before PRs.***
 '''
 section_reference='''
 ## References
@@ -232,14 +233,15 @@ if __name__ == "__main__":
                     if not change :
                         sys.exit(1)
                     section_games='''## Analysis - Games\n\n|Game|Developer|Engine|Year|Analysis|\n|:---|:---|:---|:---|:---|'''.strip() + "\n"
+                    f.seek(0)
                     section_games += toml_to_markdown(f.read())
                     res = ""
                     res += section_top
-                    res += "---"
+                    res += "\n---\n\n"
                     res += section_games
-                    res += "---"
+                    res += "\n---\n"
                     res += section_reference
-                    readme = open("README.ME", "w")
+                    readme = open("README.md", "w")
                     readme.write(res)
                     readme.close()
                 except Exception as e:
