@@ -81,7 +81,16 @@ A collection of video game tech analysis resources, covers blogs, articles, pres
 |Assassins Creed 3|Ubisoft Montreal|AnvilNext|2012|<details><summary>Expand</summary>- [Assassins Creed 3 Bouncing Light](http://simonschreibt.de/gat/assassins-creed-3-bouncing-light/)<br></details>|
 |Mirror Edge|DICE|UE3|2008|<details><summary>Expand</summary>- [Henrikgdc09 Compat](https://fr.slideshare.net/DICEStudio/henrikgdc09-compat)<br></details>|
 |The Last of Us|Naughty Dog|Internal|2013|<details><summary>Expand</summary>- [Lighting Technology of The Last Of Us](http://miciwan.com/SIGGRAPH2013/Lighting%20Technology%20of%20The%20Last%20Of%20Us.pdf)<br></details>|
-
+|Sacred 2|Ascaron|Internal|2008|<details><summary>Expand</summary>- [Burning Map Effect in Sacred 2](http://simonschreibt.de/gat/sacred-2-burning-map/)<br>- [Pulse Shader in Sacred 2](http://simonschreibt.de/gat/sacred-2-pulse-shader/)<br>- [Crystal Reflection in Sacred 2](http://simonschreibt.de/gat/sacred-2-crystal-reflexion/)<br></details>|
+|Kid Icarus|Nintendo R&D1|Internal|1986|<details><summary>Expand</summary>- [Kid Icarus Tricks](http://simonschreibt.de/gat/kid-icarus-tricks/)<br></details>|
+|Deus Ex|Ion Storm|UE1|2000|<details><summary>Expand</summary>- [Deus Ex Scanlines](http://simonschreibt.de/gat/deus-ex-scanlines/)<br>- [Deus Ex Occlusion](http://simonschreibt.de/gat/deus-ex-occlusion/)<br></details>|
+|Divine Divinity|Larian Studios|Internal|2002|<details><summary>Expand</summary>- [Divine Divinity 2D Reflexion](http://simonschreibt.de/gat/divine-divinity-2d-reflexion/)<br></details>|
+|Warcraft 3|Blizzard|Internal|2002|<details><summary>Expand</summary>- [Warcraft 3 Billboards](http://simonschreibt.de/gat/warcraft-3-billboards/)<br></details>|
+|World of Warcraft|Blizzard|Internal|2004|<details><summary>Expand</summary>- [World of Warcraft Balloon](http://simonschreibt.de/gat/world-of-warcraft-balloon/)<br></details>|
+|Battlefield 2|DICE|Refraction Engine|2005|<details><summary>Expand</summary>- [Battlefield 2 Flag Sound](http://simonschreibt.de/gat/battlefield-2-flag-sound/)<br></details>|
+|Battlefield Bad Company 2|DICE|Frostbite 1.5|2010|<details><summary>Expand</summary>- [Battlefield Bad Company 2 Smoke Column](http://simonschreibt.de/gat/battlefield-bad-company-2-smoke-column/)<br></details>|
+|Left 4 Dead 2|Valve Corporation|Source|2009|<details><summary>Expand</summary>- [Left 4 Dead 2 Puke](http://simonschreibt.de/gat/left-4-dead-2-puke/)<br></details>|
+|Assassins Creed 3|Ubisoft Montreal|AnvilNext|2012|<details><summary>Expand</summary>- [Assassins Creed 3 LOD Blending](http://simonschreibt.de/gat/assassins-creed-3-lod-blending/)<br></details>|
 
 
 ## References
@@ -96,7 +105,7 @@ A collection of video game tech analysis resources, covers blogs, articles, pres
 - [X] [Nathan Gordon's Blog](https://medium.com/@gordonnl)
 - [X] [Thomas' Blog](https://blog.thomaspoulet.fr)
 - [X] [IRYOKU's Blog](https://www.iryoku.com/)
-- [ ] [Game Art Tricks](https://simonschreibt.de/game-art-tricks/)
+- [X] [Game Art Tricks](https://simonschreibt.de/game-art-tricks/)
 - [ ] [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor)
 - [ ] [Crytek Presentations](https://archive.org/download/crytek_presentations)
 - [ ] [r/TheMakingOfGames](https://www.reddit.com/r/TheMakingOfGames/)
