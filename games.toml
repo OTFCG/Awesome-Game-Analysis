@@ -10,6 +10,7 @@ Analysis = [
   ["The Devil is in the details", "https://advances.realtimerendering.com/s2016/Siggraph2016_idTech6.pdf"],
   ["Graphics Study", "https://www.adriancourreges.com/blog/2016/09/09/doom-2016-graphics-study/"],
   ["DigitalFoundry Interview", "https://www.eurogamer.net/digitalfoundry-2016-doom-tech-interview"],
+  ["Bringing Hell to Life: AI and Full Body Animation in DOOM", "https://www.youtube.com/watch?v=3lO1q8mQrrg"],
   ["GamesBeat Interview", "https://venturebeat.com/games/the-definitive-interview-on-the-making-of-doom/"],
   ["DSOGaming Interview", "https://www.dsogaming.com/interviews/id-software-tech-interview-dx12-vulkan-mega-textures-pbr-global-illumination-more/"],
   ["QuakeCon P1", "https://www.twitch.tv/videos/81946710"],
@@ -188,6 +189,11 @@ Engine = "Internal"
 Year = "2016"
 Analysis = [
   ["Alain Galvan's Blog", "https://alain.xyz/blog/frame-analysis-overwatch"],
+  ["Replay Technology in Overwatch: Kill Cam, Gameplay, and Highlights", "https://www.youtube.com/watch?v=W4oZq4tn57w"],
+  ["Overwatch Gameplay Architecture and Netcode", "https://www.youtube.com/watch?v=W3aieHjyNvw"],
+  ["Playtesting Overwatch", "https://www.youtube.com/watch?v=4R9fNm8GeKs"],
+  ["Networking Scripted Weapons and Abilities in Overwatch", "https://www.youtube.com/watch?v=ScyZjcjTlA4"],
+  ["Overwatch - The Elusive Goal: Play by Sound", "https://www.youtube.com/watch?v=zF_jcrTCMsA"],
 ]
 
 
@@ -244,6 +250,7 @@ Engine = "Northlight Engine"
 Year = "2019"
 Analysis = [
   ["Frame Analysis", "https://alain.xyz/blog/frame-analysis-control"],
+  ["Destructible Environments in Control: Lessons in Procedural Destruction", "https://www.youtube.com/watch?v=kODJsQGXanU"],
 ]
 
 
@@ -787,6 +794,7 @@ Year = "2013"
 Analysis = [
   ["Lighting Technology of The Last Of Us", "http://miciwan.com/SIGGRAPH2013/Lighting%20Technology%20of%20The%20Last%20Of%20Us.pdf"],
   ["GDC 14: A Context-Aware Character Dialog System", "https://www.gdcvault.com/play/1020386/A-Context-Aware-Character-Dialog"],
+  ["The Motion Capture Pipeline of The Last of Us", "https://www.youtube.com/watch?v=2GoDlM1Z7BU"],
 ]
 
 
@@ -916,18 +924,6 @@ Analysis = [
   ["'Final Fantasy VII' Remake: Automating Quality Assurance and the Tools for the Future", "https://www.youtube.com/watch?v=L2bJ4E_4zN8"]
 ]
 
-
-
-["Watch Dogs 2"]
-Developer = "Ubisoft Montreal"
-Engine = "Disrupt"
-Year = "2016"
-Analysis = [
-  ["Replicating Chaos: Vehicle Replication in Watch Dogs 2", "https://www.gdcvault.com/play/1026956/Replicating-Chaos-Vehicle-Replication-in"],
-]
-
-
-
 ["Call of Duty: Modern Warfare"]
 Developer = "Infinity Ward"
 Engine = "IW engine"
@@ -984,7 +980,9 @@ Developer = "Ubisoft Quebec"
 Engine = "AnvilNext 2"
 Year = "2015"
 Analysis = [
+  ["Assassin's Creed Syndicate: London Wasn't Built in a Day", "https://www.youtube.com/watch?v=k7sizxMamls"],
   ["Assassin's Creed Syndicate: A Technical Postmortem", "https://www.gdcvault.com/play/1023305/-Assassin-s-Creed-Syndicate"],
+  ["What Are You Driving At? Vehicle AI in Assassin's Creed Syndicate", "https://www.youtube.com/watch?v=tB88gTpdk48"],
 ]
 
 
@@ -1006,6 +1004,7 @@ Year = "2014"
 Analysis = [
   ["Adaptive Virtual Texture Rendering", "https://www.gdcvault.com/play/1021760/Adaptive-Virtual-Texture-Rendering-in"],
   ["Rendering the World of Far Cry 4", "https://www.youtube.com/watch?v=rD6KcxcCl_8"],
+  ["Fast Iteration for Far Cry 4 - Optimizing Key Parts of the Dunia Pipeline", "https://www.youtube.com/watch?v=AhmlFG1u1wE"],
 ]
 
 
@@ -1046,6 +1045,7 @@ Engine = "Internal"
 Year = "2009"
 Analysis = [
   ["Building the Chat Service for League of Legends", "https://www.gdcvault.com/play/1015092/Building-the-Chat-Service-for"],
+  ["League of Legends: Scaling to Millions of Summoners", "https://www.youtube.com/watch?v=yRMM2cEQ89c"],
 ]
 
 
@@ -1234,27 +1234,14 @@ Analysis = [
 ["'FIFA 22's' Hypermotion: Full-Match Mocap Driving Machine Learning Technology", "https://www.youtube.com/watch?v=lJYmMCQ2r-0"],
 ]
 
-
-
-["Rocket League"]
-Developer = "Psyonix"
-Engine = "UE3"
-Year = "2015"
-Analysis = [
-["'Rocket League': Scaling for Free to Play", "https://www.youtube.com/watch?v=W52Lm505300"],
-]
-
-
-
 ["Caves of Qud"]
 Developer = "Freehold Games"
 Engine = "Unity"
 Year = "2015"
 Analysis = [
 ["Tile-Based Map Generation using Wave Function Collapse in 'Caves of Qud'", "https://www.youtube.com/watch?v=AdCgi9E90jw"],
+["End-to-End Procedural Generation in Caves of Qud", "https://www.youtube.com/watch?v=jV-DZqdKlnE"]
 ]
-
-
 
 ["Spelunky 2"]
 Developer = "Mossmouth, BlitWorks"
@@ -1263,8 +1250,6 @@ Year = "2020"
 Analysis = [
 ["Breaking the Ankh: Deterministic Propagation Netcode in 'Spelunky 2'", "https://www.youtube.com/watch?v=mss6S2IO8Mw"],
 ]
-
-
 
 ["Battleborn"]
 Developer = "Gearbox Software"
@@ -1343,6 +1328,7 @@ Engine = "Apex"
 Year = "2018"
 Analysis = [
 ["Building a Mixing Sandbox for 'Just Cause 4'", "https://www.youtube.com/watch?v=uN8RxOvrxMM"],
+["Vehicle Physics and Tire Dynamics in Just Cause 4", "https://www.youtube.com/watch?v=0jsENVOmkxc"]
 ]
 
 
@@ -1403,3 +1389,496 @@ Engine = "Frostbite"
 Year = "2018"
 Analysis = [["AI for Testing: The Development of Bots that Play Battlefield V", "https://www.youtube.com/watch?v=s1JOSbUR6KE"],
 ["It Just Works: Ray-Traced Reflections in Battlefield V", "https://www.youtube.com/watch?v=ncUNLDQZMzQ"]]
+
+["Marvel's Spider-Man"]
+Developer = "Insomniac Games"
+Engine = "Internal"
+Year = "2018"
+Analysis = [
+["Marvel's Spider-Man: Procedural Lighting Tools", "https://www.youtube.com/watch?v=HnguuY9IRro"],
+["Marvel's Spider-Man AI Postmortem", "https://www.youtube.com/watch?v=LxWq65CZBU8"],
+["Marvel's Spider-Man: A Technical Postmortem", "https://www.youtube.com/watch?v=KDhKyIZd3O8"],
+]
+
+["Frostpunk"]
+Developer = "11 bit studios"
+Engine = "Liquid Engine"
+Year = "2018"
+Analysis = [["Content Fueled Gameplay Programming in Frostpunk", "https://www.youtube.com/watch?v=9rOtJCUDjtQ"]]
+
+
+
+["Astro Bot Rescue Mission"]
+Developer = "SIE Japan Studio"
+Engine = "Internal"
+Year = "2018"
+Analysis = [["Taming Technologies Behind Astro Bot Rescue Mission", "https://www.youtube.com/watch?v=jCCSMhAFHUQ"]]
+
+
+
+["Assassin's Creed Odyssey"]
+Developer = "Ubisoft Quebec"
+Engine = "AnvilNext 2.0"
+Year = "2018"
+Analysis = [["Procedural Generation of Cinematic Dialogues in Assassin's Creed Odyssey", "https://www.youtube.com/watch?v=DFM5zbekZ7c"]]
+
+
+
+["Mafia III"]
+Developer = "Hangar 13"
+Engine = "Illusion"
+Year = "2016"
+Analysis = [["Triage on the Front Line: Improving Mafia III AI in a Live Product", "https://www.youtube.com/watch?v=lGPdPZC6Xvk"]]
+
+
+
+["Assassin's Creed: Origins"]
+Developer = "Ubisoft Montreal"
+Engine = "AnvilNext 2.0"
+Year = "2017"
+Analysis = [["Virtual Insanity: Meta AI on Assassin's Creed: Origins", "https://www.youtube.com/watch?v=a09vnDjmY_E"]]
+
+
+
+["Assassin's Creed Unity"]
+Developer = "Ubisoft Montreal"
+Engine = "AnvilNext 2.0"
+Year = "2014"
+Analysis = [
+["Massive Crowd on Assassin's Creed Unity: AI Recycling", "https://www.youtube.com/watch?v=Rz2cNWVLncI"],
+["Developing Systemic Crowd Events in Assassin's Creed Unity", "https://www.youtube.com/watch?v=FaV88JAWnbQ"],
+]
+
+["Detroit: Become Human"]
+Developer = "Quantic Dream"
+Engine = "Internal"
+Year = "2018"
+Analysis = [["The Lighting Technology of Detroit: Become Human", "https://www.youtube.com/watch?v=7dVv6XwkLbM"]]
+
+["Titanfall"]
+Developer = "Respawn Entertainment"
+Engine = "Source"
+Year = "2014"
+Analysis = [["Extreme SIMD: Optimized Collision Detection in Titanfall", "https://www.youtube.com/watch?v=6BIfqfC1i7U"]]
+
+["Counter-Strike: Global Offensive"]
+Developer = "Valve Corporation, Hidden Path Entertainment"
+Engine = "Source"
+Year = "2012"
+Analysis = [
+["Robocalypse Now: Using Deep Learning to Combat Cheating in Counter-Strike: Global Offensive", "https://www.youtube.com/watch?v=kTiP0zKF9bc"],
+]
+
+["Tom Clancy's The Division 2"]
+Developer = "Massive Entertainment"
+Engine = "Snowdrop"
+Year = "2019"
+Analysis = [
+["Game Server Performance on Tom Clancy's The Division 2", "https://www.youtube.com/watch?v=bcXxyKqgV0c"],
+]
+
+["World of Tanks: Mercenaries"]
+Developer = "Wargaming"
+Engine = "BigWorld"
+Year = "2010"
+Analysis = [
+["Bringing Replays to World of Tanks: Mercenaries", "https://www.youtube.com/watch?v=uLAt840vwbM"],
+]
+
+["Battlefield 1"]
+Developer = "DICE"
+Engine = "Frostbite 3"
+Year = "2017"
+Analysis = [
+["4K Checkerboard in Battlefield 1 and Mass Effect Andromeda", "https://www.youtube.com/watch?v=RkS8DmGqUmk"],
+]
+
+["Mass Effect Andromeda"]
+Developer = "BioWare"
+Engine = "Frostbite 3"
+Year = "2017"
+Analysis = [
+["4K Checkerboard in Battlefield 1 and Mass Effect Andromeda", "https://www.youtube.com/watch?v=RkS8DmGqUmk"],
+]
+
+["Final Fantasy XV"]
+Developer = "Square Enix Business Division 2"
+Engine = "Luminous Studio"
+Year = "2016"
+Analysis = [
+["Eos is Alive: The AI Systems of Final Fantasy XV", "https://www.youtube.com/watch?v=ygNRNru1B_s"],
+["Prompto's Facebook: How a Buddy-AI Auto-Snapshots Your Adventure in FFXV", "https://www.youtube.com/watch?v=ictRlPZQCZI"],
+]
+
+["Call of Duty"]
+Developer = "Infinity Ward, Treyarch, Sledgehammer Games, Raven Software"
+Engine = "IW engine, Treyarch NGL"
+Year = "2003"
+Analysis = [
+["Automated Testing and Profiling for Call of Duty", "https://www.youtube.com/watch?v=8d0wzyiikXM"],
+]
+
+["Horizon: Zero Dawn"]
+Developer = "Guerrilla Games"
+Engine = "Decima"
+Year = "2017"
+Analysis = [
+["GPU-Based Run-Time Procedural Placement in Horizon: Zero Dawn", "https://www.youtube.com/watch?v=ToCozpl1sYY"],
+["Horizon Zero Dawn: A QA Open World Case Study", "https://www.youtube.com/watch?v=2VDlX3Dqm0w"],
+["Creating a Tools Pipeline for Horizon: Zero Dawn", "https://www.youtube.com/watch?v=KRJkBxKv1VM"],
+]
+
+["Far Cry 5"]
+Developer = "Ubisoft Montreal"
+Engine = "Dunia Engine"
+Year = "2018"
+Analysis = [
+["Water Rendering in Far Cry 5", "https://www.youtube.com/watch?v=4oDtGnQNCx4"],
+]
+
+
+["Far Cry Primal"]
+Developer = "Ubisoft Toronto"
+Engine = "Dunia Engine"
+Year = "2016"
+Analysis = [
+["Character Pipeline and Customization System for Far Cry Primal", "https://www.youtube.com/watch?v=um8ZMcenXIA"],
+]
+
+["Watch Dogs 2"]
+Developer = "Ubisoft Montreal"
+Engine = "Disrupt"
+Year = "2016"
+Analysis = [
+["Replicating Chaos: Vehicle Replication in Watch Dogs 2", "https://www.youtube.com/watch?v=_8A2gzRrWLk"],
+["Hacking into the Combat AI of Watch Dogs 2", "https://www.youtube.com/watch?v=c06DZ81Tbmk"],
+["Helping It All Emerge: Managing Crowd AI in Watch Dogs 2", "https://www.youtube.com/watch?v=LHEcpy4DjNc"],
+]
+
+["For Honor"]
+Developer = "Ubisoft Montreal"
+Engine = "AnvilNext 2.0"
+Year = "2017"
+Analysis = [
+["Deterministic vs. Replicated AI: Building the Battlefield of For Honor", "https://www.youtube.com/watch?v=4Z0aUEBp_Os"],
+["Data-Driven Dynamic Gameplay Effects on For Honor", "https://www.youtube.com/watch?v=JgSvuSaXs3E"],
+]
+
+["Halo 5: Guardians"]
+Developer = "343 Industries"
+Engine = "Halo engine"
+Year = "2015"
+Analysis = [
+["Geometry Caching Optimizations in Halo 5: Guardians", "https://www.youtube.com/watch?v=uYAjUOlEgwI"],
+]
+
+["Titanfall 2"]
+Developer = "Respawn Entertainment"
+Engine = "Source"
+Year = "2016"
+Analysis = [
+["Efficient Texture Streaming in Titanfall 2", "https://www.youtube.com/watch?v=4BuvKotqpWo"],
+]
+
+["Prismata"]
+Developer = "Lunarch Studios"
+Engine = "Internal"
+Year = "2018"
+Analysis = [
+["Playing Your Cards Right: The Hierarchical Portfolio Search AI of Prismata", "https://www.youtube.com/watch?v=sQSL9j7W7uA"],
+]
+
+["God of War"]
+Developer = "Santa Monica Studio"
+Engine = "Proprietary"
+Year = "2018"
+Analysis = [
+["Raising Atreus for Battle in God of War", "https://www.youtube.com/watch?v=lbyGzzcKg9U"],
+]
+
+["Panzer Dragoon/Zwei/Saga"]
+Developer = "Team Andromeda"
+Engine = "Internal"
+Year = "1995/1996/1998"
+Analysis = [
+["Classic Game Postmortem", "https://www.youtube.com/watch?v=gMOMsEmde-w"],
+]
+
+["Just Cause 3"]
+Developer = "Avalanche Studios"
+Engine = "Avalanche Engine"
+Year = "2015"
+Analysis = [
+["Tree's Company: Systemic AI Design in Just Cause 3", "https://www.youtube.com/watch?v=SurYVTMINhg"],
+]
+
+["Mortal Kombat"]
+Developer = "NetherRealm Studios"
+Engine = "UE3"
+Year = "2011"
+Analysis = [
+["8 Frames in 16ms: Rollback Networking in Mortal Kombat and Injustice 2", "https://www.youtube.com/watch?v=7jb0FOcImdg"],
+]
+
+["Injustice 2"]
+Developer = "NetherRealm Studios"
+Engine = "UE3"
+Year = "2017"
+Analysis = [
+["8 Frames in 16ms: Rollback Networking in Mortal Kombat and Injustice 2", "https://www.youtube.com/watch?v=7jb0FOcImdg"],
+]
+
+["Uncharted 4"]
+Developer = "Naughty Dog"
+Engine = "Naughty Dog Engine"
+Year = "2016"
+Analysis = [
+["The Science of Off-Roading: Uncharted 4's 4x4", "https://www.youtube.com/watch?v=SKXqWcaoTGE"],
+]
+
+["Dishonored 2"]
+Developer = "Arkane Studios"
+Engine = "Void Engine"
+Year = "2016"
+Analysis = [
+["Taking Back What's Ours: The AI of Dishonored 2", "https://www.youtube.com/watch?v=VoXSJBVqdek"],
+]
+
+
+["Assassin's Creed Brotherhood"]
+Developer = "Ubisoft Montreal"
+Engine = "Anvil"
+Year = "2010"
+Analysis = [
+["AI & Animation in Assassin's Creed Brotherhood", "https://www.youtube.com/watch?v=HzhDjbsXA9s"],
+]
+
+["Halo: Reach"]
+Developer = "Bungie"
+Engine = "Halo Engine"
+Year = "2010"
+Analysis = [
+["I Shot You First: Networking the Gameplay of Halo: Reach", "https://www.youtube.com/watch?v=h47zZrqjgLc"],
+]
+
+["Skylanders"]
+Developer = "Toys for Bob"
+Engine = "Internal"
+Year = "2011"
+Analysis = [
+["Supercharged! Vehicle Physics in Skylanders", "https://www.youtube.com/watch?v=Db1AgGavL8E"],
+]
+
+["Rocket League"]
+Developer = "Psyonix"
+Engine = "Unreal Engine 3"
+Year = "2015"
+Analysis = [
+["Rocket League: Language Ban System Postmortem", "https://www.youtube.com/watch?v=-E9PowOZhGM"],
+["It IS Rocket Science! The Physics of Rocket League Detailed", "https://www.youtube.com/watch?v=ueEmiDM94IE"],
+["'Rocket League': Scaling for Free to Play", "https://www.youtube.com/watch?v=W52Lm505300"],
+]
+
+["Destiny"]
+Developer = "Bungie"
+Engine = "Tiger Engine"
+Year = "2014"
+Analysis = [
+["Tools-Based Rigging in Bungie's Destiny", "https://www.youtube.com/watch?v=U_4u0kbf-JE"],
+["Shared World Shooter: Destiny's Networked Mission Architecture", "https://www.youtube.com/watch?v=Iryq1WA3bzw"],
+]
+
+["Tom Clancy's The Division"]
+Developer = "Massive Entertainment"
+Engine = "Snowdrop"
+Year = "2016"
+Analysis = [
+["Global Illumination in Tom Clancy's The Division", "https://www.youtube.com/watch?v=04YUZ3bWAyg"],
+["Blending Autonomy and Control: Creating NPCs for Tom Clancy's The Division", "https://www.youtube.com/watch?v=Vre9qqoEBpE"],
+["Tom Clancy's The Division: AI Behavior Editing and Debugging", "https://www.youtube.com/watch?v=rYQQRIY_zcM"],
+]
+
+["Metal Gear Solid Ground Zeroes"]
+Developer = "Kojima Productions"
+Engine = "Fox Engine"
+Year = "2014"
+Analysis = [
+["Photorealism Through the Eyes of a FOX: The Core of Metal Gear Solid Ground Zeroes (Sponsored)", "https://www.youtube.com/watch?v=WsmxBE9Gw6A"],
+]
+
+["The Flame in The Flood"]
+Developer = "The Molasses Flood"
+Engine = "Unreal Engine 4"
+Year = "2016"
+Analysis = [
+["Forging The River in The Flame in The Flood", "https://www.youtube.com/watch?v=6N56YpHCHBM"],
+]
+
+["INSIDE"]
+Developer = "Playdead"
+Engine = "Unity"
+Year = "2016"
+Analysis = [
+["Temporal Reprojection Anti-Aliasing in INSIDE", "https://www.youtube.com/watch?v=2XXS5UyNjjU"],
+["Low Complexity, High Fidelity: The Rendering of INSIDE", "https://www.youtube.com/watch?v=RdN06E6Xn9E"],
+]
+
+["Rainbow Six Siege"]
+Developer = "Ubisoft Montreal"
+Engine = "AnvilNext 2.0"
+Year = "2015"
+Analysis = [
+["Rendering Rainbow Six Siege", "https://www.youtube.com/watch?v=RAy8UoO2blc"],
+]
+
+["Splinter Cell: Blacklist"]
+Developer = "Ubisoft Toronto"
+Engine = "Unreal Engine 2.5"
+Year = "2013"
+Analysis = [
+["Modeling AI Perception and Awareness in Splinter Cell: Blacklist", "https://www.youtube.com/watch?v=RFWrKHM0vAg"],
+]
+
+["FIFA"]
+Developer = "EA Vancouver"
+Engine = "Frostbite"
+Year = "Annually"
+Analysis = [
+["How FIFA Delivers Live Content to Users Fast", "https://www.youtube.com/watch?v=YmNgREFUXh0"],
+]
+
+["Journey"]
+Developer = "Thatgamecompany"
+Engine = "PhyreEngine"
+Year = "2012"
+Analysis = [
+["Sand Rendering in Journey", "https://www.youtube.com/watch?v=wt2yYnBRD3U"],
+]
+["Forza Motorsport 5"]
+Developer = "Turn 10 Studios"
+Engine = "ForzaTech"
+Year = "2013"
+Analysis = [
+["Capturing Reality: Gathering Reference for Forza Motorsport 5", "https://www.youtube.com/watch?v=lVVuoymwJoE"],
+]
+
+["Halo"]
+Developer = "Bungie, 343 Industries"
+Engine = "Slipspace Engine"
+Year = "2001"
+Analysis = [
+["Running the Halo Multiplayer Experience at 60fps: A Technical Art Perspective", "https://www.youtube.com/watch?v=65_lBJbAxnk"],
+]
+
+["The Elder Scrolls Online"]
+Developer = "ZeniMax Online Studios"
+Engine = "Havok"
+Year = "2014"
+Analysis = [
+["Tech Art in Tamriel: The Elder Scrolls Online's Character Tools and Pipeline", "https://www.youtube.com/watch?v=5YBJaXHFoSA"],
+]
+
+["Rainbow Six: Siege"]
+Developer = "Ubisoft Montreal"
+Engine = "AnvilNext 2.0"
+Year = "2015"
+Analysis = [
+["The Art of Destruction in Rainbow Six: Siege", "https://www.youtube.com/watch?v=SjkQxowsL0I"],
+]
+
+["Dragon Age"]
+Developer = "BioWare"
+Engine = "Frostbite 3"
+Year = "2009"
+Analysis = [
+["Connecting Players and Franchise Across Console Generations in the Dragon Age Keep", "https://www.youtube.com/watch?v=XxtTD6QlOLc"],
+]
+
+["Stellaris"]
+Developer = "Paradox Development Studio"
+Engine = "Clausewitz Engine"
+Year = "2016"
+Analysis = [
+["Creating Complex AI Behavior in Stellaris Through Data-Driven Design", "https://www.youtube.com/watch?v=Z5LMUbjyFQM"],
+]
+
+["Total War: Warhammer"]
+Developer = "Creative Assembly"
+Engine = "Warscape"
+Year = "2016"
+Analysis = [
+["Siege Battle AI in Total War: Warhammer", "https://www.youtube.com/watch?v=sHolirTf9CI"],
+]
+
+["Killer Instinct"]
+Developer = "Rare, Double Helix Games, Iron Galaxy Studios, Dlala Studios"
+Engine = "HexEngine"
+Year = "2013"
+Analysis = [
+["Designing AI for Killer Instinct", "https://www.youtube.com/watch?v=9yydYjQ1GLg"],
+]
+
+["Dragon Age Inquisition"]
+Developer = "BioWare"
+Engine = "Frostbite 3"
+Year = "2014"
+Analysis = [
+["Getting Inquisitive About the AI of Dragon Age Inquisition", "https://www.youtube.com/watch?v=vt6kf9PP92U"],
+]
+
+["No Man's Sky"]
+Developer = "Hello Games"
+Engine = "Internal"
+Year = "2016"
+Analysis = [
+["Continuous World Generation in No Man's Sky", "https://www.youtube.com/watch?v=sCRzxEEcO2Y"],
+["Building Worlds in No Man's Sky Using Math(s)", "https://www.youtube.com/watch?v=C9RyEzMiU"],
+]
+
+["Halo Wars"]
+Developer = "Ensemble Studios, 343 Industries, Creative Assembly"
+Engine = "Havok"
+Year = "2009"
+Analysis = [
+["The Terrain of Halo Wars", "https://www.youtube.com/watch?v=In1wzUDopLM"],
+]
+
+["Below"]
+Developer = "Capybara Games"
+Engine = "Internal"
+Year = "2018"
+Analysis = [
+["The Rendering of Below", "https://www.youtube.com/watch?v=4D5uX8wL1V8"],
+]
+
+["Eve Online"]
+Developer = "CCP Games"
+Engine = "Trinity"
+Year = "2003"
+Analysis = [
+["The Benefits and Challenges of Supporting Third-Party Developers in Eve Online", "https://www.youtube.com/watch?v=uS9BgDtQ5Rw"],
+]
+
+["Night in the Woods"]
+Developer = "Infinite Fall"
+Engine = "Unity"
+Year = "2017"
+Analysis = [
+["Making Night in the Woods Better with Open Source", "https://www.youtube.com/watch?v=Qsiu-zzDYww"],
+]
+
+["Call of Duty: Black Ops III"]
+Developer = "Treyarch"
+Engine = "IW engine"
+Year = "2015"
+Analysis = [
+["Fighting Latency on Call of Duty: Black Ops III", "https://www.youtube.com/watch?v=EtLHLfNpu84"],
+]
+
+["ALAN WAKE"]
+Developer = "Remedy"
+Engine = "Northlight"
+Year = "2010"
+Analysis = [
+["ALAN WAKE: The Writer Who Made Us Rewrite Our Engine", "https://www.youtube.com/watch?v=73KjaHcsdlo"],
+]
