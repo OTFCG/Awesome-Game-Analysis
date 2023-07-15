@@ -1094,3 +1094,12 @@ Year = "2009"
 Analysis = [
   ["Building a Dynamic Lighting Engine", "https://www.gdcvault.com/play/1012013/Building-a-Dynamic-Lighting-Engine"],
 ]
+
+
+["Horizon Forbidden West"]
+Developer = "Guerrilla"
+Engine = "Decima"
+Year = "2022"
+Analysis = [
+  ["The Cinematics of 'Horizon Forbidden West'", "https://www.youtube.com/watch?v=gSzOv4e1ej4&list=PL2e4mYbwSTbaw1l65rE0Gv6_B9ctOzYyW&index=2"],
+]

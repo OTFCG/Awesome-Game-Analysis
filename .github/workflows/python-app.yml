@@ -24,7 +24,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install -r scripts/requirements.txt
 
       - name: Execute Python scripts
-        run: python toml_markdown.py -i games.toml -t toml --readme > README.md
+        run: python scripts/toml_markdown.py -i games.toml -t toml --readme > README.md

@@ -30,10 +30,10 @@ Replace the placeholders with the respective game information. For Analysis, lis
 
 ## Step 2: Generate the README.md File
 
-After adding the game information to the `games.toml` file, generate the `README.md` file using the below command:
+After adding the game information to the `games.toml` file, generate the `README.md` file using the below command (in `scripts/toml_markdown.py`):
 
 ``` bash
-$ python toml_markdown.py -i games.toml -t toml --readme > README.md
+$ python scripts/toml_markdown.py -i games.toml -t toml --readme > README.md
 ```
 
 This command will convert the games.toml file into a README.md file.
