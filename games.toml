@@ -34,6 +34,7 @@ Engine = "Decima"
 Year = "2019"
 Analysis = [
   ["Behind the Pretty Frames", "https://mamoniem.com/behind-the-pretty-frames-death-stranding/"],
+  ["'Death Stranding': An AI Postmortem", "https://www.youtube.com/watch?v=yqZE5O8VPAU"],
 ]
 
 
@@ -153,6 +154,7 @@ Engine = "Internal"
 Year = "2005"
 Analysis = [
   ["Froyok's Blog", "https://www.froyok.fr/blog/2012-10-breakdown-shadow-of-the-colossus-pal-ps2/page.html"],
+  ["Beyond the Remake of 'Shadow of the Colossus': A Technical Perspective", "https://www.youtube.com/watch?v=fcBZEZWGYek"]
 ]
 
 
@@ -338,6 +340,11 @@ Analysis = [
   ["More on God of War III Antialiasing", "https://www.realtimerendering.com/blog/more-on-god-of-war-iii-antialiasing/"],
   ["DF article", "https://www.eurogamer.net/digitalfoundry-mlaa-360-pc-article"],
   ["Sig 2019: Interactive Wind and Vegetation", "https://www.youtube.com/watch?v=9-HTvoBi0Iw&t=145s"],
+  ["Playtesting 'God of War'", "https://www.youtube.com/watch?v=Zr4u5Kf_CT4"],
+  ["Evolving Combat in 'God of War' for a New Perspective", "https://www.youtube.com/watch?v=hE5tWF-Ou2k"],
+  ["Keyframes and Cardboard Props: The Cinematic Process Behind 'God of War'", "https://www.youtube.com/watch?v=MNinZWlhprE"],
+  ["Disintegrating Meshes with Particles in 'God of War'", "https://www.youtube.com/watch?v=ajNSrTprWsg"],
+  ["Wind Simulation in God of War", "https://www.youtube.com/watch?v=dDgyBKkSf7A"]
 ]
 
 
@@ -883,7 +890,8 @@ Developer = "Santa Monica Studio"
 Engine = "Internal"
 Year = "2022"
 Analysis = [
-  ["God of War Ragnarok", "https://www.gdcvault.com/play/1028787/-God-of-War-Ragnarok"],
+  ["'God of War Ragnarok's' Visual Scripting Solution", "https://www.gdcvault.com/play/1028787/-God-of-War-Ragnarok"],
+  ["Breaking Barriers: Combat Accessibility in 'God of War Ragnarök'", "https://www.youtube.com/watch?v=iA8tpcHwVtg"],
 ]
 
 
@@ -905,6 +913,7 @@ Year = "2020"
 Analysis = [
   ["Final Fantasy VII Remake", "https://www.gdcvault.com/play/1027049/-Final-Fantasy-VII-Remake"],
   ["Final Fantasy VII Remake", "https://www.gdcvault.com/play/1027355/-Final-Fantasy-VII-Remake"],
+  ["'Final Fantasy VII' Remake: Automating Quality Assurance and the Tools for the Future", "https://www.youtube.com/watch?v=L2bJ4E_4zN8"]
 ]
 
 
@@ -1107,6 +1116,8 @@ Engine = "Decima"
 Year = "2022"
 Analysis = [
   ["The Cinematics of 'Horizon Forbidden West'", "https://www.youtube.com/watch?v=gSzOv4e1ej4&list=PL2e4mYbwSTbaw1l65rE0Gv6_B9ctOzYyW&index=2"],
+  ["Building Machines for a Better Future in 'Horizon'", "https://www.youtube.com/watch?v=dr17S0I_h78"],
+  ["Knocking on Death's Door: Designing a New Bunker for 'Horizon Forbidden West'", "https://www.youtube.com/watch?v=KxcXUYx3eLQ"]
 ]
 
 
@@ -1118,3 +1129,277 @@ Year = "2007"
 Analysis = [
   ["GPU Gems2: Chapter 9", "https://developer.nvidia.com/gpugems/gpugems2/part-ii-shading-lighting-and-shadows/chapter-9-deferred-shading-stalker"],
 ]
+
+
+
+["The Quarry"]
+Developer = "Supermassive Games"
+Engine = "UE4"
+Year = "2022"
+Analysis = [
+  ["Case Study: Creating Realistic Facial Motion for 'The Quarry'", "https://www.youtube.com/watch?v=DJ99mv52fVo"],
+]
+
+
+["Ghost of Tsushima"]
+Developer = "Sucker Punch"
+Engine = "Internal"
+Year = "2020"
+Analysis = [
+["Blowing from the West: Simulating Wind in 'Ghost of Tsushima'", "https://www.youtube.com/watch?v=d61_o4CGQd8"],
+["Exploration in 'Ghost of Tsushima': Letting the Island Guide You", "https://www.youtube.com/watch?v=b5rUPBWgwuw"],
+["Procedural Grass in 'Ghost of Tsushima'", "https://www.youtube.com/watch?v=Ibe1JBF5i5Y"],
+["Master of the Katana: Melee Combat in 'Ghost of Tsushima'", "https://www.youtube.com/watch?v=1ih5BxnJu2I"],
+["Honoring the Blade: Lethality and Combat Balance in 'Ghost of Tsushima'", "https://www.youtube.com/watch?v=dKS2kaI3aXE"],
+["Zen of Streaming: Building and Loading 'Ghost of Tsushima'", "https://www.youtube.com/watch?v=Ur53sJdS8rQ"]
+]
+
+
+
+["Forza Horizon 5"]
+Developer = "Playground Games"
+Engine = "ForzaTech"
+Year = "2021"
+Analysis = [
+["How Parameters Drive the Particle Effects of 'Forza Horizon 5'", "https://www.youtube.com/watch?v=8Pk-yAp7J_8"],
+]
+
+
+
+["Returnal"]
+Developer = "Housemarque"
+Engine = "UE4"
+Year = "2021"
+Analysis = [
+["Can We Do It with Particles?: VFX Learnings from 'Returnal'", "https://www.youtube.com/watch?v=qbkb8ap7vts"]
+]
+
+
+
+["EVE Online"]
+Developer = "CCP Games"
+Engine = "Trinity"
+Year = "2003"
+Analysis = [
+["Quasar, Brightest in the Galaxy: Expanding 'EVE Online's' Server Potential with gRPC", "https://www.youtube.com/watch?v=RR0YTEEMLFg"]
+]
+
+
+
+["Ratchet and Clank: Rift Apart"]
+Developer = "Insomniac Games"
+Engine = "Internal"
+Year = "2021"
+Analysis = [
+["Recalibrating Our Limits: Lighting on 'Ratchet and Clank: Rift Apart'", "https://www.youtube.com/watch?v=geErfczxwjc"],
+]
+
+
+
+["Far Cry 6"]
+Developer = "Ubisoft Toronto"
+Engine = "Dunia Engine"
+Year = "2021"
+Analysis = [
+["Simulating Tropical Weather in 'Far Cry 6'", "https://www.youtube.com/watch?v=mGHCOOnI5aE"],
+]
+
+
+
+["Dreamscaper"]
+Developer = "Afterburner Studios"
+Engine = "Unity"
+Year = "2021"
+Analysis = [
+["Dreamscaper: Killer Combat on an Indie Budget", "https://www.youtube.com/watch?v=3Omb5exWpd4"]
+]
+
+
+
+["Wild Rift"]
+Developer = "Riot Games"
+Engine = "Internal"
+Year = "2020"
+Analysis = [
+["The Art of Not Reinventing the Wheel in 'Wild Rift' Asset Pipeline", "https://www.youtube.com/watch?v=fupHL5p-MtQ"],
+]
+
+
+
+["FIFA 22"]
+Developer = "EA Vancouver, EA Romania"
+Engine = "Frostbite 3"
+Year = "2021"
+Analysis = [
+["'FIFA 22's' Hypermotion: Full-Match Mocap Driving Machine Learning Technology", "https://www.youtube.com/watch?v=lJYmMCQ2r-0"],
+]
+
+
+
+["Rocket League"]
+Developer = "Psyonix"
+Engine = "UE3"
+Year = "2015"
+Analysis = [
+["'Rocket League': Scaling for Free to Play", "https://www.youtube.com/watch?v=W52Lm505300"],
+]
+
+
+
+["Caves of Qud"]
+Developer = "Freehold Games"
+Engine = "Unity"
+Year = "2015"
+Analysis = [
+["Tile-Based Map Generation using Wave Function Collapse in 'Caves of Qud'", "https://www.youtube.com/watch?v=AdCgi9E90jw"],
+]
+
+
+
+["Spelunky 2"]
+Developer = "Mossmouth, BlitWorks"
+Engine = "Internal"
+Year = "2020"
+Analysis = [
+["Breaking the Ankh: Deterministic Propagation Netcode in 'Spelunky 2'", "https://www.youtube.com/watch?v=mss6S2IO8Mw"],
+]
+
+
+
+["Battleborn"]
+Developer = "Gearbox Software"
+Engine = "UE3"
+Year = "2016"
+Analysis = [
+["The VFX Process Behind 'Battleborn'", "https://www.youtube.com/watch?v=DdV1_TOvi0s"],
+]
+
+
+
+["Days Gone"]
+Developer = "Bend Studio"
+Engine = "UE4"
+Year = "2019"
+Analysis = [
+["Squad Coordination in 'Days Gone'", "https://www.youtube.com/watch?v=7TQ-WS3MPlE"],
+]
+
+
+
+["Blade & Soul"]
+Developer = "NCSOFT"
+Engine = "UE3"
+Year = "2012"
+Analysis = [
+["Reinforcement Learning in Action: Creating Arena Battle AI for 'Blade & Soul'", "https://www.youtube.com/watch?v=ADS1GKFb2T8"],
+]
+
+
+
+["Marvel's Spider-Man: Miles Morales"]
+Developer = "Insomniac Games"
+Engine = "Internal"
+Year = "2020"
+Analysis = [
+["An Explosive New Spider-Man: Creating VFX for Miles Morales", "https://www.youtube.com/watch?v=hvU2EVGTOp0"],
+["Real-Time Cloth Solutions on 'Marvel's Spider-Man'", "https://www.youtube.com/watch?v=kGvqlLlZUis"],
+]
+
+
+
+["FAITH"]
+Developer = "Airdorf Games"
+Engine = "Unity"
+Year = "2017"
+Analysis = [
+["MORTIS 101: 'FAITH's' Horror Design Toolkit", "https://www.youtube.com/watch?v=04bt3aFwKc8"],
+]
+
+
+
+["The Walking Dead: Our World"]
+Developer = "Next Games"
+Engine = "Unity"
+Year = "2018"
+Analysis = [
+["Social Depth of Location-Based Play in 'The Walking Dead: Our World'", "https://www.youtube.com/watch?v=um1N4kafV5I"],
+]
+
+
+
+["Sea of Solitude"]
+Developer = "Jo-Mei Games"
+Engine = "Unity"
+Year = "2019"
+Analysis = [
+["Paint It Black: The Art of 'Sea of Solitude'", "https://www.youtube.com/watch?v=yreVq5fWv0Y"],
+]
+
+
+
+["Just Cause 4"]
+Developer = "Avalanche Studios"
+Engine = "Apex"
+Year = "2018"
+Analysis = [
+["Building a Mixing Sandbox for 'Just Cause 4'", "https://www.youtube.com/watch?v=uN8RxOvrxMM"],
+]
+
+
+
+["Untitled Goose Game"]
+Developer = "House House"
+Engine = "Unity"
+Year = "2019"
+Analysis = [
+["Google Maps, Not Greyboxes: Digital Location Scouting for 'Untitled Goose Game'", "https://www.youtube.com/watch?v=tA-64QuWgLk"],
+]
+
+
+
+["Sea of Thieves"]
+Developer = "Rare"
+Engine = "UE4"
+Year = "2018"
+Analysis = [
+["Automated Testing of Gameplay Features in 'Sea of Thieves'", "https://www.youtube.com/watch?v=X673tOi8pU8"],
+]
+
+
+
+["Tetris Effect"]
+Developer = "Monstars Inc. and Resonair"
+Engine = "UE4"
+Year = "2018"
+Analysis = [
+["Making 'Tetris Effect'-ive", "https://www.youtube.com/watch?v=2BjgXfGiJ1A"],
+]
+
+
+
+["The Last of Us: Part II"]
+Developer = "Naughty Dog"
+Engine = "Internal"
+Year = "2020"
+Analysis = [
+["Crafting an Interactive Guitar", "https://www.youtube.com/watch?v=bEjUIHEeKQU"],
+]
+
+
+
+["The Jackbox Party Pack"]
+Developer = "Jackbox Games"
+Engine = "Internal"
+Year = "2014"
+Analysis = [
+["The Jackbox Party Pack Unboxed: How and Why We Make a Pack of 5 Games Every Year", "https://www.youtube.com/watch?v=2zLGrF_T8qY"],
+]
+
+
+
+["Battlefield V"]
+Developer = "DICE"
+Engine = "Frostbite"
+Year = "2018"
+Analysis = [["AI for Testing: The Development of Bots that Play Battlefield V", "https://www.youtube.com/watch?v=s1JOSbUR6KE"],
+["It Just Works: Ray-Traced Reflections in Battlefield V", "https://www.youtube.com/watch?v=ncUNLDQZMzQ"]]
