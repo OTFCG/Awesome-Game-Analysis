@@ -78,7 +78,7 @@ A collection of video game tech analysis resources, covers blogs, articles, pres
 |007 Legends : Moonraker|Eurocom|UE3|2012|<details><summary>Expand</summary>- [007 Legends The World](http://simonschreibt.de/gat/007-legends-the-world/)<br></details>|
 |Dead Space 3|Visceral Games|Frostbite 3|2013|<details><summary>Expand</summary>- [Dead Space 3 Diffuse Reflections](http://simonschreibt.de/gat/dead-space-3-diffuse-reflections/)<br></details>|
 |Metal Gear Rising|Platinum qGames|Internal|2013|<details><summary>Expand</summary>- [Metal Gear Rising Slicing](http://simonschreibt.de/gat/metal-gear-rising-slicing/)<br></details>|
-|Assassins Creed 3|Ubisoft Montreal|AnvilNext|2012|<details><summary>Expand</summary>- [Assassins Creed 3 Bouncing Light](http://simonschreibt.de/gat/assassins-creed-3-bouncing-light/)<br></details>|
+|Assassins Creed 3|Ubisoft Montreal|AnvilNext|2012|<details><summary>Expand</summary>- [Assassins Creed 3 Bouncing Light](http://simonschreibt.de/gat/assassins-creed-3-bouncing-light/)<br>- [Assassins Creed 3 LOD Blending](http://simonschreibt.de/gat/assassins-creed-3-lod-blending/)<br></details>|
 |Mirror Edge|DICE|UE3|2008|<details><summary>Expand</summary>- [Henrikgdc09 Compat](https://fr.slideshare.net/DICEStudio/henrikgdc09-compat)<br></details>|
 |The Last of Us|Naughty Dog|Internal|2013|<details><summary>Expand</summary>- [Lighting Technology of The Last Of Us](http://miciwan.com/SIGGRAPH2013/Lighting%20Technology%20of%20The%20Last%20Of%20Us.pdf)<br></details>|
 |Sacred 2|Ascaron|Internal|2008|<details><summary>Expand</summary>- [Burning Map Effect in Sacred 2](http://simonschreibt.de/gat/sacred-2-burning-map/)<br>- [Pulse Shader in Sacred 2](http://simonschreibt.de/gat/sacred-2-pulse-shader/)<br>- [Crystal Reflection in Sacred 2](http://simonschreibt.de/gat/sacred-2-crystal-reflexion/)<br></details>|
@@ -90,7 +90,6 @@ A collection of video game tech analysis resources, covers blogs, articles, pres
 |Battlefield 2|DICE|Refraction Engine|2005|<details><summary>Expand</summary>- [Battlefield 2 Flag Sound](http://simonschreibt.de/gat/battlefield-2-flag-sound/)<br></details>|
 |Battlefield Bad Company 2|DICE|Frostbite 1.5|2010|<details><summary>Expand</summary>- [Battlefield Bad Company 2 Smoke Column](http://simonschreibt.de/gat/battlefield-bad-company-2-smoke-column/)<br></details>|
 |Left 4 Dead 2|Valve Corporation|Source|2009|<details><summary>Expand</summary>- [Left 4 Dead 2 Puke](http://simonschreibt.de/gat/left-4-dead-2-puke/)<br></details>|
-|Assassins Creed 3|Ubisoft Montreal|AnvilNext|2012|<details><summary>Expand</summary>- [Assassins Creed 3 LOD Blending](http://simonschreibt.de/gat/assassins-creed-3-lod-blending/)<br></details>|
 
 
 ## References
