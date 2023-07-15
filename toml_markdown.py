@@ -3,6 +3,22 @@ import re
 import argparse
 import difflib
 
+'''
+- For converting a TOML file to Markdown:
+$ python toml_markdown.py -i input.toml -t toml
+
+- For converting a Markdown file to TOML:
+$ python toml_markdown.py -i input.md -t markdown
+
+- For generating a full README.md from TOML file, use the --readme flag.
+This will include all sections at the top and bottom of the output:
+$ python toml_markdown.py -i input.toml -t toml --readme
+
+- All of these commands print the result to standard output (the console),
+but you can redirect this to a file like so:
+$ python toml_markdown.py -i input.toml -t toml --readme > README.md
+'''
+
 def markdown_to_toml(md_table_entry):
     lines = md_table_entry.split("\n")
     # Extract table data
@@ -143,7 +159,13 @@ def compare_files(file1, file2):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
                         prog='Toml-Markdown Converter',
-                        description='Converting toml blocks and markdown table entries')
+                        description='''This program converts between TOML blocks and markdown table entries. It's designed to help
+                                    you generate markdown table entries or README.md files from TOML input. You can provide a file
+                                    as input (-i, --input) and specify the type of the file (-t, --type). Currently, the script
+                                    supports two types: 'toml' and 'markdown' (which can also be denoted as 'md').
+                                    The script also allows you to check for the presence of a '--readme' flag,
+                                    without any associated value. If this flag is provided, the script will
+                                    generate the entire README.md content, including game analysis, top section and reference section.''')
     parser.add_argument('-i', '--input', required=True)
     parser.add_argument('-t', '--type', required=True, choices=['toml', 'markdown', 'md'])
     parser.add_argument('--readme', required=False, action='store_true')
