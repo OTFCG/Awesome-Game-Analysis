@@ -2,6 +2,8 @@ import toml
 import re
 import argparse
 import difflib
+import markdown
+import sys
 
 '''
 - For converting a TOML file to Markdown:
@@ -159,6 +161,50 @@ def compare_files(file1, file2):
     for line in difflib.unified_diff(f1_text, f2_text, fromfile=file1, tofile=file2):
         print(line)
 
+def markdown_to_dict(file):
+    with open(file, 'r', encoding='utf-8') as file:
+        markdown_text = file.read()
+
+    game_info_dict = {}
+    table_pattern = r'\|(.+)\|'  
+    table_matches = re.findall(table_pattern, markdown_text, re.MULTILINE)
+    table_data = table_matches[2:]
+    
+    for row in table_data:
+        game_info = [cell.strip() for cell in row.split('|')]
+        title, developer, engine, year, analysis_raw = game_info
+        analysis = re.findall(r'\[(.*?)\]\((.*?)\)', analysis_raw)
+        game_info = {
+            "Developer": developer,
+            "Engine": engine,
+            "Year": year,
+            "Analysis": analysis,
+        }
+        game_info_dict[title] = game_info
+
+    return game_info_dict
+
+def toml_to_dict(toml_string):
+    toml_dict = toml.loads(toml_string)
+    del toml_dict["title"]
+    return toml_dict
+        
+def check_change(olddict, newdict):
+    for title, game_info in newdict.items():
+        old_game_info = olddict.get(title)
+        if old_game_info is not None:
+            if (
+                old_game_info["Developer"] != game_info["Developer"]
+                or old_game_info["Engine"] != game_info["Engine"]
+                or old_game_info["Year"] != game_info["Year"]
+                or old_game_info["Analysis"] != game_info["Analysis"]
+            ):
+                return True
+        else:
+            return True
+        
+    return False
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
                         prog='Toml-Markdown Converter',
@@ -179,13 +225,26 @@ if __name__ == "__main__":
     with open(args.input, 'r') as f:
         if args.type == 'toml':
             if args.readme:
-                section_games='''## Analysis - Games\n\n|Game|Developer|Engine|Year|Analysis|\n|:---|:---|:---|:---|:---|'''.strip() + "\n"
-                section_games += toml_to_markdown(f.read())
-                print(section_top)
-                print("---")
-                print(section_games)
-                print("---")
-                print(section_reference)
+                try:
+                    olddict = markdown_to_dict('README.md')
+                    newdict = toml_to_dict(f.read())
+                    change = check_change(olddict, newdict)
+                    if not change :
+                        sys.exit(1)
+                    section_games='''## Analysis - Games\n\n|Game|Developer|Engine|Year|Analysis|\n|:---|:---|:---|:---|:---|'''.strip() + "\n"
+                    section_games += toml_to_markdown(f.read())
+                    res = ""
+                    res += section_top
+                    res += "---"
+                    res += section_games
+                    res += "---"
+                    res += section_reference
+                    readme = open("README.ME", "w")
+                    readme.write(res)
+                    readme.close()
+                except Exception as e:
+                    print("Error occurred:", e)
+                    sys.exit(-1)
             else:
                 print(toml_to_markdown(f.read()))
         else:
