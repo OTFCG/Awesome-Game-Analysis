@@ -86,6 +86,7 @@ Engine = "RAGE"
 Year = "2018"
 Analysis = [
   ["imgeself's Blog", "https://imgeself.github.io/posts/2020-06-19-graphics-study-rdr2/"],
+  ["SIG 2019: Creating the Atmospheric World", "https://www.youtube.com/watch?v=9-HTvoBi0Iw&t=7100s"],
 ]
 
 
@@ -336,6 +337,7 @@ Analysis = [
   ["Morphological Antialiasing", "https://www.realtimerendering.com/blog/morphological-antialiasing-in-god-of-war-iii/"],
   ["More on God of War III Antialiasing", "https://www.realtimerendering.com/blog/more-on-god-of-war-iii-antialiasing/"],
   ["DF article", "https://www.eurogamer.net/digitalfoundry-mlaa-360-pc-article"],
+  ["Sig 2019: Interactive Wind and Vegetation", "https://www.youtube.com/watch?v=9-HTvoBi0Iw&t=145s"],
 ]
 
 
@@ -756,6 +758,7 @@ Year = "2012"
 Analysis = [
   ["Assassins Creed 3 Bouncing Light", "http://simonschreibt.de/gat/assassins-creed-3-bouncing-light/"],
   ["Assassins Creed 3 LOD Blending", "http://simonschreibt.de/gat/assassins-creed-3-lod-blending/"],
+  ["Rendering Assassin's Creed III", "https://www.gdcvault.com/play/1017710/Rendering-Assassin-s-Creed"],
 ]
 
 
@@ -992,7 +995,8 @@ Developer = "Ubisoft Montreal"
 Engine = "Dunia Engine 2"
 Year = "2014"
 Analysis = [
-  ["Adaptive Virtual Texture Rendering in Far Cry 4", "https://www.gdcvault.com/play/1021760/Adaptive-Virtual-Texture-Rendering-in"],
+  ["Adaptive Virtual Texture Rendering", "https://www.gdcvault.com/play/1021760/Adaptive-Virtual-Texture-Rendering-in"],
+  ["Rendering the World of Far Cry 4", "https://www.youtube.com/watch?v=rD6KcxcCl_8"],
 ]
 
 
@@ -1096,10 +1100,21 @@ Analysis = [
 ]
 
 
+
 ["Horizon Forbidden West"]
 Developer = "Guerrilla"
 Engine = "Decima"
 Year = "2022"
 Analysis = [
   ["The Cinematics of 'Horizon Forbidden West'", "https://www.youtube.com/watch?v=gSzOv4e1ej4&list=PL2e4mYbwSTbaw1l65rE0Gv6_B9ctOzYyW&index=2"],
+]
+
+
+
+["S.T.A.L.K.E.R."]
+Developer = "GSC Game World"
+Engine = "X-Ray Engine"
+Year = "2007"
+Analysis = [
+  ["GPU Gems2: Chapter 9", "https://developer.nvidia.com/gpugems/gpugems2/part-ii-shading-lighting-and-shadows/chapter-9-deferred-shading-stalker"],
 ]
