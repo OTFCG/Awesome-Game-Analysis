@@ -1,11 +1,13 @@
 
 # Awesome-Game-Analysis
 This repository serves as a comprehensive collection of video game technology analysis resources.
+
 Suggestions are welcome to be filed via the GitHub issue tracker for this repository, please use the issue tracker to submit your ideas.
-In order to maintain the structure of this repository, please don't directly make changes to the `README.md` file.
-Instead, read our [Contribution Guide](https://github.com/OTFCG/Awesome-Game-Analysis/blob/main/contribution_guide.md) before PRs.
+
+***In order to maintain the structure of this repository, please don't directly make changes to the `README.md` file. Instead, read our [Contribution Guide](https://github.com/OTFCG/Awesome-Game-Analysis/blob/main/contribution_guide.md) before PRs.***
 
 ---
+
 ## Analysis - Games
 
 |Game|Developer|Engine|Year|Analysis|
@@ -137,4 +139,3 @@ Instead, read our [Contribution Guide](https://github.com/OTFCG/Awesome-Game-Ana
 - [r/videogamescience](https://www.reddit.com/r/videogamescience/)
 - [GDC Vault](https://www.gdcvault.com/)
 - [GDC's Programming Talks](https://www.youtube.com/playlist?list=PL2e4mYbwSTbaw1l65rE0Gv6_B9ctOzYyW)
-
