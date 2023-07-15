@@ -1596,10 +1596,10 @@ Analysis = [
 ["Raising Atreus for Battle in God of War", "https://www.youtube.com/watch?v=lbyGzzcKg9U"],
 ]
 
-["Panzer Dragoon/Zwei/Saga"]
+["Panzer Dragoon Series"]
 Developer = "Team Andromeda"
 Engine = "Internal"
-Year = "1995/1996/1998"
+Year = "1995"
 Analysis = [
 ["Classic Game Postmortem", "https://www.youtube.com/watch?v=gMOMsEmde-w"],
 ]
@@ -1742,7 +1742,7 @@ Analysis = [
 ["FIFA"]
 Developer = "EA Vancouver"
 Engine = "Frostbite"
-Year = "Annually"
+Year = "N/A"
 Analysis = [
 ["How FIFA Delivers Live Content to Users Fast", "https://www.youtube.com/watch?v=YmNgREFUXh0"],
 ]
