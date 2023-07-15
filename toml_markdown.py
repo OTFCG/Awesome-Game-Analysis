@@ -1,6 +1,7 @@
 import toml
 import re
 import argparse
+import difflib
 
 def markdown_to_toml(md_table_entry):
     lines = md_table_entry.split("\n")
@@ -102,17 +103,65 @@ def test_multiple():
     # toml
     print(toml_to_markdown(toml_block_list))
 
+section_top='''
+# Awesome-Game-Analysis
+A collection of video game tech analysis resources, covers blogs, articles, presentations, and references related to game analysis and development.
+'''
+section_reference='''
+## References
+- [Behind the Pretty Frames](https://mamoniem.com/category/behind-the-pretty-frames/)
+- [imgself's Blog](https://imgeself.github.io/posts/)
+- [Froyok's Blog](https://www.froyok.fr/articles.html)
+- [Anton Schreiner's Blog](https://aschrein.github.io/)
+- [Frame Analysis](https://alain.xyz/blog)
+- [The Code Corsair](https://www.elopezr.com/)
+- [Graphics Studies](https://www.adriancourreges.com/blog/)
+- [Silent’s Blog](https://cookieplmonster.github.io/)
+- [Nathan Gordon's Blog](https://medium.com/@gordonnl)
+- [Thomas' Blog](https://blog.thomaspoulet.fr)
+- [IRYOKU's Blog](https://www.iryoku.com/)
+- [Game Art Tricks](https://simonschreibt.de/game-art-tricks/)
+- [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor)
+- [Crytek Presentations](https://archive.org/download/crytek_presentations)
+- [r/TheMakingOfGames](https://www.reddit.com/r/TheMakingOfGames/)
+- [r/videogamescience](https://www.reddit.com/r/videogamescience/)
+- [GDC Vault](https://www.gdcvault.com/)
+- [GDC's Programming Talks](https://www.youtube.com/playlist?list=PL2e4mYbwSTbaw1l65rE0Gv6_B9ctOzYyW)
+'''
+
+def compare_files(file1, file2):
+    # Open file for reading in text mode
+    with open(file1, 'r') as f1, open(file2, 'r') as f2:
+        # Read the lines of each file
+        f1_text = f1.readlines()
+        f2_text = f2.readlines()
+
+    # Find and print the differences
+    for line in difflib.unified_diff(f1_text, f2_text, fromfile=file1, tofile=file2):
+        print(line)
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
                         prog='Toml-Markdown Converter',
                         description='Converting toml blocks and markdown table entries')
     parser.add_argument('-i', '--input', required=True)
     parser.add_argument('-t', '--type', required=True, choices=['toml', 'markdown', 'md'])
+    parser.add_argument('--readme', required=False, action='store_true')
 
     args = parser.parse_args()
 
+    # using the std output, you can redirect directly to the README.md or README.temp.md for comparasion
     with open(args.input, 'r') as f:
         if args.type == 'toml':
-            print(toml_to_markdown(f.read()))
+            if args.readme:
+                section_games='''## Analysis - Games\n\n|Game|Developer|Engine|Year|Analysis|\n|:---|:---|:---|:---|:---|'''.strip() + "\n"
+                section_games += toml_to_markdown(f.read())
+                print(section_top)
+                print("---")
+                print(section_games)
+                print("---")
+                print(section_reference)
+            else:
+                print(toml_to_markdown(f.read()))
         else:
             print(markdown_to_toml(f.read()))
