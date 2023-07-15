@@ -23,4 +23,4 @@
 - [ ] [r/TheMakingOfGames](https://www.reddit.com/r/TheMakingOfGames/)
 - [ ] [r/videogamescience](https://www.reddit.com/r/videogamescience/)
 - [ ] [GDC Vault](https://www.gdcvault.com/)
-
+- [ ] [GDC's Programming Talks](https://www.youtube.com/playlist?list=PL2e4mYbwSTbaw1l65rE0Gv6_B9ctOzYyW)
