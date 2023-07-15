@@ -1,6 +1,6 @@
 # TODO
 
-- [ ] new workflow: manipulate raw data, then generate markdown table
+- [X] new workflow: manipulate raw data, then generate markdown table
 - [ ] fill with more resources of one game and references 
 - [ ] new heading: ##Engine, same as the ##Games but provide the engine tech analysis collection.
 - [ ] refine some of the link text in brackets which is too trivial.
