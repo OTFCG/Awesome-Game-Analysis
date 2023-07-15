@@ -99,6 +99,12 @@ A collection of video game tech analysis resources, covers blogs, articles, pres
 |Middle-earth: Shadow of War|Monolith|Lithtech|2017|<details><summary>Expand</summary>- [Middle-earth: Shadow of War](https://www.gdcvault.com/play/1025199/-Middle-earth-Shadow-of)</details>|
 |Gears of War 4|The Coalition|UE4|2016|<details><summary>Expand</summary>- [Gears of War 4](https://www.gdcvault.com/play/1024008/-Gears-of-War-4)</details>|
 |Adventure Capitalist|Hyper Hippo|Unity|2014|<details><summary>Expand</summary>- [Adventure Capitalist Postmortem or](https://www.gdcvault.com/play/1023119/-Adventure-Capitalist-Postmortem-or)</details>|
+|Assassin's Creed Syndicate|Ubisoft Quebec|AnvilNext 2|2015|<details><summary>Expand</summary>- [Assassin's Creed Syndicate: A Technical Postmortem](https://www.gdcvault.com/play/1023305/-Assassin-s-Creed-Syndicate)<br></details>|
+|Kingdom Come: Deliverance|Warhorse Studios|CryEngine|2018|<details><summary>Expand</summary>- [Adaptive Clothing System in Kingdom Come: Deliverance](https://www.gdcvault.com/play/1022822/Adaptive-Clothing-System-in-Kingdom)<br></details>|
+|Far Cry 4|Ubisoft Montreal|Dunia Engine 2|2014|<details><summary>Expand</summary>- [Adaptive Virtual Texture Rendering in Far Cry 4](https://www.gdcvault.com/play/1021760/Adaptive-Virtual-Texture-Rendering-in)<br></details>|
+|Hitman: Absolution|IO Interactive|Glacier 2|2012|<details><summary>Expand</summary>- [Creating the AI for the Characters of Hitman: Absolution](https://www.gdcvault.com/play/1019353/Creating-the-AI-for-the)<br></details>|
+|CityVille|Zynga|Flash|2010|<details><summary>Expand</summary>- [CityVille: Lessons Learned & Tools Used](https://www.gdcvault.com/play/1016594/CityVille-Lessons-Learned-Tools-Used)<br></details>|
+|Ghost Recon Future Soldier|Ubisoft Paris|Internal|2012|<details><summary>Expand</summary>- [A Different Approach for Continuous Physics in Ghost Recon Future Soldier](https://www.gdcvault.com/play/1015856/A-Different-Approach-for-Continuous)<br></details>|
 
 
 
