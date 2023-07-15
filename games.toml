@@ -472,14 +472,6 @@ Analysis = [ [ "Don't Starve & Diablo Parallax", "http://simonschreibt.de/gat/do
 
 
 
-["Sacred 2"]
-Developer = "Ascaron"
-Engine = "Sacred"
-Year = 2008
-Analysis = [ [ "Sacred 2 Fake Mirror", "http://simonschreibt.de/gat/sacred-2-fake-mirror/",],]
-
-
-
 ["Tomb Raider 9 (Tomb Raider)"]
 Developer = "Crystal Dynamics"
 Engine = "Crystal"
@@ -596,7 +588,12 @@ Analysis = [ [ "Lighting Technology of The Last Of Us", "http://miciwan.com/SIGG
 Developer = "Ascaron"
 Engine = "Internal"
 Year = 2008
-Analysis = [ [ "Burning Map Effect in Sacred 2", "http://simonschreibt.de/gat/sacred-2-burning-map/",], [ "Pulse Shader in Sacred 2", "http://simonschreibt.de/gat/sacred-2-pulse-shader/",], [ "Crystal Reflection in Sacred 2", "http://simonschreibt.de/gat/sacred-2-crystal-reflexion/",],]
+Analysis = [
+[ "Burning Map Effect in Sacred 2", "http://simonschreibt.de/gat/sacred-2-burning-map/",]
+, [ "Pulse Shader in Sacred 2", "http://simonschreibt.de/gat/sacred-2-pulse-shader/",]
+, [ "Crystal Reflection in Sacred 2", "http://simonschreibt.de/gat/sacred-2-crystal-reflexion/",]
+, [ "Sacred 2 Fake Mirror", "http://simonschreibt.de/gat/sacred-2-fake-mirror/", ]
+]
 
 
 
@@ -837,5 +834,3 @@ Developer = "Replay Studios"
 Engine = "UE3"
 Year = 2009
 Analysis = [ [ "Building a Dynamic Lighting Engine", "https://www.gdcvault.com/play/1012013/Building-a-Dynamic-Lighting-Engine",],]
-
-
