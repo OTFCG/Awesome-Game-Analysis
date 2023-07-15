@@ -168,7 +168,7 @@ Suggestions are welcome to be filed via the GitHub issue tracker for this reposi
 |Titanfall 2|Respawn Entertainment|Source|2016|<details><summary>Expand</summary>- [Efficient Texture Streaming in Titanfall 2](https://www.youtube.com/watch?v=4BuvKotqpWo)<br></details>|
 |Prismata|Lunarch Studios|Internal|2018|<details><summary>Expand</summary>- [Playing Your Cards Right: The Hierarchical Portfolio Search AI of Prismata](https://www.youtube.com/watch?v=sQSL9j7W7uA)<br></details>|
 |God of War|Santa Monica Studio|Proprietary|2018|<details><summary>Expand</summary>- [Raising Atreus for Battle in God of War](https://www.youtube.com/watch?v=lbyGzzcKg9U)<br></details>|
-|Panzer Dragoon/Zwei/Saga|Team Andromeda|Internal|1995/1996/1998|<details><summary>Expand</summary>- [Classic Game Postmortem](https://www.youtube.com/watch?v=gMOMsEmde-w)<br></details>|
+|Panzer Dragoon Series|Team Andromeda|Internal|1995|<details><summary>Expand</summary>- [Classic Game Postmortem](https://www.youtube.com/watch?v=gMOMsEmde-w)<br></details>|
 |Just Cause 3|Avalanche Studios|Avalanche Engine|2015|<details><summary>Expand</summary>- [Tree's Company: Systemic AI Design in Just Cause 3](https://www.youtube.com/watch?v=SurYVTMINhg)<br></details>|
 |Mortal Kombat|NetherRealm Studios|UE3|2011|<details><summary>Expand</summary>- [8 Frames in 16ms: Rollback Networking in Mortal Kombat and Injustice 2](https://www.youtube.com/watch?v=7jb0FOcImdg)<br></details>|
 |Injustice 2|NetherRealm Studios|UE3|2017|<details><summary>Expand</summary>- [8 Frames in 16ms: Rollback Networking in Mortal Kombat and Injustice 2](https://www.youtube.com/watch?v=7jb0FOcImdg)<br></details>|
@@ -185,7 +185,7 @@ Suggestions are welcome to be filed via the GitHub issue tracker for this reposi
 |INSIDE|Playdead|Unity|2016|<details><summary>Expand</summary>- [Temporal Reprojection Anti-Aliasing in INSIDE](https://www.youtube.com/watch?v=2XXS5UyNjjU)<br>- [Low Complexity, High Fidelity: The Rendering of INSIDE](https://www.youtube.com/watch?v=RdN06E6Xn9E)<br></details>|
 |Rainbow Six Siege|Ubisoft Montreal|AnvilNext 2.0|2015|<details><summary>Expand</summary>- [Rendering Rainbow Six Siege](https://www.youtube.com/watch?v=RAy8UoO2blc)<br></details>|
 |Splinter Cell: Blacklist|Ubisoft Toronto|Unreal Engine 2.5|2013|<details><summary>Expand</summary>- [Modeling AI Perception and Awareness in Splinter Cell: Blacklist](https://www.youtube.com/watch?v=RFWrKHM0vAg)<br></details>|
-|FIFA|EA Vancouver|Frostbite|Annually|<details><summary>Expand</summary>- [How FIFA Delivers Live Content to Users Fast](https://www.youtube.com/watch?v=YmNgREFUXh0)<br></details>|
+|FIFA|EA Vancouver|Frostbite|N/A|<details><summary>Expand</summary>- [How FIFA Delivers Live Content to Users Fast](https://www.youtube.com/watch?v=YmNgREFUXh0)<br></details>|
 |Journey|Thatgamecompany|PhyreEngine|2012|<details><summary>Expand</summary>- [Sand Rendering in Journey](https://www.youtube.com/watch?v=wt2yYnBRD3U)<br></details>|
 |Forza Motorsport 5|Turn 10 Studios|ForzaTech|2013|<details><summary>Expand</summary>- [Capturing Reality: Gathering Reference for Forza Motorsport 5](https://www.youtube.com/watch?v=lVVuoymwJoE)<br></details>|
 |Halo|Bungie, 343 Industries|Slipspace Engine|2001|<details><summary>Expand</summary>- [Running the Halo Multiplayer Experience at 60fps: A Technical Art Perspective](https://www.youtube.com/watch?v=65_lBJbAxnk)<br></details>|
