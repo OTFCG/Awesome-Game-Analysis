@@ -8,9 +8,6 @@ on:
     paths:
       - 'games.toml'
 
-permissions:
-  contents: read
-
 jobs:
   build:
     runs-on: ubuntu-latest
