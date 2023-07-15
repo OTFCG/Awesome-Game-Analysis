@@ -121,7 +121,10 @@ def test_multiple():
 
 section_top='''
 # Awesome-Game-Analysis
-A collection of video game tech analysis resources, covers blogs, articles, presentations, and references related to game analysis and development.
+This repository serves as a comprehensive collection of video game technology analysis resources.
+Suggestions are welcome to be filed via the GitHub issue tracker for this repository, please use the issue tracker to submit your ideas.
+In order to maintain the structure of this repository, please don't directly make changes to the `README.md` file.
+Instead, read our [Contribution Guide](https://github.com/OTFCG/Awesome-Game-Analysis/blob/main/contribution_guide.md) before PRs.
 '''
 section_reference='''
 ## References
