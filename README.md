@@ -90,6 +90,10 @@ A collection of video game tech analysis resources, covers blogs, articles, pres
 |Battlefield 2|DICE|Refraction Engine|2005|<details><summary>Expand</summary>- [Battlefield 2 Flag Sound](http://simonschreibt.de/gat/battlefield-2-flag-sound/)<br></details>|
 |Battlefield Bad Company 2|DICE|Frostbite 1.5|2010|<details><summary>Expand</summary>- [Battlefield Bad Company 2 Smoke Column](http://simonschreibt.de/gat/battlefield-bad-company-2-smoke-column/)<br></details>|
 |Left 4 Dead 2|Valve Corporation|Source|2009|<details><summary>Expand</summary>- [Left 4 Dead 2 Puke](http://simonschreibt.de/gat/left-4-dead-2-puke/)<br></details>|
+|God of War Ragnarok|Santa Monica Studio|Internal|2022|<details><summary>Expand</summary>- [God of War Ragnarok](https://www.gdcvault.com/play/1028787/-God-of-War-Ragnarok)<br></details>|
+|Knockout City|Velan Studios|Internal|2021|<details><summary>Expand</summary>- [Knockout City's Parallel Play](https://www.gdcvault.com/play/1027634/-Knockout-City-s-Parallel)<br></details>|
+|Final Fantasy VII Remake|Square Enix|Internal|2020|<details><summary>Expand</summary>- [Final Fantasy VII Remake](https://www.gdcvault.com/play/1027049/-Final-Fantasy-VII-Remake)<br>- [Final Fantasy VII Remake](https://www.gdcvault.com/play/1027355/-Final-Fantasy-VII-Remake)<br></details>|
+|Watch Dogs 2|Ubisoft Montreal|Disrupt|2016|<details><summary>Expand</summary>- [Replicating Chaos: Vehicle Replication in Watch Dogs 2](https://www.gdcvault.com/play/1026956/Replicating-Chaos-Vehicle-Replication-in)<br></details>|
 
 
 ## References
