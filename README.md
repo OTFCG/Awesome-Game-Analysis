@@ -177,14 +177,14 @@ Suggestions are welcome to be filed via the GitHub issue tracker for this reposi
 |Assassin's Creed Brotherhood|Ubisoft Montreal|Anvil|2010|<details><summary>Expand</summary>- [AI & Animation in Assassin's Creed Brotherhood](https://www.youtube.com/watch?v=HzhDjbsXA9s)<br></details>|
 |Halo: Reach|Bungie|Halo Engine|2010|<details><summary>Expand</summary>- [I Shot You First: Networking the Gameplay of Halo: Reach](https://www.youtube.com/watch?v=h47zZrqjgLc)<br></details>|
 |Skylanders|Toys for Bob|Internal|2011|<details><summary>Expand</summary>- [Supercharged! Vehicle Physics in Skylanders](https://www.youtube.com/watch?v=Db1AgGavL8E)<br></details>|
-|Rocket League|Psyonix|Unreal Engine 3|2015|<details><summary>Expand</summary>- [Rocket League: Language Ban System Postmortem](https://www.youtube.com/watch?v=-E9PowOZhGM)<br>- [It IS Rocket Science! The Physics of Rocket League Detailed](https://www.youtube.com/watch?v=ueEmiDM94IE)<br>- ['Rocket League': Scaling for Free to Play](https://www.youtube.com/watch?v=W52Lm505300)<br></details>|
+|Rocket League|Psyonix|UE3|2015|<details><summary>Expand</summary>- [Rocket League: Language Ban System Postmortem](https://www.youtube.com/watch?v=-E9PowOZhGM)<br>- [It IS Rocket Science! The Physics of Rocket League Detailed](https://www.youtube.com/watch?v=ueEmiDM94IE)<br>- ['Rocket League': Scaling for Free to Play](https://www.youtube.com/watch?v=W52Lm505300)<br></details>|
 |Destiny|Bungie|Tiger Engine|2014|<details><summary>Expand</summary>- [Tools-Based Rigging in Bungie's Destiny](https://www.youtube.com/watch?v=U_4u0kbf-JE)<br>- [Shared World Shooter: Destiny's Networked Mission Architecture](https://www.youtube.com/watch?v=Iryq1WA3bzw)<br></details>|
 |Tom Clancy's The Division|Massive Entertainment|Snowdrop|2016|<details><summary>Expand</summary>- [Global Illumination in Tom Clancy's The Division](https://www.youtube.com/watch?v=04YUZ3bWAyg)<br>- [Blending Autonomy and Control: Creating NPCs for Tom Clancy's The Division](https://www.youtube.com/watch?v=Vre9qqoEBpE)<br>- [Tom Clancy's The Division: AI Behavior Editing and Debugging](https://www.youtube.com/watch?v=rYQQRIY_zcM)<br></details>|
 |Metal Gear Solid Ground Zeroes|Kojima Productions|Fox Engine|2014|<details><summary>Expand</summary>- [Photorealism Through the Eyes of a FOX: The Core of Metal Gear Solid Ground Zeroes (Sponsored)](https://www.youtube.com/watch?v=WsmxBE9Gw6A)<br></details>|
-|The Flame in The Flood|The Molasses Flood|Unreal Engine 4|2016|<details><summary>Expand</summary>- [Forging The River in The Flame in The Flood](https://www.youtube.com/watch?v=6N56YpHCHBM)<br></details>|
+|The Flame in The Flood|The Molasses Flood|UE4|2016|<details><summary>Expand</summary>- [Forging The River in The Flame in The Flood](https://www.youtube.com/watch?v=6N56YpHCHBM)<br></details>|
 |INSIDE|Playdead|Unity|2016|<details><summary>Expand</summary>- [Temporal Reprojection Anti-Aliasing in INSIDE](https://www.youtube.com/watch?v=2XXS5UyNjjU)<br>- [Low Complexity, High Fidelity: The Rendering of INSIDE](https://www.youtube.com/watch?v=RdN06E6Xn9E)<br></details>|
 |Rainbow Six Siege|Ubisoft Montreal|AnvilNext 2.0|2015|<details><summary>Expand</summary>- [Rendering Rainbow Six Siege](https://www.youtube.com/watch?v=RAy8UoO2blc)<br></details>|
-|Splinter Cell: Blacklist|Ubisoft Toronto|Unreal Engine 2.5|2013|<details><summary>Expand</summary>- [Modeling AI Perception and Awareness in Splinter Cell: Blacklist](https://www.youtube.com/watch?v=RFWrKHM0vAg)<br></details>|
+|Splinter Cell: Blacklist|Ubisoft Toronto|UE2.5|2013|<details><summary>Expand</summary>- [Modeling AI Perception and Awareness in Splinter Cell: Blacklist](https://www.youtube.com/watch?v=RFWrKHM0vAg)<br></details>|
 |FIFA|EA Vancouver|Frostbite|N/A|<details><summary>Expand</summary>- [How FIFA Delivers Live Content to Users Fast](https://www.youtube.com/watch?v=YmNgREFUXh0)<br></details>|
 |Journey|Thatgamecompany|PhyreEngine|2012|<details><summary>Expand</summary>- [Sand Rendering in Journey](https://www.youtube.com/watch?v=wt2yYnBRD3U)<br></details>|
 |Forza Motorsport 5|Turn 10 Studios|ForzaTech|2013|<details><summary>Expand</summary>- [Capturing Reality: Gathering Reference for Forza Motorsport 5](https://www.youtube.com/watch?v=lVVuoymwJoE)<br></details>|
@@ -213,6 +213,7 @@ Suggestions are welcome to be filed via the GitHub issue tracker for this reposi
 |GoldenEye 007|Rare|Internal|1997|<details><summary>Expand</summary>- [DF Retro EX](https://www.youtube.com/watch?v=ZxuFc0VkxEw)<br></details>|
 |Dead Space Remake|Motive Studios|Frostbite|2023|<details><summary>Expand</summary>- [DF Tech Review](https://www.youtube.com/watch?v=JpqAAOgUrCg)<br></details>|
 |Forspoken|Luminous Productions|Luminous Engine|2022|<details><summary>Expand</summary>- [DF Tech Review](https://www.youtube.com/watch?v=j8_HcLb4ajY)<br></details>|
+|Hi-Fi Rush|Tango Gameworks|UE4|2023|<details><summary>Expand</summary>- [DF Tech Review](https://www.youtube.com/watch?v=8qppoWhanwk)<br></details>|
 
 ---
 
