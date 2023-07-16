@@ -70,7 +70,7 @@ jobs:
             git config --global user.email "kingstom.chen@gmail.com"
             git add .
             git commit --allow-empty -m "$commit_message"
-            git push
+            git push https://${{ secrets.PAT }}@github.com/OTFCG/Awesome-Game-Analysis.git
           else
             echo "Execution failed. Exiting."
             exit 1
