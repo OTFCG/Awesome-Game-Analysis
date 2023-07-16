@@ -207,8 +207,6 @@ Analysis = [
   ["Balázs Török's Blog", "http://morad.in/2019/03/27/observations-about-the-rendering-of-metro-exodus/"],
 ]
 
-
-
 ["Cyberpunk 2077"]
 Developer = "CD Projekt Red"
 Engine = "REDengine 4"
@@ -217,9 +215,9 @@ Analysis = [
   ["c0de517e", "https://c0de517e.blogspot.com/2020/12/hallucinations-re-rendering-of.html"],
   ["Hang Zhang's Blog", "https://zhangdoa.com/rendering-analysis-cyberpunk-2077"],
   ["Shader Execution Reordering", "https://chipsandcheese.com/2023/05/16/shader-execution-reordering-nvidia-tackles-divergence/"],
+  ["Tech Focus: Cyberpunk 2077 RT Overdrive", "https://www.youtube.com/watch?v=vigxRma2EPA"],
+  ["Overdrive Technology Preview on RTX 4090", "https://www.youtube.com/watch?v=I-ORt8313Og"],
 ]
-
-
 
 ["Zelda - Wind Waker"]
 Developer = "Nintendo EAD"
@@ -251,6 +249,7 @@ Year = "2019"
 Analysis = [
   ["Frame Analysis", "https://alain.xyz/blog/frame-analysis-control"],
   ["Destructible Environments in Control: Lessons in Procedural Destruction", "https://www.youtube.com/watch?v=kODJsQGXanU"],
+  ["Control PC's Stealth Upgrade", "https://www.youtube.com/watch?v=HyLA3lhRdwM"],
 ]
 
 
@@ -1881,4 +1880,85 @@ Engine = "Northlight"
 Year = "2010"
 Analysis = [
 ["ALAN WAKE: The Writer Who Made Us Rewrite Our Engine", "https://www.youtube.com/watch?v=73KjaHcsdlo"],
+]
+
+["Final Fantasy 13"]
+Developer = "Square Enix"
+Engine = "Crystal Tools"
+Year = "2009"
+Analysis = [
+["Tech Evolution: Final Fantasy 13 CGI vs Final Fantasy 16 Real-Time Graphics", "https://www.youtube.com/watch?v=ItwtpX1SFcA"],
+]
+
+["Final Fantasy 16"]
+Developer = "Square Enix"
+Engine = "Internal"
+Year = "2023"
+Analysis = [
+["Tech Evolution: Final Fantasy 13 CGI vs Final Fantasy 16 Real-Time Graphics", "https://www.youtube.com/watch?v=ItwtpX1SFcA"],
+["The DF Tech Review", "https://www.youtube.com/watch?v=_Oyjldkh5kE"],
+]
+
+["F1 2023"]
+Developer = "Codemasters"
+Engine = "EGO"
+Year = "2023"
+Analysis = [
+["PS5 vs Xbox Series X/S vs PC – Ray Tracing", "https://www.youtube.com/watch?v=DVakUY6lqj8"],
+]
+
+["Company of Heroes 3"]
+Developer = "Relic Entertainment"
+Engine = "Essence Engine 4.0"
+Year = "2023"
+Analysis = [
+["Company of Heroes 3 - From PC to Consoles", "https://www.youtube.com/watch?v=Q7_PSmWxOv8"],
+]
+
+["Resident Evil 4 Re"]
+Developer = "Capcom"
+Engine = "RE Engine"
+Year = "2023"
+Analysis = [
+["DF Tech Review", "https://www.youtube.com/watch?v=N1QOYoNjAO0"],
+]
+
+["Half-Life"]
+Developer = "Valve"
+Engine = "GoldSrc"
+Year = "1998"
+Analysis = [
+["A Full RT/Path-Traced Upgrade For The OG PC Classic Tested!", "https://www.youtube.com/watch?v=BrRmQhaxtF4"],
+]
+
+["Horizon: Call of the Mountain"]
+Developer = "Guerrilla"
+Engine = "Decima"
+Year = "2023"
+Analysis = [
+["Inside PSVR2 - Horizon: Call of the Mountain Gameplay + Tech Breakdown", "https://www.youtube.com/watch?v=Q43vcKl2axY"],
+]
+
+["GoldenEye 007"]
+Developer = "Rare"
+Engine = "Internal"
+Year = "1997"
+Analysis = [
+["DF Retro EX", "https://www.youtube.com/watch?v=ZxuFc0VkxEw"],
+]
+
+["Dead Space Remake"]
+Developer = "Motive Studios"
+Engine = "Frostbite"
+Year = "2023"
+Analysis = [
+["DF Tech Review", "https://www.youtube.com/watch?v=JpqAAOgUrCg"],
+]
+
+["Forspoken"]
+Developer = "Luminous Productions"
+Engine = "Luminous Engine"
+Year = "2022"
+Analysis = [
+["DF Tech Review", "https://www.youtube.com/watch?v=j8_HcLb4ajY"],
 ]

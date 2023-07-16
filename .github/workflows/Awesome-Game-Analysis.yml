@@ -5,16 +5,51 @@ name: Awesome-Game-Analysis
 
 on:
   push:
+    branches:
+      - main
     paths:
       - 'data/games.toml'
+  pull_request:
+    branches:
+      - main
 
 jobs:
-  build:
+  pr_job:
     runs-on: ubuntu-latest
+    if: github.event_name == 'pull_request'
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.11.4
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r scripts/requirements.txt
+
+      - name: Execute Python scripts
+        id: execute-scripts
+        run: python scripts/toml_markdown.py -i data/games.toml -t toml --readme
+  push_job:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    if: github.event_name == 'push'
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Git User
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
 
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -27,19 +62,28 @@ jobs:
           pip install -r scripts/requirements.txt
 
       - name: Execute Python scripts
+        id: execute-scripts
         run: python scripts/toml_markdown.py -i data/games.toml -t toml --readme
+
+      - name: Get commit message
+        id: get-commit-message
+        run: |
+          echo "Setting commit message."
+          COMMIT_MSG="Update from data/games.toml"
+          echo "::set-output name=commit-message::$COMMIT_MSG"
+
+#      - uses: stefanzweifel/git-auto-commit-action@v4
+#        with:
+#            commit_message: Update from data/games.toml
 
       - name: Commit changes
         run: |
           if [ "${{ steps.execute-scripts.outcome }}" == "success" ]; then
             commit_message="${{ steps.get-commit-message.outputs.commit-message }}"
-            git config --global user.name "K1ngst0m"
-            git config --global user.email "kingstom.chen@gmail.com"
             git add .
             git commit -m "$commit_message"
-            git push
+            git push -u origin main
           else
             echo "Execution failed. Exiting."
             exit 1
           fi
-      
