@@ -5,13 +5,39 @@ name: Awesome-Game-Analysis
 
 on:
   push:
+    branches:
+      - main
     paths:
       - 'data/games.toml'
+  pull_request:
+    branches:
+      - main
 
 jobs:
-  build:
+  pr_job:
     runs-on: ubuntu-latest
+    if: github.event_name == 'pull_request'
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.11.4
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r scripts/requirements.txt
+
+      - name: Execute Python scripts
+        id: execute-scripts
+        run: python scripts/toml_markdown.py -i data/games.toml -t toml --readme
+  push_job:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'push'
+    needs: pr_job
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
@@ -27,7 +53,15 @@ jobs:
           pip install -r scripts/requirements.txt
 
       - name: Execute Python scripts
+        id: execute-scripts
         run: python scripts/toml_markdown.py -i data/games.toml -t toml --readme
+
+      - name: Get commit message
+        id: get-commit-message
+        run: |
+          echo "Setting commit message."
+          COMMIT_MSG="Update from data/games.toml"
+          echo "::set-output name=commit-message::$COMMIT_MSG"
 
       - name: Commit changes
         run: |
@@ -36,7 +70,7 @@ jobs:
             git config --global user.name "K1ngst0m"
             git config --global user.email "kingstom.chen@gmail.com"
             git add .
-            git commit -m "$commit_message"
+            git commit --allow-empty -m "$commit_message"
             git push
           else
             echo "Execution failed. Exiting."
