@@ -1670,7 +1670,7 @@ Analysis = [
 
 ["Rocket League"]
 Developer = "Psyonix"
-Engine = "Unreal Engine 3"
+Engine = "UE3"
 Year = "2015"
 Analysis = [
 ["Rocket League: Language Ban System Postmortem", "https://www.youtube.com/watch?v=-E9PowOZhGM"],
@@ -1707,7 +1707,7 @@ Analysis = [
 
 ["The Flame in The Flood"]
 Developer = "The Molasses Flood"
-Engine = "Unreal Engine 4"
+Engine = "UE4"
 Year = "2016"
 Analysis = [
 ["Forging The River in The Flame in The Flood", "https://www.youtube.com/watch?v=6N56YpHCHBM"],
@@ -1732,7 +1732,7 @@ Analysis = [
 
 ["Splinter Cell: Blacklist"]
 Developer = "Ubisoft Toronto"
-Engine = "Unreal Engine 2.5"
+Engine = "UE2.5"
 Year = "2013"
 Analysis = [
 ["Modeling AI Perception and Awareness in Splinter Cell: Blacklist", "https://www.youtube.com/watch?v=RFWrKHM0vAg"],
@@ -1961,4 +1961,12 @@ Engine = "Luminous Engine"
 Year = "2022"
 Analysis = [
 ["DF Tech Review", "https://www.youtube.com/watch?v=j8_HcLb4ajY"],
+]
+
+["Hi-Fi Rush"]
+Developer = "Tango Gameworks"
+Engine = "UE4"
+Year = "2023"
+Analysis = [
+["DF Tech Review", "https://www.youtube.com/watch?v=8qppoWhanwk"],
 ]
