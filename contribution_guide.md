@@ -10,7 +10,7 @@ Before you start contributing, gather the necessary game information. This inclu
 
 ## Step 1: Add the Game Information
 
-Once you have gathered all the necessary information, add it to the `games.toml` file, adhering to the given format. Append this information at the end of the file.
+Once you have gathered all the necessary information, add it to the `data/games.toml` file, adhering to the given format. Append this information at the end of the file.
 
 Here's the format you must follow:
 
@@ -30,16 +30,16 @@ Replace the placeholders with the respective game information. For Analysis, lis
 
 ## Step 2: Generate the README.md File
 
-After adding the game information to the `games.toml` file, generate the `README.md` file using the below command (in `scripts/toml_markdown.py`):
+After adding the game information to the `data/games.toml` file, generate the `README.md` file using the below command (in `scripts/toml_markdown.py`):
 
 ``` bash
-$ python scripts/toml_markdown.py -i games.toml -t toml --readme > README.md
+$ python scripts/toml_markdown.py -i data/games.toml -t toml --readme > README.md
 ```
 
-This command will convert the games.toml file into a README.md file.
+  * [ ] This command will convert the `data/games.toml` file into a README.md file.
 
 ## Step 3: Create a Pull Request
 
-Once you've generated the `README.md` file successfully, create a pull request with the changes you made in the `games.toml` and `README.md` files. Ensure to provide a brief description of the changes in the pull request.
+Once you've generated the `README.md` file successfully, create a pull request with the changes you made in the `data/games.toml` and `README.md` files. Ensure to provide a brief description of the changes in the pull request.
 
 Remember, your contributions are valuable to us. Thank you for helping us improve our game information repository!
