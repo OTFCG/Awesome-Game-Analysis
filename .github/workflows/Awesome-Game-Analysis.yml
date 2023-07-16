@@ -37,7 +37,6 @@ jobs:
   push_job:
     runs-on: ubuntu-latest
     if: github.event_name == 'push'
-    needs: pr_job
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
