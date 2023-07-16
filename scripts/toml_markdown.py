@@ -149,6 +149,8 @@ section_reference='''
 - [r/videogamescience](https://www.reddit.com/r/videogamescience/)
 - [GDC Vault](https://www.gdcvault.com/)
 - [GDC's Programming Talks](https://www.youtube.com/playlist?list=PL2e4mYbwSTbaw1l65rE0Gv6_B9ctOzYyW)
+- [SIGGRAPH courses](https://advances.realtimerendering.com/)
+- [Guerrilla's News feed](https://www.guerrilla-games.com/read)
 '''
 
 def compare_files(file1, file2):

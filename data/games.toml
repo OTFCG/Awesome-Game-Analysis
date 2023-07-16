@@ -1114,6 +1114,14 @@ Developer = "Guerrilla"
 Engine = "Decima"
 Year = "2022"
 Analysis = [
+  ["Architecting Jolt Physics For Horizon Forbidden West", "https://www.guerrilla-games.com/read/architecting-jolt-physics-for-horizon-forbidden-west"],
+  ["Adventures With Deferred Texturing", "https://www.guerrilla-games.com/read/adventures-with-deferred-texturing-in-horizon-forbidden-west"],
+  ["Building Machines For A Better Future In Horizon", "https://www.guerrilla-games.com/read/building-machines-for-a-better-future-in-horizon"],
+  ["Space-Efficient Content Packaging", "https://www.guerrilla-games.com/read/space-efficient-content-packaging-for-horizon-forbidden-west"],
+  ["Scaling Tools For Millions of Assets", "https://www.guerrilla-games.com/read/scaling-tools-for-millions-of-assets-for-horizon-forbidden-west"],
+  ["Creating The Many Faces of Horizon Forbidden West", "https://www.guerrilla-games.com/read/creating-the-many-faces-of-horizon-forbidden-west"],
+  ["CEDEC 2019 - Making Tools for Big Games", "https://d3d3g8mu99pzk9.cloudfront.net/MichielVanDerLeeuw/CEDEC%202019%20-%20Making%20Tools%20for%20Big%20Games.pdf"],
+  ["SIGGRAPH 2022 Real-Time Live", "https://www.youtube.com/watch?v=MAXJWEoKbxY&t=357s"],
   ["The Cinematics of 'Horizon Forbidden West'", "https://www.youtube.com/watch?v=gSzOv4e1ej4&list=PL2e4mYbwSTbaw1l65rE0Gv6_B9ctOzYyW&index=2"],
   ["Building Machines for a Better Future in 'Horizon'", "https://www.youtube.com/watch?v=dr17S0I_h78"],
   ["Knocking on Death's Door: Designing a New Bunker for 'Horizon Forbidden West'", "https://www.youtube.com/watch?v=KxcXUYx3eLQ"]
@@ -1525,6 +1533,11 @@ Analysis = [
 ["GPU-Based Run-Time Procedural Placement in Horizon: Zero Dawn", "https://www.youtube.com/watch?v=ToCozpl1sYY"],
 ["Horizon Zero Dawn: A QA Open World Case Study", "https://www.youtube.com/watch?v=2VDlX3Dqm0w"],
 ["Creating a Tools Pipeline for Horizon: Zero Dawn", "https://www.youtube.com/watch?v=KRJkBxKv1VM"],
+["Streaming the World of Horizon Zero Dawn", "https://www.guerrilla-games.com/read/Streaming-the-World-of-Horizon-Zero-Dawn"],
+["Nubis: RealTime Volumetric Cloudscapes In A Nutshell", "https://www.guerrilla-games.com/read/nubis-realtime-volumetric-cloudscapes-in-a-nutshell"],
+["Horizon Zero Dawn: A Game Design Postmortem", "https://www.guerrilla-games.com/read/horizon-zero-dawn-a-game-design-postmortem"],
+["Creating New AI Systems", "https://www.guerrilla-games.com/read/beyond-killzone-creating-new-ai-systems-for-horizon-zero-dawn"],
+["Decima Engine: Visibility", "https://www.guerrilla-games.com/read/decima-engine-visibility-in-horizon-zero-dawn"],
 ]
 
 ["Far Cry 5"]
