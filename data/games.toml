@@ -1914,3 +1914,36 @@ Year = "2023"
 Analysis = [
 ["Company of Heroes 3 - From PC to Consoles", "https://www.youtube.com/watch?v=Q7_PSmWxOv8"],
 ]
+
+["Resident Evil 4 Re"]
+Developer = "Capcom"
+Engine = "RE Engine"
+Year = "2023"
+Analysis = [
+["DF Tech Review", "https://www.youtube.com/watch?v=N1QOYoNjAO0"],
+]
+
+["Half-Life"]
+Developer = "Valve"
+Engine = "GoldSrc"
+Year = "1998"
+Analysis = [
+["A Full RT/Path-Traced Upgrade For The OG PC Classic Tested!", "https://www.youtube.com/watch?v=BrRmQhaxtF4"],
+]
+
+["Horizon: Call of the Mountain"]
+Developer = "Guerrilla"
+Engine = "Decima"
+Year = "2023"
+Analysis = [
+["Inside PSVR2 - Horizon: Call of the Mountain Gameplay + Tech Breakdown", "https://www.youtube.com/watch?v=Q43vcKl2axY"],
+]
+
+["GoldenEye 007"]
+Developer = "Rare"
+Engine = "Internal"
+Year = "1997"
+Analysis = [
+["DF Retro EX", "https://www.youtube.com/watch?v=ZxuFc0VkxEw"],
+]
+
