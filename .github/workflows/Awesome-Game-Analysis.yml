@@ -6,7 +6,7 @@ name: Awesome-Game-Analysis
 on:
   push:
     paths:
-      - 'games.toml'
+      - 'data/games.toml'
 
 jobs:
   build:
@@ -27,7 +27,7 @@ jobs:
           pip install -r scripts/requirements.txt
 
       - name: Execute Python scripts
-        run: python scripts/toml_markdown.py -i games.toml -t toml --readme 
+        run: python scripts/toml_markdown.py -i data/games.toml -t toml --readme
 
       - name: Commit changes
         run: |
