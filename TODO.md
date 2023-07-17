@@ -2,9 +2,9 @@
 
 - [X] new workflow: manipulate raw data, then generate markdown table
 - [ ] fill with more resources of one game and references 
-- [ ] new heading: ##Console, same as the ##Games but provide the engine tech analysis collection.
+- [ ] [[WIP](https://github.com/OTFCG/Awesome-Game-Analysis/tree/analysis_console_init)] new heading: ##Console, same as the ##Games but provide the engine tech analysis collection.
 - [ ] refine some of the link text in brackets which is too trivial.
-- [ ] move to [otfcg.github.io](https://otfcg.github.io/)
+- [ ] move to [otfcg.github.io](https://otfcg.github.io/)/awesome/games
 
 ## Complete Collection
 - [X] [Behind the Pretty Frames](https://mamoniem.com/category/behind-the-pretty-frames/)
