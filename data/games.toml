@@ -155,7 +155,7 @@ Engine = "Internal"
 Year = "2005"
 Analysis = [
   ["Froyok's Blog", "https://www.froyok.fr/blog/2012-10-breakdown-shadow-of-the-colossus-pal-ps2/page.html"],
-  ["Beyond the Remake of 'Shadow of the Colossus': A Technical Perspective", "https://www.youtube.com/watch?v=fcBZEZWGYek"]
+  ["DF Retro", "https://www.youtube.com/watch?v=FAQjESB4WOk"]
 ]
 
 
@@ -1466,7 +1466,9 @@ Analysis = [["The Lighting Technology of Detroit: Become Human", "https://www.yo
 Developer = "Respawn Entertainment"
 Engine = "Source"
 Year = "2014"
-Analysis = [["Extreme SIMD: Optimized Collision Detection in Titanfall", "https://www.youtube.com/watch?v=6BIfqfC1i7U"]]
+Analysis = [
+["Extreme SIMD: Optimized Collision Detection in Titanfall", "https://www.youtube.com/watch?v=6BIfqfC1i7U"]
+]
 
 ["Counter-Strike: Global Offensive"]
 Developer = "Valve Corporation, Hidden Path Entertainment"
@@ -1982,4 +1984,15 @@ Engine = "UE4"
 Year = "2023"
 Analysis = [
 ["DF Tech Review", "https://www.youtube.com/watch?v=8qppoWhanwk"],
+]
+
+["Shadow of the Colossus Remake"]
+Developer = "Bluepoint"
+Engine = "Internal"
+Year = "2018"
+Analysis = [
+["DF Tech Complete Analysis", "https://www.digitalfoundry.net/shadow-of-the-colossus-ps4-complete-tech-analysis"],
+["DF Tech Interview", "https://www.digitalfoundry.net/shadow-of-the-colossus-bluepoint-tech-interview"],
+["DF's Article", "https://www.eurogamer.net/digitalfoundry-2018-shadow-of-the-colossus-tech-analysis"],
+["Beyond the Remake of 'Shadow of the Colossus': A Technical Perspective", "https://www.youtube.com/watch?v=fcBZEZWGYek"]
 ]
