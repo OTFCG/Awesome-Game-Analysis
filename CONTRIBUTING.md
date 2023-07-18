@@ -17,7 +17,7 @@ Such information can be obtained from reliable sources like official game websit
 
 ## Step 1: Add the Game Information
 
-After you've collected all the necessary data, add it to the data/games.toml file following the provided format. Please append this information to the end of the file.
+After you've collected all the necessary data, add it to the `data/games.toml` file following the provided format. Please append this information to the end of the file.
 
 The required format is as follows:
 
