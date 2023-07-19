@@ -229,8 +229,6 @@ Analysis = [
   ["Game Art Tricks", "http://simonschreibt.de/gat/zelda-wind-waker-hyrule-travel-guide/"],
 ]
 
-
-
 ["Doom 3"]
 Developer = "id Software"
 Engine = "id Tech 4"
@@ -238,9 +236,9 @@ Year = "2004"
 Analysis = [
   ["Game Art Tricks", "https://simonschreibt.de/gat/gat-doom-3-hdui/"],
   ["Game Art Tricks", "http://simonschreibt.de/gat/doom-3-volumetric-glow/"],
+  ["Source code review", "https://fabiensanglard.net/doom3_bfg/"],
+  ["Vulkan Port", "https://github.com/DustinHLand/vkDOOM3"],
 ]
-
-
 
 ["Control"]
 Developer = "Remedy"
@@ -794,6 +792,7 @@ Analysis = [
   ["Lighting Technology of The Last Of Us", "http://miciwan.com/SIGGRAPH2013/Lighting%20Technology%20of%20The%20Last%20Of%20Us.pdf"],
   ["GDC 14: A Context-Aware Character Dialog System", "https://www.gdcvault.com/play/1020386/A-Context-Aware-Character-Dialog"],
   ["The Motion Capture Pipeline of The Last of Us", "https://www.youtube.com/watch?v=2GoDlM1Z7BU"],
+  ["Parallelizing the Naughty Dog Engine Using Fibers", "https://www.gdcvault.com/play/1022186/Parallelizing-the-Naughty-Dog-Engine"],
 ]
 
 
