@@ -1996,3 +1996,14 @@ Analysis = [
 ["DF's Article", "https://www.eurogamer.net/digitalfoundry-2018-shadow-of-the-colossus-tech-analysis"],
 ["Beyond the Remake of 'Shadow of the Colossus': A Technical Perspective", "https://www.youtube.com/watch?v=fcBZEZWGYek"]
 ]
+
+["Dyson Sphere Program"]
+Developer = "Youthcat Studio"
+Engine = "Unity"
+Year = "2021"
+Analysis = [
+  ["birth-of-dyson-sphere", "https://indienova.com/indie-game-news/birth-of-dyson-sphere/"],
+  ["dyson-sphere-devlog-2", "https://indienova.com/indie-game-development/dyson-sphere-devlog-2/"],
+  ["dyson-sphere-devlog-3", "https://indienova.com/indie-game-news/dyson-sphere-devlog-3/"],
+  ["dyson-sphere-devlog-4", "https://indienova.com/indie-game-development/dyson-sphere-devlog-4/"]
+]
