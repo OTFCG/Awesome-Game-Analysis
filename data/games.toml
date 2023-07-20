@@ -17,28 +17,17 @@ Analysis = [
   ["QuakeCon P2", "https://www.twitch.tv/videos/81950107"],
 ]
 
-
-
-["Doom Eternal"]
-Developer = "id Software"
-Engine = "id Tech 7"
+["Cyberpunk 2077"]
+Developer = "CD Projekt Red"
+Engine = "REDengine 4"
 Year = "2020"
 Analysis = [
-  ["Simon Coenen's Blog", "https://simoncoenen.com/blog/programming/graphics/DoomEternalStudy.html"],
+  ["c0de517e", "https://c0de517e.blogspot.com/2020/12/hallucinations-re-rendering-of.html"],
+  ["Hang Zhang's Blog", "https://zhangdoa.com/rendering-analysis-cyberpunk-2077"],
+  ["Shader Execution Reordering", "https://chipsandcheese.com/2023/05/16/shader-execution-reordering-nvidia-tackles-divergence/"],
+  ["Tech Focus: Cyberpunk 2077 RT Overdrive", "https://www.youtube.com/watch?v=vigxRma2EPA"],
+  ["Overdrive Technology Preview on RTX 4090", "https://www.youtube.com/watch?v=I-ORt8313Og"],
 ]
-
-
-
-["Death Stranding"]
-Developer = "Kojima Productions"
-Engine = "Decima"
-Year = "2019"
-Analysis = [
-  ["Behind the Pretty Frames", "https://mamoniem.com/behind-the-pretty-frames-death-stranding/"],
-  ["'Death Stranding': An AI Postmortem", "https://www.youtube.com/watch?v=yqZE5O8VPAU"],
-]
-
-
 
 ["Diablo IV"]
 Developer = "Blizzard Albany, Team 3"
@@ -49,7 +38,24 @@ Analysis = [
   ["Blizzard", "https://news.blizzard.com/en-us/diablo4/23964183/peeling-back-the-varnish-the-graphics-of-diablo-iv"],
 ]
 
+["Death Stranding"]
+Developer = "Kojima Productions"
+Engine = "Decima"
+Year = "2019"
+Analysis = [
+  ["Behind the Pretty Frames", "https://mamoniem.com/behind-the-pretty-frames-death-stranding/"],
+  ["'Death Stranding': An AI Postmortem", "https://www.youtube.com/watch?v=yqZE5O8VPAU"],
+  ["DF Tech Review(PC)", "https://www.eurogamer.net/digitalfoundry-2020-death-stranding-pc-tech-review"],
+  ["DF Perfomance Analysis", "https://www.eurogamer.net/digitalfoundry-2019-death-stranding-ps4-ps4-pro-performance-analysis"],
+]
 
+["Doom Eternal"]
+Developer = "id Software"
+Engine = "id Tech 7"
+Year = "2020"
+Analysis = [
+  ["Simon Coenen's Blog", "https://simoncoenen.com/blog/programming/graphics/DoomEternalStudy.html"],
+]
 
 ["Resident-evil II Re"]
 Developer = "Capcom Division 1"
@@ -102,8 +108,6 @@ Analysis = [
   ["'Witcher 3' on the Nintendo Switch", "https://www.gdcvault.com/play/1026635/-Witcher-3-on-the"],
 ]
 
-
-
 ["GTA 5"]
 Developer = "Rockstar North"
 Engine = "RAGE"
@@ -114,8 +118,6 @@ Analysis = [
   ["Graphics Study", "https://www.adriancourreges.com/blog/2015/11/02/gta-v-graphics-study/"],
   ["NVIDIA Performance Guide", "https://www.nvidia.com/en-us/geforce/news/grand-theft-auto-v-pc-graphics-and-performance-guide/"],
 ]
-
-
 
 ["Destiny 2"]
 Developer = "Bungie"
@@ -196,8 +198,6 @@ Analysis = [
   ["Overwatch - The Elusive Goal: Play by Sound", "https://www.youtube.com/watch?v=zF_jcrTCMsA"],
 ]
 
-
-
 ["Metro Exodus"]
 Developer = "4A Games"
 Engine = "4A Engine"
@@ -205,18 +205,6 @@ Year = "2019"
 Analysis = [
   ["Anton Schreiner's Blog", "https://aschrein.github.io/2019/08/11/metro_breakdown.html"],
   ["Balázs Török's Blog", "http://morad.in/2019/03/27/observations-about-the-rendering-of-metro-exodus/"],
-]
-
-["Cyberpunk 2077"]
-Developer = "CD Projekt Red"
-Engine = "REDengine 4"
-Year = "2020"
-Analysis = [
-  ["c0de517e", "https://c0de517e.blogspot.com/2020/12/hallucinations-re-rendering-of.html"],
-  ["Hang Zhang's Blog", "https://zhangdoa.com/rendering-analysis-cyberpunk-2077"],
-  ["Shader Execution Reordering", "https://chipsandcheese.com/2023/05/16/shader-execution-reordering-nvidia-tackles-divergence/"],
-  ["Tech Focus: Cyberpunk 2077 RT Overdrive", "https://www.youtube.com/watch?v=vigxRma2EPA"],
-  ["Overdrive Technology Preview on RTX 4090", "https://www.youtube.com/watch?v=I-ORt8313Og"],
 ]
 
 ["Zelda - Wind Waker"]
@@ -1198,6 +1186,7 @@ Engine = "Internal"
 Year = "2021"
 Analysis = [
 ["Recalibrating Our Limits: Lighting on 'Ratchet and Clank: Rift Apart'", "https://www.youtube.com/watch?v=geErfczxwjc"],
+["DF Blog", "https://www.eurogamer.net/digitalfoundry-2023-df-weekly-how-will-ratchet-and-clank-pc-handle-the-ps5s-ssd-requirement"],
 ]
 
 
