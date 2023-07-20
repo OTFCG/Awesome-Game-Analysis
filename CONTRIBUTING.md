@@ -2,6 +2,7 @@
 
 This guide outlines the steps to contribute to our game information repository. We appreciate your interest and effort to help improve our database.
 
+Example PR: [click here](https://github.com/OTFCG/Awesome-Game-Analysis/pull/12).
 
 ## Step 0: Gather Game Information
 
