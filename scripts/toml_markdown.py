@@ -39,6 +39,7 @@ def toml_to_markdown(toml_string):
         title_section = toml_dict['title']
         index = 1
     md_table_entry=""
+    item_index = 0
     for item in list(toml_dict.items())[index:]:
         title, game_info = item
         developer = game_info["Developer"]
@@ -46,7 +47,11 @@ def toml_to_markdown(toml_string):
         year = game_info["Year"]
         analysis = game_info["Analysis"]
         # Create markdown
-        md_table_entry += f"|{title}|{developer}|{engine}|{year}|<details><summary>Expand</summary>"
+        if item_index < 3:
+            md_table_entry += f"|{title}|{developer}|{engine}|{year}|<details open><summary>Expand</summary>"
+        else:
+            md_table_entry += f"|{title}|{developer}|{engine}|{year}|<details><summary>Expand</summary>"
+        item_index += 1
         for a in analysis:
             md_table_entry += f"- [{a[0]}]({a[1]})<br>"
         md_table_entry += "</details>|\n"
@@ -234,7 +239,8 @@ if __name__ == "__main__":
                     change = check_change(olddict, newdict)
                     if not change :
                         sys.exit(1)
-                    section_games='''## Analysis - Games\n\n|Game|Developer|Engine|Year|Analysis|\n|:---|:---|:---|:---|:---|'''.strip() + "\n"
+                    section_games='''## Analysis - Games'''.strip() + "\n"
+                    section_games+='''|Game|Developer|Engine|Year|Analysis|\n|:---|:---|:---|:---|:---|'''.strip() + "\n"
                     f.seek(0)
                     section_games += toml_to_markdown(f.read())
                     res = ""
