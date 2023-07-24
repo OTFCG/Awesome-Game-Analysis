@@ -1997,3 +1997,23 @@ Analysis = [
   ["dyson-sphere-devlog-3", "https://indienova.com/indie-game-news/dyson-sphere-devlog-3/"],
   ["dyson-sphere-devlog-4", "https://indienova.com/indie-game-development/dyson-sphere-devlog-4/"]
 ]
+
+["Splatoon 2"]
+Developer = "Nintendo"
+Engine = "Internal"
+Year = "2017"
+Analysis = [
+  ["Datamining New Splatoon 2 Maps", "https://oatmealdome.me/blog/datamining-new-splatoon-2-maps-without-homebrew/"],
+  ["Ranking System Analysis", "https://oatmealdome.me/blog/an-in-depth-look-at-the-splatoon-2-ranking-system/"],
+  ["Netcode and Matchmaking", "https://oatmealdome.me/blog/splatoon-2s-netcode-an-in-depth-look/"],
+  ["How Does the Region Lock Work", "https://oatmealdome.me/blog/how-does-the-splatoon-2-region-lock-work/"],
+  ["The Mechanics of Clam Blitz", "https://oatmealdome.me/blog/the-mechanics-of-clam-blitz/"],
+]
+
+["Super Mario Maker 2"]
+Developer = "Nintendo"
+Engine = "Internal"
+Year = "2019"
+Analysis = [
+  ["What Cause Lag in Super Mario Maker 2’s Online", "https://oatmealdome.me/blog/what-causes-lag-in-super-mario-maker-2s-online/"],
+]
