@@ -221,6 +221,7 @@ Suggestions are welcome to be filed via the GitHub issue tracker for this reposi
 |Dyson Sphere Program|Youthcat Studio|Unity|2021|<details><summary>Expand</summary>- [birth-of-dyson-sphere](https://indienova.com/indie-game-news/birth-of-dyson-sphere/)<br>- [dyson-sphere-devlog-2](https://indienova.com/indie-game-development/dyson-sphere-devlog-2/)<br>- [dyson-sphere-devlog-3](https://indienova.com/indie-game-news/dyson-sphere-devlog-3/)<br>- [dyson-sphere-devlog-4](https://indienova.com/indie-game-development/dyson-sphere-devlog-4/)<br></details>|
 |Splatoon 2|Nintendo|Internal|2017|<details><summary>Expand</summary>- [Datamining New Splatoon 2 Maps](https://oatmealdome.me/blog/datamining-new-splatoon-2-maps-without-homebrew/)<br>- [Ranking System Analysis](https://oatmealdome.me/blog/an-in-depth-look-at-the-splatoon-2-ranking-system/)<br>- [Netcode and Matchmaking](https://oatmealdome.me/blog/splatoon-2s-netcode-an-in-depth-look/)<br>- [How Does the Region Lock Work](https://oatmealdome.me/blog/how-does-the-splatoon-2-region-lock-work/)<br>- [The Mechanics of Clam Blitz](https://oatmealdome.me/blog/the-mechanics-of-clam-blitz/)<br></details>|
 |Super Mario Maker 2|Nintendo|Internal|2019|<details><summary>Expand</summary>- [What Cause Lag in Super Mario Maker 2’s Online](https://oatmealdome.me/blog/what-causes-lag-in-super-mario-maker-2s-online/)<br></details>|
+|Super Mario Bros. 3|Nintendo|Source|1988|<details><summary>Expand</summary>- [Super Mario Bros. 3 - The Cutting Room Floor](https://tcrf.net/Super_Mario_Bros._3)<br></details>|
 
 ---
 
