@@ -9,7 +9,7 @@ Year = "2016"
 Analysis = [
   ["The Devil is in the details", "https://advances.realtimerendering.com/s2016/Siggraph2016_idTech6.pdf"],
   ["Graphics Study", "https://www.adriancourreges.com/blog/2016/09/09/doom-2016-graphics-study/"],
-  ["DigitalFoundry Interview", "https://www.eurogamer.net/digitalfoundry-2016-doom-tech-interview"],
+  ["DF Interview", "https://www.eurogamer.net/digitalfoundry-2016-doom-tech-interview"],
   ["Bringing Hell to Life: AI and Full Body Animation in DOOM", "https://www.youtube.com/watch?v=3lO1q8mQrrg"],
   ["GamesBeat Interview", "https://venturebeat.com/games/the-definitive-interview-on-the-making-of-doom/"],
   ["DSOGaming Interview", "https://www.dsogaming.com/interviews/id-software-tech-interview-dx12-vulkan-mega-textures-pbr-global-illumination-more/"],
@@ -66,8 +66,6 @@ Analysis = [
   ["Anton Schreiner's Blog", "https://aschrein.github.io/2019/08/01/re2_breakdown.html"],
 ]
 
-
-
 ["God of war 4"]
 Developer = "Santa Monica Studio"
 Engine = "Internal"
@@ -75,8 +73,6 @@ Year = "2018"
 Analysis = [
   ["Behind the Pretty Frames", "https://mamoniem.com/behind-the-pretty-frames-god-of-war/"],
 ]
-
-
 
 ["Elden Ring"]
 Developer = "FromSoftware"
@@ -86,8 +82,6 @@ Analysis = [
   ["Behind the Pretty Frames", "https://mamoniem.com/behind-the-pretty-frames-elden-ring/"],
 ]
 
-
-
 ["Red Dead Redemption 2"]
 Developer = "Rockstar San Diego"
 Engine = "RAGE"
@@ -96,8 +90,6 @@ Analysis = [
   ["imgeself's Blog", "https://imgeself.github.io/posts/2020-06-19-graphics-study-rdr2/"],
   ["SIG 2019: Creating the Atmospheric World", "https://www.youtube.com/watch?v=9-HTvoBi0Iw&t=7100s"],
 ]
-
-
 
 ["The Witcher 3"]
 Developer = "CD Projekt Red"
@@ -129,8 +121,6 @@ Analysis = [
   ["GDC 17: Destiny Shader Pipeline", "https://www.gdcvault.com/play/1033914/-Destiny-Shader"],
 ]
 
-
-
 ["Batman : Arkham City"]
 Developer = "Rocksteady Studios"
 Engine = "UE3"
@@ -138,8 +128,6 @@ Year = "2011"
 Analysis = [
   ["Froyok's Blog", "https://www.froyok.fr/blog/2012-09-breakdown-batman-arkham-city/"],
 ]
-
-
 
 ["Assassin's Creed II"]
 Developer = "Ubisoft Montréal"
