@@ -498,12 +498,13 @@ Analysis = [
 
 
 
-["Jedi: Fallen Order"]
+["Star Wars Jedi: Fallen Order"]
 Developer = "Respawn"
 Engine = "UE4"
 Year = "2019"
 Analysis = [
   ["Analysis of Water Effects", "https://simonschreibt.de/gat/jedi-fallen-order-splishy-splashy/"],
+  ["Physical Animation in Star Wars Jedi: Fallen Order", "https://www.youtube.com/watch?v=TmAU8aPekEo"]
 ]
 
 
@@ -838,12 +839,20 @@ Analysis = [
 
 ["Battlefield 2"]
 Developer = "DICE"
-Engine = "Refraction Engine"
+Engine = "Frostbite 2"
 Year = "2005"
 Analysis = [
   ["Battlefield 2 Flag Sound", "http://simonschreibt.de/gat/battlefield-2-flag-sound/"],
 ]
 
+
+["Battlefield 3"]
+Developer = "DICE"
+Engine = "Refraction Engine"
+Year = "2011"
+Analysis = [
+  ["Culling the Battlefield: Data Oriented Design in Practice", "https://www.gamedevs.org/uploads/culling-the-battlefield-battlefield3.pdf"],
+]
 
 
 ["Battlefield Bad Company 2"]
