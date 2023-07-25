@@ -171,8 +171,6 @@ Analysis = [
   ["NVIDIA Performance Guide", "https://www.nvidia.com/en-us/geforce/news/metal-gear-solid-v-the-phantom-pain-graphics-and-performance-guide/"],
 ]
 
-
-
 ["Overwatch"]
 Developer = "Blizzard, Iron Galaxy"
 Engine = "Internal"
@@ -526,6 +524,7 @@ Engine = "Frostbite"
 Year = "2017"
 Analysis = [
   ["Battlefront II Layered Explosion", "https://simonschreibt.de/gat/battlefront-ii-layered-explosion/"],
+  ["Precomputed Global Illumination in Frostbite", "https://media.contentapi.ea.com/content/dam/eacom/frostbite/files/gdc2018-precomputedgiobalilluminationinfrostbite.pdf"],
 ]
 
 
@@ -1465,6 +1464,7 @@ Year = "2014"
 Analysis = [
 ["Massive Crowd on Assassin's Creed Unity: AI Recycling", "https://www.youtube.com/watch?v=Rz2cNWVLncI"],
 ["Developing Systemic Crowd Events in Assassin's Creed Unity", "https://www.youtube.com/watch?v=FaV88JAWnbQ"],
+["SIGGRAPH 2015", "https://advances.realtimerendering.com/s2015/aaltonenhaar_siggraph2015_combined_final_footer_220dpi.pdf"],
 ]
 
 ["Detroit: Become Human"]
