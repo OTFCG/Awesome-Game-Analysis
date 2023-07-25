@@ -2047,3 +2047,12 @@ Year = "2019"
 Analysis = [
   ["What Cause Lag in Super Mario Maker 2’s Online", "https://oatmealdome.me/blog/what-causes-lag-in-super-mario-maker-2s-online/"],
 ]
+
+["Super Mario Bros. 3"]
+Developer = "Nintendo"
+Engine = "Source"
+Year = "1988"
+Analysis = [
+  ["Super Mario Bros. 3 - The Cutting Room Floor", "https://tcrf.net/Super_Mario_Bros._3"],
+]
+
