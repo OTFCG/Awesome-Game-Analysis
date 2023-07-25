@@ -1038,12 +1038,45 @@ Analysis = [
 
 
 
+["Crysis"]
+Developer = "Crytek"
+Engine = "CryEngine"
+Year = "2007"
+Analysis = [
+  ["Crysis Next Gen Effects", "https://archive.org/download/crytek_presentations/GDC08_SousaT_CrysisEffects.ppt"],
+  ["Crysis and DX10","https://archive.org/download/crytek_presentations/SIGGRAPH2007_CrysisDX10.ppt"],
+  ["The Crysis of Audio", "https://archive.org/download/crytek_presentations/The_Crysis_of_Audio.pps"],
+]
+
+
+
 ["Crysis 2"]
 Developer = "Crytek"
 Engine = "CryEngine 3"
 Year = "2011"
 Analysis = [
   ["Crysis 2 Multiplayer: A Programmer's Postmortem", "https://www.gdcvault.com/play/1014886/Crysis-2-Multiplayer-A-Programmer"],
+]
+
+
+
+["Crysis 3"]
+Developer = "Crytek"
+Engine = "CryEngine"
+Year = "2013"
+Analysis = [
+  ["Crafting the world of Crysis", "https://archive.org/download/crytek_presentations/Crafting%20the%20World%20of%20Crysis.pptx"],
+  ["Shining the Light on Crysis 3", "https://archive.org/download/crytek_presentations/gdce2013_shining_the_light_on_crysis_3_donzallaz_final_plus_bonus.pdf"],
+]
+
+
+
+["Far Cry"]
+Developer = "Crytek"
+Engine = "Cry Engine"
+Year = "2004"
+Analysis = [
+  ["Far Cry and DX9", "https://archive.org/download/crytek_presentations/GDC2005_FarCryAndDX9.ppt"],
 ]
 
 
