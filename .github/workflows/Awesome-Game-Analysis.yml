@@ -9,6 +9,8 @@ on:
       - main
     paths:
       - 'data/games.toml'
+      - 'scripts/toml_markdown.py'
+      - '.github/workflows/Awesome-Game-Analysis.yml'
   pull_request:
     branches:
       - main
