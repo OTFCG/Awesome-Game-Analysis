@@ -171,7 +171,13 @@ Analysis = [
   ["NVIDIA Performance Guide", "https://www.nvidia.com/en-us/geforce/news/metal-gear-solid-v-the-phantom-pain-graphics-and-performance-guide/"],
 ]
 
-
+["Assassin's Creed Unity"]
+Developer = "Ubisoft Montréal"
+Engine = "AnvilNext 2.0"
+Year = "2014"
+Analysis = [
+  ["SIGGRAPH 2015", "https://advances.realtimerendering.com/s2015/aaltonenhaar_siggraph2015_combined_final_footer_220dpi.pdf"],
+]
 
 ["Overwatch"]
 Developer = "Blizzard, Iron Galaxy"
