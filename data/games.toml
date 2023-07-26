@@ -29,13 +29,14 @@ Analysis = [
   ["Overdrive Technology Preview on RTX 4090", "https://www.youtube.com/watch?v=I-ORt8313Og"],
 ]
 
-["Diablo IV"]
+["Diablo 4"]
 Developer = "Blizzard Albany, Team 3"
 Engine = "Internal"
 Year = "2023"
 Analysis = [
   ["Behind the Pretty Frames", "https://mamoniem.com/behind-the-pretty-frames-diablo-iv/"],
   ["Blizzard", "https://news.blizzard.com/en-us/diablo4/23964183/peeling-back-the-varnish-the-graphics-of-diablo-iv"],
+  ["Developers talk ray tracing", "https://www.shacknews.com/article/115065/diablo-4-developers-talk-ray-tracing-an-all-new-game-engine"],
 ]
 
 ["Death Stranding"]
@@ -46,7 +47,7 @@ Analysis = [
   ["Behind the Pretty Frames", "https://mamoniem.com/behind-the-pretty-frames-death-stranding/"],
   ["'Death Stranding': An AI Postmortem", "https://www.youtube.com/watch?v=yqZE5O8VPAU"],
   ["DF Tech Review(PC)", "https://www.eurogamer.net/digitalfoundry-2020-death-stranding-pc-tech-review"],
-  ["DF Perfomance Analysis", "https://www.eurogamer.net/digitalfoundry-2019-death-stranding-ps4-ps4-pro-performance-analysis"],
+  ["DF Performance Analysis", "https://www.eurogamer.net/digitalfoundry-2019-death-stranding-ps4-ps4-pro-performance-analysis"],
 ]
 
 ["Doom Eternal"]
@@ -66,7 +67,7 @@ Analysis = [
   ["Anton Schreiner's Blog", "https://aschrein.github.io/2019/08/01/re2_breakdown.html"],
 ]
 
-["God of war 4"]
+["God of War 4"]
 Developer = "Santa Monica Studio"
 Engine = "Internal"
 Year = "2018"
