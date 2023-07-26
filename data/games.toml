@@ -9,7 +9,7 @@ Year = "2016"
 Analysis = [
   ["The Devil is in the details", "https://advances.realtimerendering.com/s2016/Siggraph2016_idTech6.pdf"],
   ["Graphics Study", "https://www.adriancourreges.com/blog/2016/09/09/doom-2016-graphics-study/"],
-  ["DigitalFoundry Interview", "https://www.eurogamer.net/digitalfoundry-2016-doom-tech-interview"],
+  ["DF Interview", "https://www.eurogamer.net/digitalfoundry-2016-doom-tech-interview"],
   ["Bringing Hell to Life: AI and Full Body Animation in DOOM", "https://www.youtube.com/watch?v=3lO1q8mQrrg"],
   ["GamesBeat Interview", "https://venturebeat.com/games/the-definitive-interview-on-the-making-of-doom/"],
   ["DSOGaming Interview", "https://www.dsogaming.com/interviews/id-software-tech-interview-dx12-vulkan-mega-textures-pbr-global-illumination-more/"],
@@ -66,8 +66,6 @@ Analysis = [
   ["Anton Schreiner's Blog", "https://aschrein.github.io/2019/08/01/re2_breakdown.html"],
 ]
 
-
-
 ["God of war 4"]
 Developer = "Santa Monica Studio"
 Engine = "Internal"
@@ -75,8 +73,6 @@ Year = "2018"
 Analysis = [
   ["Behind the Pretty Frames", "https://mamoniem.com/behind-the-pretty-frames-god-of-war/"],
 ]
-
-
 
 ["Elden Ring"]
 Developer = "FromSoftware"
@@ -86,8 +82,6 @@ Analysis = [
   ["Behind the Pretty Frames", "https://mamoniem.com/behind-the-pretty-frames-elden-ring/"],
 ]
 
-
-
 ["Red Dead Redemption 2"]
 Developer = "Rockstar San Diego"
 Engine = "RAGE"
@@ -96,8 +90,6 @@ Analysis = [
   ["imgeself's Blog", "https://imgeself.github.io/posts/2020-06-19-graphics-study-rdr2/"],
   ["SIG 2019: Creating the Atmospheric World", "https://www.youtube.com/watch?v=9-HTvoBi0Iw&t=7100s"],
 ]
-
-
 
 ["The Witcher 3"]
 Developer = "CD Projekt Red"
@@ -129,8 +121,6 @@ Analysis = [
   ["GDC 17: Destiny Shader Pipeline", "https://www.gdcvault.com/play/1033914/-Destiny-Shader"],
 ]
 
-
-
 ["Batman : Arkham City"]
 Developer = "Rocksteady Studios"
 Engine = "UE3"
@@ -138,8 +128,6 @@ Year = "2011"
 Analysis = [
   ["Froyok's Blog", "https://www.froyok.fr/blog/2012-09-breakdown-batman-arkham-city/"],
 ]
-
-
 
 ["Assassin's Creed II"]
 Developer = "Ubisoft Montréal"
@@ -182,8 +170,6 @@ Analysis = [
   ["DigitalFoundry Tech Analysis", "https://www.eurogamer.net/digitalfoundry-tech-analysis-mgs5-fox-engine"],
   ["NVIDIA Performance Guide", "https://www.nvidia.com/en-us/geforce/news/metal-gear-solid-v-the-phantom-pain-graphics-and-performance-guide/"],
 ]
-
-
 
 ["Overwatch"]
 Developer = "Blizzard, Iron Galaxy"
@@ -512,12 +498,13 @@ Analysis = [
 
 
 
-["Jedi: Fallen Order"]
+["Star Wars Jedi: Fallen Order"]
 Developer = "Respawn"
 Engine = "UE4"
 Year = "2019"
 Analysis = [
   ["Analysis of Water Effects", "https://simonschreibt.de/gat/jedi-fallen-order-splishy-splashy/"],
+  ["Physical Animation in Star Wars Jedi: Fallen Order", "https://www.youtube.com/watch?v=TmAU8aPekEo"]
 ]
 
 
@@ -538,6 +525,7 @@ Engine = "Frostbite"
 Year = "2017"
 Analysis = [
   ["Battlefront II Layered Explosion", "https://simonschreibt.de/gat/battlefront-ii-layered-explosion/"],
+  ["Precomputed Global Illumination in Frostbite", "https://media.contentapi.ea.com/content/dam/eacom/frostbite/files/gdc2018-precomputedgiobalilluminationinfrostbite.pdf"],
 ]
 
 
@@ -851,12 +839,20 @@ Analysis = [
 
 ["Battlefield 2"]
 Developer = "DICE"
-Engine = "Refraction Engine"
+Engine = "Frostbite 2"
 Year = "2005"
 Analysis = [
   ["Battlefield 2 Flag Sound", "http://simonschreibt.de/gat/battlefield-2-flag-sound/"],
 ]
 
+
+["Battlefield 3"]
+Developer = "DICE"
+Engine = "Refraction Engine"
+Year = "2011"
+Analysis = [
+  ["Culling the Battlefield: Data Oriented Design in Practice", "https://www.gamedevs.org/uploads/culling-the-battlefield-battlefield3.pdf"],
+]
 
 
 ["Battlefield Bad Company 2"]
@@ -1038,12 +1034,45 @@ Analysis = [
 
 
 
+["Crysis"]
+Developer = "Crytek"
+Engine = "CryEngine"
+Year = "2007"
+Analysis = [
+  ["Crysis Next Gen Effects", "https://archive.org/download/crytek_presentations/GDC08_SousaT_CrysisEffects.ppt"],
+  ["Crysis and DX10","https://archive.org/download/crytek_presentations/SIGGRAPH2007_CrysisDX10.ppt"],
+  ["The Crysis of Audio", "https://archive.org/download/crytek_presentations/The_Crysis_of_Audio.pps"],
+]
+
+
+
 ["Crysis 2"]
 Developer = "Crytek"
 Engine = "CryEngine 3"
 Year = "2011"
 Analysis = [
   ["Crysis 2 Multiplayer: A Programmer's Postmortem", "https://www.gdcvault.com/play/1014886/Crysis-2-Multiplayer-A-Programmer"],
+]
+
+
+
+["Crysis 3"]
+Developer = "Crytek"
+Engine = "CryEngine"
+Year = "2013"
+Analysis = [
+  ["Crafting the world of Crysis", "https://archive.org/download/crytek_presentations/Crafting%20the%20World%20of%20Crysis.pptx"],
+  ["Shining the Light on Crysis 3", "https://archive.org/download/crytek_presentations/gdce2013_shining_the_light_on_crysis_3_donzallaz_final_plus_bonus.pdf"],
+]
+
+
+
+["Far Cry"]
+Developer = "Crytek"
+Engine = "Cry Engine"
+Year = "2004"
+Analysis = [
+  ["Far Cry and DX9", "https://archive.org/download/crytek_presentations/GDC2005_FarCryAndDX9.ppt"],
 ]
 
 
@@ -1444,6 +1473,7 @@ Year = "2014"
 Analysis = [
 ["Massive Crowd on Assassin's Creed Unity: AI Recycling", "https://www.youtube.com/watch?v=Rz2cNWVLncI"],
 ["Developing Systemic Crowd Events in Assassin's Creed Unity", "https://www.youtube.com/watch?v=FaV88JAWnbQ"],
+["SIGGRAPH 2015", "https://advances.realtimerendering.com/s2015/aaltonenhaar_siggraph2015_combined_final_footer_220dpi.pdf"],
 ]
 
 ["Detroit: Become Human"]
@@ -2017,3 +2047,20 @@ Year = "2019"
 Analysis = [
   ["What Cause Lag in Super Mario Maker 2’s Online", "https://oatmealdome.me/blog/what-causes-lag-in-super-mario-maker-2s-online/"],
 ]
+
+["Super Mario Bros. 3"]
+Developer = "Nintendo"
+Engine = "Source"
+Year = "1988"
+Analysis = [
+  ["Super Mario Bros. 3 - The Cutting Room Floor", "https://tcrf.net/Super_Mario_Bros._3"],
+]
+
+["Remnant2 "]
+Developer = "Gunfire Games"
+Engine = "UnReal5"
+Year = "2023.7.25"
+Analysis = [
+  ["Remnant 2 review – a war across worlds", "https://www.videogamer.com/reviews/remnant-2-review/"],
+]
+

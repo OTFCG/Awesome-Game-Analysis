@@ -9,6 +9,10 @@ on:
       - main
     paths:
       - 'data/games.toml'
+      - 'data/preface.md'
+      - 'data/references.md'
+      - 'scripts/toml_markdown.py'
+      - '.github/workflows/Awesome-Game-Analysis.yml'
   pull_request:
     branches:
       - main
@@ -44,7 +48,7 @@ jobs:
         uses: actions/checkout@v2
         with:
           fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.MY_PAT }}
 
       - name: Set up Git User
         run: |
@@ -54,7 +58,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: 3.11.4 
+          python-version: 3.11.4
 
       - name: Install dependencies
         run: |
@@ -72,17 +76,13 @@ jobs:
           COMMIT_MSG="Update from data/games.toml"
           echo "::set-output name=commit-message::$COMMIT_MSG"
 
-#      - uses: stefanzweifel/git-auto-commit-action@v4
-#        with:
-#            commit_message: Update from data/games.toml
-
       - name: Commit changes
         run: |
           if [ "${{ steps.execute-scripts.outcome }}" == "success" ]; then
             commit_message="${{ steps.get-commit-message.outputs.commit-message }}"
             git add .
-            git commit -m "$commit_message"
-            git push -u origin main
+            git commit --allow-empty -m "$commit_message"
+            git push --force -u origin main
           else
             echo "Execution failed. Exiting."
             exit 1
