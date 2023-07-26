@@ -226,7 +226,7 @@ Suggestions are welcome for this repository, please use the issue tracker to sub
 |Splatoon 2|Nintendo|Internal|2017|<details><summary>Expand</summary>- [Datamining New Splatoon 2 Maps](https://oatmealdome.me/blog/datamining-new-splatoon-2-maps-without-homebrew/)<br>- [Ranking System Analysis](https://oatmealdome.me/blog/an-in-depth-look-at-the-splatoon-2-ranking-system/)<br>- [Netcode and Matchmaking](https://oatmealdome.me/blog/splatoon-2s-netcode-an-in-depth-look/)<br>- [How Does the Region Lock Work](https://oatmealdome.me/blog/how-does-the-splatoon-2-region-lock-work/)<br>- [The Mechanics of Clam Blitz](https://oatmealdome.me/blog/the-mechanics-of-clam-blitz/)<br></details>|
 |Super Mario Maker 2|Nintendo|Internal|2019|<details><summary>Expand</summary>- [What Cause Lag in Super Mario Maker 2’s Online](https://oatmealdome.me/blog/what-causes-lag-in-super-mario-maker-2s-online/)<br></details>|
 |Super Mario Bros. 3|Nintendo|Source|1988|<details><summary>Expand</summary>- [Super Mario Bros. 3 - The Cutting Room Floor](https://tcrf.net/Super_Mario_Bros._3)<br></details>|
-|Remnant2 |Gunfire Games|UnReal5|2023.7.25|<details><summary>Expand</summary>- [Remnant 2 review – a war across worlds](https://www.videogamer.com/reviews/remnant-2-review/)<br></details>|
+|Remnant2 |Gunfire Games|UE5|2023|<details><summary>Expand</summary>- [Remnant 2 review – a war across worlds](https://www.videogamer.com/reviews/remnant-2-review/)<br></details>|
 
 ---
 
