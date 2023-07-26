@@ -252,3 +252,4 @@ Suggestions are welcome for this repository, please use the issue tracker to sub
 - [SIGGRAPH courses](https://advances.realtimerendering.com/)
 - [Guerrilla's News feed](https://www.guerrilla-games.com/read)
 - [Digital Foundry](https://www.digitalfoundry.net/)
+- [Anything about game](https://github.com/killop/anything_about_game/blob/master/FamousGame.md)
