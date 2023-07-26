@@ -73,6 +73,7 @@ Suggestions are welcome for this repository, please use the issue tracker to sub
 |RIME|Tequila Works|UE4|2017|<details><summary>Expand</summary>- [Stylized VFX in RIME](https://simonschreibt.de/gat/stylized-vfx-in-rime/)<br></details>|
 |Dark Maus|Daniel Wright|Internal|2016|<details><summary>Expand</summary>- [Dark Maus: Topdown Trees](http://simonschreibt.de/gat/darkmaus-topdown-trees/)<br></details>|
 |Diablo 2|Blizzard North|Internal|2000|<details><summary>Expand</summary>- [Don't Starve & Diablo Parallax](http://simonschreibt.de/gat/dont-starve-diablo-parallax-7/)<br></details>|
+|Diablo 2 Resurrected|Blizzard, Vicarious Visions|Internal|2021|<details><summary>Expand</summary>- [DF Tech Analysis](https://www.youtube.com/watch?v=bSdg5sgt6hY)<br></details>|
 |Don't Starve|Klei Entertainment|Custom|2013|<details><summary>Expand</summary>- [Don't Starve & Diablo Parallax](http://simonschreibt.de/gat/dont-starve-diablo-parallax-7/)<br></details>|
 |Tomb Raider 9 (Tomb Raider)|Crystal Dynamics|Crystal|2013|<details><summary>Expand</summary>- [Tomb Raider Lara's Hot Secrets](http://simonschreibt.de/gat/tomb-raider-laras-hot-secrets/)<br></details>|
 |TES: Oblivion|Bethesda Game Studios|Gamebryo|2006|<details><summary>Expand</summary>- [Oblivion Territory Tree vs Palm](http://simonschreibt.de/gat/oblivion-territory-tree-vs-palm/)<br></details>|
