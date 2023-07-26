@@ -216,6 +216,7 @@ Suggestions are welcome for this repository, please use the issue tracker to sub
 |F1 2023|Codemasters|EGO|2023|<details><summary>Expand</summary>- [PS5 vs Xbox Series X/S vs PC – Ray Tracing](https://www.youtube.com/watch?v=DVakUY6lqj8)<br></details>|
 |Company of Heroes 3|Relic Entertainment|Essence Engine 4.0|2023|<details><summary>Expand</summary>- [Company of Heroes 3 - From PC to Consoles](https://www.youtube.com/watch?v=Q7_PSmWxOv8)<br></details>|
 |Resident Evil 4 Re|Capcom|RE Engine|2023|<details><summary>Expand</summary>- [DF Tech Review](https://www.youtube.com/watch?v=N1QOYoNjAO0)<br></details>|
+|Resident Evil 7|Capcom|RE Engine|2017|<details><summary>Expand</summary>- [RE Engine Analysis](https://cgworld.jp/feature/201702-cgw222T2-bio.html)<br></details>|
 |Half-Life|Valve|GoldSrc|1998|<details><summary>Expand</summary>- [A Full RT/Path-Traced Upgrade For The OG PC Classic Tested!](https://www.youtube.com/watch?v=BrRmQhaxtF4)<br></details>|
 |Horizon: Call of the Mountain|Guerrilla|Decima|2023|<details><summary>Expand</summary>- [Inside PSVR2 - Horizon: Call of the Mountain Gameplay + Tech Breakdown](https://www.youtube.com/watch?v=Q43vcKl2axY)<br></details>|
 |GoldenEye 007|Rare|Internal|1997|<details><summary>Expand</summary>- [DF Retro EX](https://www.youtube.com/watch?v=ZxuFc0VkxEw)<br></details>|
