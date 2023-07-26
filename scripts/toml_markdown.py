@@ -126,39 +126,6 @@ def test_multiple():
     # toml
     print(toml_to_markdown(toml_block_list))
 
-section_top='''
-# Awesome-Game-Analysis
-This repository serves as a comprehensive collection of video game technology analysis resources.
-
-Suggestions are welcome to be filed via the GitHub issue tracker for this repository, please use the issue tracker to submit your ideas.
-
-***In order to maintain the structure of this repository, please don't directly make changes to the `README.md` file. Instead, read our [Contribution Guide](https://github.com/OTFCG/Awesome-Game-Analysis/blob/main/CONTRIBUTING.md) before PRs.***
-'''
-section_reference='''
-## References
-- [Behind the Pretty Frames](https://mamoniem.com/category/behind-the-pretty-frames/)
-- [imgself's Blog](https://imgeself.github.io/posts/)
-- [Froyok's Blog](https://www.froyok.fr/articles.html)
-- [Anton Schreiner's Blog](https://aschrein.github.io/)
-- [Frame Analysis](https://alain.xyz/blog)
-- [The Code Corsair](https://www.elopezr.com/)
-- [Graphics Studies](https://www.adriancourreges.com/blog/)
-- [Silent’s Blog](https://cookieplmonster.github.io/)
-- [Nathan Gordon's Blog](https://medium.com/@gordonnl)
-- [Thomas' Blog](https://blog.thomaspoulet.fr)
-- [IRYOKU's Blog](https://www.iryoku.com/)
-- [Game Art Tricks](https://simonschreibt.de/game-art-tricks/)
-- [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor)
-- [Crytek Presentations](https://archive.org/download/crytek_presentations)
-- [r/TheMakingOfGames](https://www.reddit.com/r/TheMakingOfGames/)
-- [r/videogamescience](https://www.reddit.com/r/videogamescience/)
-- [GDC Vault](https://www.gdcvault.com/)
-- [GDC's Programming Talks](https://www.youtube.com/playlist?list=PL2e4mYbwSTbaw1l65rE0Gv6_B9ctOzYyW)
-- [SIGGRAPH courses](https://advances.realtimerendering.com/)
-- [Guerrilla's News feed](https://www.guerrilla-games.com/read)
-- [Digital Foundry](https://www.digitalfoundry.net/)
-'''
-
 def compare_files(file1, file2):
     # Open file for reading in text mode
     with open(file1, 'r') as f1, open(file2, 'r') as f2:
@@ -231,7 +198,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     # using the std output, you can redirect directly to the README.md or README.temp.md for comparasion
-    with open(args.input, 'r') as f:
+    with open(args.input, 'r') as f, open('data/preface.md', 'r') as preface, open('data/references.md', 'r') as references:
         if args.type == 'toml':
             if args.readme:
                 try:
@@ -245,11 +212,11 @@ if __name__ == "__main__":
                     f.seek(0)
                     section_games += toml_to_markdown(f.read())
                     res = ""
-                    res += section_top
+                    res += preface.read()
                     res += "\n---\n\n"
                     res += section_games
                     res += "\n---\n"
-                    res += section_reference
+                    res += references.read()
                     readme = open("README.md", "w")
                     readme.write(res)
                     readme.close()
