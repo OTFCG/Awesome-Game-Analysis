@@ -605,8 +605,6 @@ Analysis = [
   ["Dark Maus: Topdown Trees", "http://simonschreibt.de/gat/darkmaus-topdown-trees/"],
 ]
 
-
-
 ["Diablo 2"]
 Developer = "Blizzard North"
 Engine = "Internal"
@@ -615,7 +613,13 @@ Analysis = [
   ["Don't Starve & Diablo Parallax", "http://simonschreibt.de/gat/dont-starve-diablo-parallax-7/"],
 ]
 
-
+["Diablo 2 Resurrected"]
+Developer = "Blizzard, Vicarious Visions"
+Engine = "Internal"
+Year = "2021"
+Analysis = [
+  ["DF Tech Analysis", "https://www.youtube.com/watch?v=bSdg5sgt6hY"],
+]
 
 ["Don't Starve"]
 Developer = "Klei Entertainment"
