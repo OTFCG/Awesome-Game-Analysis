@@ -198,7 +198,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     # using the std output, you can redirect directly to the README.md or README.temp.md for comparasion
-    with open(args.input, 'r') as f, open('data/perface.md', 'r') as perface, open('data/references.md', 'r') as references:
+    with open(args.input, 'r') as f, open('data/preface.md', 'r') as preface, open('data/references.md', 'r') as references:
         if args.type == 'toml':
             if args.readme:
                 try:
@@ -212,7 +212,7 @@ if __name__ == "__main__":
                     f.seek(0)
                     section_games += toml_to_markdown(f.read())
                     res = ""
-                    res += perface.read()
+                    res += preface.read()
                     res += "\n---\n\n"
                     res += section_games
                     res += "\n---\n"
