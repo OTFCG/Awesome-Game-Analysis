@@ -9,6 +9,8 @@ on:
       - main
     paths:
       - 'data/games.toml'
+      - 'data/preface.md'
+      - 'data/references.md'
       - 'scripts/toml_markdown.py'
       - '.github/workflows/Awesome-Game-Analysis.yml'
   pull_request:
@@ -79,7 +81,7 @@ jobs:
           if [ "${{ steps.execute-scripts.outcome }}" == "success" ]; then
             commit_message="${{ steps.get-commit-message.outputs.commit-message }}"
             git add .
-            git commit -m "$commit_message"
+            git commit --allow-empty -m "$commit_message"
             git push --force -u origin main
           else
             echo "Execution failed. Exiting."
