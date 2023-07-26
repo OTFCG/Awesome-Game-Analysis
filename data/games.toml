@@ -1963,6 +1963,14 @@ Analysis = [
 ["DF Tech Review", "https://www.youtube.com/watch?v=N1QOYoNjAO0"],
 ]
 
+["Resident Evil 7"]
+Developer = "Capcom"
+Engine = "RE Engine"
+Year = "2017"
+Analysis = [
+["RE Engine Analysis", "https://cgworld.jp/feature/201702-cgw222T2-bio.html"],
+]
+
 ["Half-Life"]
 Developer = "Valve"
 Engine = "GoldSrc"
