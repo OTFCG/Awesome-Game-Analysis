@@ -1,5 +1,6 @@
 
-# Awesome-Game-Analysis
+# Awesome-Game-Analysis [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 This repository serves as a comprehensive collection of video game technology analysis resources.
 
 We want to create a community-driven platform where everyone can contribute and benefit from the shared knowledge to understand the mechanics behind games and inspire game development.
