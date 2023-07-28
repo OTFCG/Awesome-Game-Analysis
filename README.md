@@ -233,6 +233,7 @@ Suggestions are welcome for this repository, please use the issue tracker to sub
 |Super Mario Maker 2|Nintendo|Internal|2019|<details><summary>Expand</summary>- [What Cause Lag in Super Mario Maker 2’s Online](https://oatmealdome.me/blog/what-causes-lag-in-super-mario-maker-2s-online/)<br></details>|
 |Super Mario Bros. 3|Nintendo|Source|1988|<details><summary>Expand</summary>- [Super Mario Bros. 3 - The Cutting Room Floor](https://tcrf.net/Super_Mario_Bros._3)<br></details>|
 |Remnant2 |Gunfire Games|UE5|2023|<details><summary>Expand</summary>- [Remnant 2 review – a war across worlds](https://www.videogamer.com/reviews/remnant-2-review/)<br></details>|
+|Octopath Traveler|Square Enix, Acquire|UE4|2018|<details><summary>Expand</summary>- [DF Tech Analysis](https://www.youtube.com/watch?v=2jKOJsoVcro)<br>- [DF PC vs Switch](https://www.digitalfoundry.net/octopath-traveler-pc-vs-switch-graphics-comparison-60fps-and-4k-unleashed)<br>- [Unreal Fest Europe 2019](https://www.youtube.com/watch?v=K6wW0pO08LE)<br></details>|
 
 ---
 
