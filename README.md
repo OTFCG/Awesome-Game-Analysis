@@ -261,3 +261,4 @@ Suggestions are welcome for this repository, please use the issue tracker to sub
 - [Digital Foundry](https://www.digitalfoundry.net/)
 - [Anything about game](https://github.com/killop/anything_about_game/blob/master/FamousGame.md)
 - [CGWorld.jp](https://cgworld.jp/game/)
+- [Gaming Bolt](https://gamingbolt.com/category/graphics-analysis)
