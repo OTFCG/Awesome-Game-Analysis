@@ -2079,3 +2079,12 @@ Analysis = [
   ["Remnant 2 review – a war across worlds", "https://www.videogamer.com/reviews/remnant-2-review/"],
 ]
 
+["Octopath Traveler"]
+Developer = "Square Enix, Acquire"
+Engine = "UE4"
+Year = "2018"
+Analysis = [
+  ["DF Tech Analysis", "https://www.youtube.com/watch?v=2jKOJsoVcro"],
+  ["DF PC vs Switch", "https://www.digitalfoundry.net/octopath-traveler-pc-vs-switch-graphics-comparison-60fps-and-4k-unleashed"],
+  ["Unreal Fest Europe 2019", "https://www.youtube.com/watch?v=K6wW0pO08LE"],
+]
