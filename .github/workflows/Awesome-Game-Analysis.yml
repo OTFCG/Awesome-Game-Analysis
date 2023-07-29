@@ -7,11 +7,14 @@ on:
   push:
     branches:
       - main
+      - test
     paths:
-      - 'data/games.toml'
       - 'data/preface.md'
+      - 'data/games.toml'
       - 'data/references.md'
+      - 'data/epilogue.md'
       - 'scripts/toml_markdown.py'
+      - 'scripts/generate_contributors.py'
       - '.github/workflows/Awesome-Game-Analysis.yml'
   pull_request:
     branches:
@@ -37,7 +40,10 @@ jobs:
 
       - name: Execute Python scripts
         id: execute-scripts
-        run: python scripts/toml_markdown.py -i data/games.toml -t toml --readme
+        run: |
+          python scripts/toml_markdown.py -i data/games.toml -t toml --readme
+          python scripts/generate_contributors.py
+
   push_job:
     runs-on: ubuntu-latest
     permissions:
@@ -67,7 +73,9 @@ jobs:
 
       - name: Execute Python scripts
         id: execute-scripts
-        run: python scripts/toml_markdown.py -i data/games.toml -t toml --readme
+        run: |
+          python scripts/toml_markdown.py -i data/games.toml -t toml --readme
+          python scripts/generate_contributors.py
 
       - name: Get commit message
         id: get-commit-message
