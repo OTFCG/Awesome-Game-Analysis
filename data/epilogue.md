@@ -6,9 +6,11 @@ This work (Awesome Game Analysis) is free of known copyright restrictions.
 
 ## Contributors
 
-As always, thanks to our amazing contributors!
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 
-<!--GAMFC_DELIMITER-->will be replaced here<!--GAMFC_DELIMITER-END-->
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
 
-Made with [contributors](https://github.com/jaywcjlove/github-action-contributors).
-
+<!-- ALL-CONTRIBUTORS-LIST:END -->
