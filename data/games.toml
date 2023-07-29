@@ -551,7 +551,7 @@ Analysis = [
 
 
 
-["Assassin’s Creed: Black Flag"]
+["Assassin's Creed: Black Flag"]
 Developer = "Ubisoft Montreal"
 Engine = "AnvilNext"
 Year = "2013"
@@ -887,8 +887,8 @@ Year = "2022"
 Analysis = [
   ["'God of War Ragnarok's' Visual Scripting Solution", "https://www.gdcvault.com/play/1028787/-God-of-War-Ragnarok"],
   ["Breaking Barriers: Combat Accessibility in 'God of War Ragnarök'", "https://www.youtube.com/watch?v=iA8tpcHwVtg"],
-  ["Rendering ‘God of War Ragnarök’", "https://sms.playstation.com/media/documents/GOWR_Stephen_Mcauley_RenderingGOWR_GDC23.pdf"],
-  ["Real-Time Neural Texture Upsampling in ‘God of War Ragnarök’", "https://sms.playstation.com/media/documents/GOWR_Neural_Image_Upsampling_Zhou_Xuanyi_GDC23.pdf"],
+  ["Rendering 'God of War Ragnarök'", "https://sms.playstation.com/media/documents/GOWR_Stephen_Mcauley_RenderingGOWR_GDC23.pdf"],
+  ["Real-Time Neural Texture Upsampling in 'God of War Ragnarök'", "https://sms.playstation.com/media/documents/GOWR_Neural_Image_Upsampling_Zhou_Xuanyi_GDC23.pdf"],
 ]
 
 
@@ -2060,7 +2060,7 @@ Developer = "Nintendo"
 Engine = "Internal"
 Year = "2019"
 Analysis = [
-  ["What Cause Lag in Super Mario Maker 2’s Online", "https://oatmealdome.me/blog/what-causes-lag-in-super-mario-maker-2s-online/"],
+  ["What Cause Lag in Super Mario Maker 2's Online", "https://oatmealdome.me/blog/what-causes-lag-in-super-mario-maker-2s-online/"],
 ]
 
 ["Super Mario Bros. 3"]

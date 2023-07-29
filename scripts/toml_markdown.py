@@ -53,7 +53,7 @@ def toml_to_markdown(toml_string):
             md_table_entry += f"|{title}|{developer}|{engine}|{year}|<details><summary>Expand</summary>"
         item_index += 1
         for a in analysis:
-            md_table_entry += f"- [{a[0]}]({a[1]})<br>"
+            md_table_entry += f"• [{a[0]}]({a[1]})<br>"
         md_table_entry += "</details>|\n"
     return md_table_entry
 
