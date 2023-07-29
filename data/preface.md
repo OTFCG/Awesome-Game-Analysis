@@ -1,7 +1,12 @@
+# Awesome Game Analysis [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-# Awesome Game Analysis 
+## Contents
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+  * [Intro](#intro)
+  * [Analysis - Games](#analysis---games)
+  * [References](#references)
+
+## Intro
 
 This repository serves as a comprehensive collection of video game technology analysis resources.
 
