@@ -8,11 +8,9 @@ on:
     branches:
       - main
     paths:
-      - 'data/games.toml'
-      - 'data/preface.md'
-      - 'data/references.md'
-      - 'scripts/toml_markdown.py'
-      - '.github/workflows/Awesome-Game-Analysis.yml'
+      - 'data/'
+      - 'scripts/'
+      - '.github/workflows/'
   pull_request:
     branches:
       - main
@@ -37,7 +35,10 @@ jobs:
 
       - name: Execute Python scripts
         id: execute-scripts
-        run: python scripts/toml_markdown.py -i data/games.toml -t toml --readme
+        run: |
+          python scripts/toml_markdown.py -i data/games.toml -t toml --readme
+          python scripts/generate_contributors.py
+
   push_job:
     runs-on: ubuntu-latest
     permissions:
