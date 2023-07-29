@@ -72,6 +72,7 @@ Developer = "Santa Monica Studio"
 Engine = "Internal"
 Year = "2018"
 Analysis = [
+  ["Raising Atreus for Battle in God of War", "https://www.youtube.com/watch?v=lbyGzzcKg9U"],
   ["Behind the Pretty Frames", "https://mamoniem.com/behind-the-pretty-frames-god-of-war/"],
 ]
 
@@ -310,7 +311,7 @@ Analysis = [
 
 
 
-["God of War III"]
+["God of War 3"]
 Developer = "Santa Monica Studio"
 Engine = "Internal"
 Year = "2010"
@@ -878,8 +879,6 @@ Analysis = [
   ["Left 4 Dead 2 Puke", "http://simonschreibt.de/gat/left-4-dead-2-puke/"],
 ]
 
-
-
 ["God of War Ragnarok"]
 Developer = "Santa Monica Studio"
 Engine = "Internal"
@@ -889,9 +888,8 @@ Analysis = [
   ["Breaking Barriers: Combat Accessibility in 'God of War Ragnarök'", "https://www.youtube.com/watch?v=iA8tpcHwVtg"],
   ["Rendering 'God of War Ragnarök'", "https://sms.playstation.com/media/documents/GOWR_Stephen_Mcauley_RenderingGOWR_GDC23.pdf"],
   ["Real-Time Neural Texture Upsampling in 'God of War Ragnarök'", "https://sms.playstation.com/media/documents/GOWR_Neural_Image_Upsampling_Zhou_Xuanyi_GDC23.pdf"],
+  ["A Deep Dive Into God of War Ragnarök's User Interface", "https://80.lv/articles/a-deep-dive-into-god-of-war-ragnar-k-s-user-interface/"],
 ]
-
-
 
 ["Knockout City"]
 Developer = "Velan Studios"
@@ -1400,6 +1398,12 @@ Engine = "Internal"
 Year = "2020"
 Analysis = [
 ["Crafting an Interactive Guitar", "https://www.youtube.com/watch?v=bEjUIHEeKQU"],
+["80lv's Interview", "https://80.lv/articles/how-naughty-dog-created-the-immersive-world-of-the-last-of-us-part-ii/"],
+["The Museum Level Design", "https://www.ehilldesign.com/the-last-of-us-part-ii/the-museum"],
+["The Chalet Level Design", "https://www.ehilldesign.com/the-last-of-us-part-ii/the-chalet"],
+["The Overlook Level Design", "https://www.ehilldesign.com/the-last-of-us-part-ii/the-overlook"],
+["Dialogue Scripting Level Design", "https://www.ehilldesign.com/the-last-of-us-part-ii/dialogue-scripting"],
+["Finding Strings Level Design", "https://www.ehilldesign.com/the-last-of-us-part-ii/finding-strings"],
 ]
 
 
@@ -1557,6 +1561,7 @@ Developer = "Guerrilla Games"
 Engine = "Decima"
 Year = "2017"
 Analysis = [
+["80lv's Interview", "https://80.lv/articles/horizon-zero-dawn-interview-with-the-team/"],
 ["GPU-Based Run-Time Procedural Placement in Horizon: Zero Dawn", "https://www.youtube.com/watch?v=ToCozpl1sYY"],
 ["Horizon Zero Dawn: A QA Open World Case Study", "https://www.youtube.com/watch?v=2VDlX3Dqm0w"],
 ["Creating a Tools Pipeline for Horizon: Zero Dawn", "https://www.youtube.com/watch?v=KRJkBxKv1VM"],
@@ -1625,14 +1630,6 @@ Engine = "Internal"
 Year = "2018"
 Analysis = [
 ["Playing Your Cards Right: The Hierarchical Portfolio Search AI of Prismata", "https://www.youtube.com/watch?v=sQSL9j7W7uA"],
-]
-
-["God of War"]
-Developer = "Santa Monica Studio"
-Engine = "Proprietary"
-Year = "2018"
-Analysis = [
-["Raising Atreus for Battle in God of War", "https://www.youtube.com/watch?v=lbyGzzcKg9U"],
 ]
 
 ["Panzer Dragoon Series"]
@@ -2087,4 +2084,28 @@ Analysis = [
   ["DF Tech Analysis", "https://www.youtube.com/watch?v=2jKOJsoVcro"],
   ["DF PC vs Switch", "https://www.digitalfoundry.net/octopath-traveler-pc-vs-switch-graphics-comparison-60fps-and-4k-unleashed"],
   ["Unreal Fest Europe 2019", "https://www.youtube.com/watch?v=K6wW0pO08LE"],
+]
+
+["Escape From Tarkov"]
+Developer = "Battlestate"
+Engine = "Unity"
+Year = "2017"
+Analysis = [
+  ["Game Tech Overview", "https://80.lv/articles/escape-from-tarkov-game-tech-overview/"],
+]
+
+["Noita"]
+Developer = "Nolla Games"
+Engine = "Falling Everything"
+Year = "2020"
+Analysis = [
+  ["80lv's Interview", "https://80.lv/articles/noita-a-game-based-on-falling-sand-simulation/"],
+]
+
+["Epitasis"]
+Developer = "Epitasis Games"
+Engine = "UE4"
+Year = "2019"
+Analysis = [
+  ["80lv's Interview", "https://80.lv/articles/development-of-epitasis-world-music-skybox/"],
 ]
