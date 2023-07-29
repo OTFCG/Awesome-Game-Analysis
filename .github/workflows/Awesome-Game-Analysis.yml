@@ -73,7 +73,7 @@ jobs:
         id: get-commit-message
         run: |
           echo "Setting commit message."
-          COMMIT_MSG="Update from data/games.toml"
+          COMMIT_MSG="Update Readme"
           echo "::set-output name=commit-message::$COMMIT_MSG"
 
       - name: Commit changes
