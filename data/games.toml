@@ -2109,3 +2109,19 @@ Year = "2019"
 Analysis = [
   ["80lv's Interview", "https://80.lv/articles/development-of-epitasis-world-music-skybox/"],
 ]
+
+["Dragon Ball Z Kakarot"]
+Developer = "Cyber Connect 2"
+Engine = "UE4"
+Year = "2020"
+Analysis = [
+  ["Thomas @ Stylized Station's Twittwer thread", "https://twitter.com/StylizedStation/status/1656434559590846464"],
+]
+
+["NARUTO: Ultimate Ninja STORM"]
+Developer = "Cyber Connect 2"
+Engine = "Internal"
+Year = "2008"
+Analysis = [
+  ["GDC: Cinematic Next-Generation Action NARUTO", "https://www.gdcvault.com/play/1354/Cinematic-Next-Generation-Action-NARUTO"],
+]
