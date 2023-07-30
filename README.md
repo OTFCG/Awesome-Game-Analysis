@@ -239,6 +239,8 @@ In order to maintain the structure of this repository, please don't directly mak
 |Escape From Tarkov|Battlestate|Unity|2017|<details><summary>Expand</summary>• [Game Tech Overview](https://80.lv/articles/escape-from-tarkov-game-tech-overview/)<br></details>|
 |Noita|Nolla Games|Falling Everything|2020|<details><summary>Expand</summary>• [80lv's Interview](https://80.lv/articles/noita-a-game-based-on-falling-sand-simulation/)<br></details>|
 |Epitasis|Epitasis Games|UE4|2019|<details><summary>Expand</summary>• [80lv's Interview](https://80.lv/articles/development-of-epitasis-world-music-skybox/)<br></details>|
+|Dragon Ball Z Kakarot|Cyber Connect 2|UE4|2020|<details><summary>Expand</summary>• [Thomas @ Stylized Station's Twittwer thread](https://twitter.com/StylizedStation/status/1656434559590846464)<br></details>|
+|NARUTO: Ultimate Ninja STORM|Cyber Connect 2|Internal|2008|<details><summary>Expand</summary>• [GDC: Cinematic Next-Generation Action NARUTO](https://www.gdcvault.com/play/1354/Cinematic-Next-Generation-Action-NARUTO)<br></details>|
 
 ---
 
