@@ -40,7 +40,8 @@ def toml_to_markdown(toml_string):
         index = 1
     md_table_entry=""
     item_index = 0
-    for item in list(toml_dict.items())[index:]:
+    sorted_data_list = sorted(list(toml_dict.items())[index:], key=lambda x: int(x[1]['Year']) if x[1]['Year'].isdigit() else 0, reverse=True)
+    for item in sorted_data_list:
         title, game_info = item
         developer = game_info["Developer"]
         engine = game_info["Engine"]
@@ -142,10 +143,10 @@ def markdown_to_dict(file):
         markdown_text = file.read()
 
     game_info_dict = {}
-    table_pattern = r'\|(.+)\|'  
+    table_pattern = r'\|(.+)\|'
     table_matches = re.findall(table_pattern, markdown_text, re.MULTILINE)
     table_data = table_matches[2:]
-    
+
     for row in table_data:
         game_info = [cell.strip() for cell in row.split('|')]
         title, developer, engine, year, analysis_raw = game_info
@@ -164,7 +165,7 @@ def toml_to_dict(toml_string):
     toml_dict = toml.loads(toml_string)
     del toml_dict["title"]
     return toml_dict
-        
+
 def check_change(olddict, newdict):
     for title, game_info in newdict.items():
         old_game_info = olddict.get(title)
@@ -178,7 +179,7 @@ def check_change(olddict, newdict):
                 return True
         else:
             return True
-        
+
     return False
 
 if __name__ == "__main__":
