@@ -241,6 +241,7 @@ In order to maintain the structure of this repository, please don't directly mak
 |Epitasis|Epitasis Games|UE4|2019|<details><summary>Expand</summary>• [80lv's Interview](https://80.lv/articles/development-of-epitasis-world-music-skybox/)<br></details>|
 |Dragon Ball Z Kakarot|Cyber Connect 2|UE4|2020|<details><summary>Expand</summary>• [Thomas @ Stylized Station's Twittwer thread](https://twitter.com/StylizedStation/status/1656434559590846464)<br></details>|
 |NARUTO: Ultimate Ninja STORM|Cyber Connect 2|Internal|2008|<details><summary>Expand</summary>• [GDC: Cinematic Next-Generation Action NARUTO](https://www.gdcvault.com/play/1354/Cinematic-Next-Generation-Action-NARUTO)<br></details>|
+|Hellblade: Senua's Sacrifice|Ninja Theory|UE4|2017|<details><summary>Expand</summary>• [Digital Humans: Crossing the Uncanny Valley in UE4 | GDC 2016 Event Coverage | Unreal Engine](https://www.youtube.com/watch?v=ILacgSf1vck)<br></details>|
 
 ---
 
@@ -277,9 +278,10 @@ In order to maintain the structure of this repository, please don't directly mak
 ## Contributing
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 
-<table><tr>
-<td><a href="https://github.com/K1ngst0m"><img src="https://avatars.githubusercontent.com/u/34272057?v=4" width="50px" /><br /><sub>K1ngst0m</sub></a></td> <td><a href="https://github.com/RTM945"><img src="https://avatars.githubusercontent.com/u/8003484?v=4" width="50px" /><br /><sub>RTM945</sub></a></td> <td><a href="https://github.com/wyryyds"><img src="https://avatars.githubusercontent.com/u/96603553?v=4" width="50px" /><br /><sub>wyryyds</sub></a></td> <td><a href="https://github.com/Chaphlagical"><img src="https://avatars.githubusercontent.com/u/35370033?v=4" width="50px" /><br /><sub>Chaphlagical</sub></a></td> <td><a href="https://github.com/1961629480"><img src="https://avatars.githubusercontent.com/u/90666068?v=4" width="50px" /><br /><sub>1961629480</sub></a></td>
-<td><a href="https://github.com/irimsky"><img src="https://avatars.githubusercontent.com/u/42032614?v=4" width="50px" /><br /><sub>irimsky</sub></a></td> <td><a href="https://github.com/rubyKC"><img src="https://avatars.githubusercontent.com/u/40796075?v=4" width="50px" /><br /><sub>rubyKC</sub></a></td>
-</tr></table>
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
