@@ -1,6 +1,6 @@
 # Awesome Game Analysis [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="electron-logo.svg" align="right" width="100">](https://raw.githubusercontent.com/OTFCG/Awesome-Game-Analysis/update/logo.svg)
+[<img src="LOGO.png" align="right" width="100">](https://github.com/OTFCG/Awesome-Game-Analysis)
 
 > This repository serves as a comprehensive collection of video game technology analysis resources.
 
