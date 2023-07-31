@@ -22,16 +22,12 @@ try:
     for contributor in contributors:
         if contributor["login"] == 'github-actions[bot]':
             continue
-        contributors_list.append(
-            '<td>'
+        contributor_info = (
             f'<a href="https://github.com/{contributor["login"]}">'
-            f'<img src="{contributor["avatar_url"]}" width="50px" />'
-            f'<br />'
-            f'<sub>{contributor["login"]}</sub>'
+            f'<img src="{contributor["avatar_url"]}" width="50px" /><br /><sub>{contributor["login"]}</sub>'
             f'</a>'
-            '</td>'
         )
-
+        contributors_list.append(contributor_info)
     # Read the existing README
     with open('README.md', 'r') as f:
         readme = f.read()
@@ -42,19 +38,31 @@ try:
     start_index = readme.find(start_marker)
     end_index = readme.find(end_marker)
     if start_index != -1 and end_index != -1:
+        rows = []
+        for i in range(0, len(contributors_list), 5):
+            row = contributors_list[i:i + 5]
+            row_text = ' | '.join(row)
+            row_text = ' | ' + row_text + ' | '
+            rows.append(row_text)
+            if i == 0:
+                rows.append('| :---: | :---: | :---: | :---: | :---: |')
+        table_text = '\n'.join(rows)
+
         new_readme = (
-            readme[:start_index] + 
-            start_marker + 
-            '\n\n<table style="border-collapse: collapse;"><tr style="text-align: center;">\n' + 
-            '\n'.join(' '.join(contributors_list[i:i+5]) for i in range(0, len(contributors_list), 5)) +
-            '\n</tr></table>\n' + 
-            readme[end_index:]
+            readme[:start_index]
+            + start_marker
+            + '\n\n'
+            + table_text
+            + '\n'
+            + readme[end_index:]
         )
         with open('README.md', 'w') as f:
             f.write(new_readme)
     else:
         print(f"Error: Couldn't find markers in the README file")
         sys.exit(-1)
+
+
 
 except Exception as e:
     print(f"An error occurred: {e}")
