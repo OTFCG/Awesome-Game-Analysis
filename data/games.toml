@@ -2126,3 +2126,11 @@ Year = "2008"
 Analysis = [
   ["GDC: Cinematic Next-Generation Action NARUTO", "https://www.gdcvault.com/play/1354/Cinematic-Next-Generation-Action-NARUTO"],
 ]
+
+["Hellblade: Senua's Sacrifice"]
+Developer = "Ninja Theory"
+Engine = "UE4"
+Year = "2017"
+Analysis = [
+  ["Digital Humans: Crossing the Uncanny Valley in UE4", "https://www.youtube.com/watch?v=ILacgSf1vck"],
+]
