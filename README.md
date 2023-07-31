@@ -279,7 +279,7 @@ In order to maintain the structure of this repository, please don't directly mak
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 
-<table style="border-collapse: collapse;"><tr style="text-align: center;">
+<table><tr>
 <td><a href="https://github.com/K1ngst0m"><img src="https://avatars.githubusercontent.com/u/34272057?v=4" width="50px" /><br /><sub>K1ngst0m</sub></a></td> <td><a href="https://github.com/RTM945"><img src="https://avatars.githubusercontent.com/u/8003484?v=4" width="50px" /><br /><sub>RTM945</sub></a></td> <td><a href="https://github.com/wyryyds"><img src="https://avatars.githubusercontent.com/u/96603553?v=4" width="50px" /><br /><sub>wyryyds</sub></a></td> <td><a href="https://github.com/Chaphlagical"><img src="https://avatars.githubusercontent.com/u/35370033?v=4" width="50px" /><br /><sub>Chaphlagical</sub></a></td> <td><a href="https://github.com/1961629480"><img src="https://avatars.githubusercontent.com/u/90666068?v=4" width="50px" /><br /><sub>1961629480</sub></a></td>
 <td><a href="https://github.com/irimsky"><img src="https://avatars.githubusercontent.com/u/42032614?v=4" width="50px" /><br /><sub>irimsky</sub></a></td> <td><a href="https://github.com/manhua-man"><img src="https://avatars.githubusercontent.com/u/67098894?v=4" width="50px" /><br /><sub>manhua-man</sub></a></td> <td><a href="https://github.com/rubyKC"><img src="https://avatars.githubusercontent.com/u/40796075?v=4" width="50px" /><br /><sub>rubyKC</sub></a></td>
 </tr></table>
