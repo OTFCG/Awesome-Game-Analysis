@@ -45,9 +45,9 @@ try:
         new_readme = (
             readme[:start_index] + 
             start_marker + 
-            '\n\n<table style="border-collapse: collapse;"><tr style="text-align: center;">\n' + 
+            '\n\n<div style="text-align: center;"><table style="border-collapse: collapse;"><tr style="text-align: center;">\n' + 
             '\n'.join(' '.join(contributors_list[i:i+5]) for i in range(0, len(contributors_list), 5)) +
-            '\n</tr></table>\n' + 
+            '\n</tr></table></div>\n' + 
             readme[end_index:]
         )
         with open('README.md', 'w') as f:
