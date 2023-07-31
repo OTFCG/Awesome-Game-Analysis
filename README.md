@@ -241,6 +241,7 @@ In order to maintain the structure of this repository, please don't directly mak
 |Epitasis|Epitasis Games|UE4|2019|<details><summary>Expand</summary>• [80lv's Interview](https://80.lv/articles/development-of-epitasis-world-music-skybox/)<br></details>|
 |Dragon Ball Z Kakarot|Cyber Connect 2|UE4|2020|<details><summary>Expand</summary>• [Thomas @ Stylized Station's Twittwer thread](https://twitter.com/StylizedStation/status/1656434559590846464)<br></details>|
 |NARUTO: Ultimate Ninja STORM|Cyber Connect 2|Internal|2008|<details><summary>Expand</summary>• [GDC: Cinematic Next-Generation Action NARUTO](https://www.gdcvault.com/play/1354/Cinematic-Next-Generation-Action-NARUTO)<br></details>|
+|Hellblade: Senua's Sacrifice|Ninja Theory|UE4|2017|<details><summary>Expand</summary>• [Digital Humans: Crossing the Uncanny Valley in UE4](https://www.youtube.com/watch?v=ILacgSf1vck)<br></details>|
 
 ---
 
