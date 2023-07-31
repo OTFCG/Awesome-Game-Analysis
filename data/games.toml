@@ -35,7 +35,7 @@ Engine = "Internal"
 Year = "2023"
 Analysis = [
   ["Behind the Pretty Frames", "https://mamoniem.com/behind-the-pretty-frames-diablo-iv/"],
-  ["Blizzard", "https://news.blizzard.com/en-us/diablo4/23964183/peeling-back-the-varnish-the-graphics-of-diablo-iv"],
+  ["Peeling Back The Varnish: The Graphics Of Diablo IV", "https://news.blizzard.com/en-us/diablo4/23964183/peeling-back-the-varnish-the-graphics-of-diablo-iv"],
   ["Developers talk ray tracing", "https://www.shacknews.com/article/115065/diablo-4-developers-talk-ray-tracing-an-all-new-game-engine"],
 ]
 
