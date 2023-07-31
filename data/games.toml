@@ -2132,5 +2132,5 @@ Developer = "Ninja Theory"
 Engine = "UE4"
 Year = "2017"
 Analysis = [
-  ["Digital Humans: Crossing the Uncanny Valley in UE4 | GDC 2016 Event Coverage | Unreal Engine", "https://www.youtube.com/watch?v=ILacgSf1vck"],
+  ["Digital Humans: Crossing the Uncanny Valley in UE4", "https://www.youtube.com/watch?v=ILacgSf1vck"],
 ]
