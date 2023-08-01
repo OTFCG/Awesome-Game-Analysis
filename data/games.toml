@@ -2117,7 +2117,7 @@ Developer = "Cyber Connect 2"
 Engine = "UE4"
 Year = "2020"
 Analysis = [
-  ["Thomas @ Stylized Station's Twittwer thread", "https://twitter.com/StylizedStation/status/1656434559590846464"],
+  ["Thomas @ Stylized Station's Twitter thread", "https://twitter.com/StylizedStation/status/1656434559590846464"],
 ]
 
 ["NARUTO: Ultimate Ninja STORM"]
@@ -2134,4 +2134,12 @@ Engine = "UE4"
 Year = "2017"
 Analysis = [
   ["Digital Humans: Crossing the Uncanny Valley in UE4", "https://www.youtube.com/watch?v=ILacgSf1vck"],
+]
+
+["Warhammer 40,000: Darktide"]
+Developer = "Fatshark"
+Engine = "Internal"
+Year = "2022"
+Analysis = [
+  ["How FatShark constructed their central asset pipeline with Simplygon", "https://www.youtube.com/watch?v=RZxo-2cAFk0"],
 ]
