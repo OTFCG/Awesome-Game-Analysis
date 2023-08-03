@@ -273,7 +273,7 @@ In order to maintain the structure of this repository, please don't directly mak
 * [Gaming Bolt](https://gamingbolt.com/category/graphics-analysis)
 * [80lv](https://80.lv/)
 * [Evan Hill's Blog](https://www.ehilldesign.com/)
-
+* [SQUARE ENIX Libary](http://www.jp.square-enix.com/tech/publications.html)
 ---
 
 ## Contributing
