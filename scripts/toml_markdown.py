@@ -4,6 +4,7 @@ import argparse
 import difflib
 import markdown
 import sys
+import traceback
 
 '''
 - For converting a TOML file to Markdown:
@@ -203,11 +204,12 @@ if __name__ == "__main__":
         if args.type == 'toml':
             if args.readme:
                 try:
-                    olddict = markdown_to_dict('README.md')
-                    newdict = toml_to_dict(f.read())
-                    change = check_change(olddict, newdict)
-                    if not change :
-                        sys.exit(1)
+                    # FIXME: prevent it parse the ## contributor
+                    # olddict = markdown_to_dict('README.md')
+                    # newdict = toml_to_dict(f.read())
+                    # change = check_change(olddict, newdict)
+                    # if not change :
+                    #     sys.exit(1)
                     section_games='''## Analysis - Games'''.strip() + "\n"
                     section_games+='''|Game|Developer|Engine|Year|Analysis|\n|:---|:---|:---|:---|:---|'''.strip() + "\n"
                     f.seek(0)
@@ -225,6 +227,8 @@ if __name__ == "__main__":
                     readme.close()
                 except Exception as e:
                     print("Error occurred:", e)
+                    traceback_str = traceback.format_exc()
+                    print("Error location:\n", traceback_str)
                     sys.exit(-1)
             else:
                 print(toml_to_markdown(f.read()))
