@@ -902,13 +902,12 @@ Analysis = [
 
 
 
-["Final Fantasy VII Remake"]
+["Final Fantasy 7 Remake"]
 Developer = "Square Enix"
 Engine = "Internal"
 Year = "2020"
 Analysis = [
-  ["Final Fantasy VII Remake", "https://www.gdcvault.com/play/1027049/-Final-Fantasy-VII-Remake"],
-  ["Final Fantasy VII Remake", "https://www.gdcvault.com/play/1027355/-Final-Fantasy-VII-Remake"],
+  ["機械学習によるリップシンクアニメーション自動生成技術と FINAL FANTASY VII REMAKEのアセットを訓練データとした実装実例", "http://www.jp.square-enix.com/tech/library/pdf/CEDEC2022_LipSyncML_all.pdf"],
   ["'Final Fantasy VII' Remake: Automating Quality Assurance and the Tools for the Future", "https://www.youtube.com/watch?v=L2bJ4E_4zN8"]
 ]
 
@@ -1540,13 +1539,30 @@ Analysis = [
 ["4K Checkerboard in Battlefield 1 and Mass Effect Andromeda", "https://www.youtube.com/watch?v=RkS8DmGqUmk"],
 ]
 
-["Final Fantasy XV"]
+["Final Fantasy 15"]
 Developer = "Square Enix Business Division 2"
 Engine = "Luminous Studio"
 Year = "2016"
 Analysis = [
 ["Eos is Alive: The AI Systems of Final Fantasy XV", "https://www.youtube.com/watch?v=ygNRNru1B_s"],
 ["Prompto's Facebook: How a Buddy-AI Auto-Snapshots Your Adventure in FFXV", "https://www.youtube.com/watch?v=ictRlPZQCZI"],
+["障害物を乗り越えるアニメーションの制御手法とその応用", "http://www.jp.square-enix.com/tech/library/pdf/CEDEC2017_Kawachi.pdf"],
+["FINAL FANTASY XVにおけるキャラクターナビゲーションパイプライン ～パス検索とステアリングとアニメーションの連携～", "http://www.jp.square-enix.com/tech/library/pdf/CEDEC_Navigation_2017_08_30_final.pdf"],
+["Rendering Techniques of Final Fantasy XV", "http://www.jp.square-enix.com/tech/library/pdf/s16_final.pdf"],
+["Physics Simulation R&D at Square Enix", "http://www.jp.square-enix.com/tech/library/pdf/SA2015_slides.pdf"],
+["FINAL FANTASY XV -EPISODE DUSCAE-のエフェクトはこうして作られた～Luminous VFX Editorの紹介～", "http://www.jp.square-enix.com/tech/library/pdf/CEDEC2015_Luminous_FFXV_VFX.pdf"],
+["FINAL FANTASY XV -EPISODE DUSCAE-におけるキャラクターAIの意思決定システム (P1)", "https://gdl.square-enix.com/tech/library/pdf/2015cedec_FFXV_AI_English_part1.pdf"],
+["FINAL FANTASY XV -EPISODE DUSCAE-におけるキャラクターAIの意思決定システム (P2)", "https://gdl.square-enix.com/tech/library/pdf/2015cedec_FFXV_AI_English_part2.pdf"],
+["FINAL FANTASY XV -EPISODE DUSCAE- のアニメーション ～接地感向上のためのとりくみ～", "http://www.jp.square-enix.com/tech/library/pdf/CEDEC2015_Luminous_FFXV_Animation.pdf"],
+]
+
+["Final Fantasy Agni's Philosophy (Tech Demo)"]
+Developer = "Square Enix"
+Engine = "Luminous Studio"
+Year = "2012"
+Analysis = [
+["Web Page", "http://www.agnisphilosophy.com/en/index.html"],
+["Practical Applications of Compute for Simulation in Agni's Philosophy", "http://www.jp.square-enix.com/tech/library/pdf/SiggraphAsia2014_simulation.pdf"],
 ]
 
 ["Call of Duty"]
@@ -1933,9 +1949,10 @@ Developer = "Square Enix"
 Engine = "Internal"
 Year = "2023"
 Analysis = [
+["Shadow Techniques from Final Fantasy XVI", "http://www.jp.square-enix.com/tech/library/pdf/2023_FFXVIShadowTechPaper.pdf"],
 ["Tech Evolution: Final Fantasy 13 CGI vs Final Fantasy 16 Real-Time Graphics", "https://www.youtube.com/watch?v=ItwtpX1SFcA"],
 ["The DF Tech Review", "https://www.eurogamer.net/digitalfoundry-2023-final-fantasy-16-as-close-to-flawless-as-weve-seen-in-a-long-time"],
-["GamingBolt Tech Analysis", "https://gamingbolt.com/final-fantasy-16-ps5-graphics-analysis-a-generational-leap"]
+["GamingBolt Tech Analysis", "https://gamingbolt.com/final-fantasy-16-ps5-graphics-analysis-a-generational-leap"],
 ]
 
 ["F1 2023"]
