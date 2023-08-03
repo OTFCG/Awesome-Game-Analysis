@@ -26,3 +26,4 @@
 * [Gaming Bolt](https://gamingbolt.com/category/graphics-analysis)
 * [80lv](https://80.lv/)
 * [Evan Hill's Blog](https://www.ehilldesign.com/)
+* [Square Enix Library](http://www.jp.square-enix.com/tech/publications.html)
