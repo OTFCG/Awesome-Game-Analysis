@@ -1033,6 +1033,7 @@ Year = "2009"
 Analysis = [
   ["Building the Chat Service for League of Legends", "https://www.gdcvault.com/play/1015092/Building-the-Chat-Service-for"],
   ["League of Legends: Scaling to Millions of Summoners", "https://www.youtube.com/watch?v=yRMM2cEQ89c"],
+  ["A Trip Down The LoL Graphics Pipeline", "https://technology.riotgames.com/news/trip-down-lol-graphics-pipeline"],
 ]
 
 
