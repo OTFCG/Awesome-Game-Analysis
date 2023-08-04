@@ -2204,3 +2204,11 @@ Year = "N/A"
 Analysis = [
   ["The rendering techniques of Path of Exile (Alexander Sannikov)", "https://www.youtube.com/watch?v=B-ODrtmtpzM"],
 ]
+
+["League of Legends"]
+Developer = "Riot Games"
+Engine = "Internal"
+Year = "2009"
+Analysis = [
+  ["A Trip Down The LoL Graphics Pipeline", "https://technology.riotgames.com/news/trip-down-lol-graphics-pipeline"],
+]
