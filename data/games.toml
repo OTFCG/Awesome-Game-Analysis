@@ -2160,3 +2160,11 @@ Year = "2022"
 Analysis = [
   ["How FatShark constructed their central asset pipeline with Simplygon", "https://www.youtube.com/watch?v=RZxo-2cAFk0"],
 ]
+
+[Path of Exile 2"]
+Developer = "Grinding Gear Games"
+Engine = "Internal"
+Year = "N/A"
+Analysis = [
+  ["The rendering techniques of Path of Exile (Alexander Sannikov)", "https://www.youtube.com/watch?v=B-ODrtmtpzM"],
+]
