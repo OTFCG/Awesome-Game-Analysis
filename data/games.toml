@@ -2161,6 +2161,15 @@ Analysis = [
   ["How FatShark constructed their central asset pipeline with Simplygon", "https://www.youtube.com/watch?v=RZxo-2cAFk0"],
 ]
 
+["Path of Exile"]
+Developer = "Grinding Gear Games"
+Engine = "Internal"
+Year = "2013"
+Analysis = [
+  ["Procedural World Generation in Path of Exile", "https://www.youtube.com/watch?v=EXnoHTqO7TE"],
+  ["ExileCon Dev Talk - Creating Game Effects in Path of Exile", "https://www.youtube.com/watch?v=KxXJn1DOuzw"],
+]
+
 ["Path of Exile 2"]
 Developer = "Grinding Gear Games"
 Engine = "Internal"
