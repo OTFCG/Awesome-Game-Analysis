@@ -244,6 +244,7 @@ In order to maintain the structure of this repository, please don't directly mak
 |Super Mario Bros. 3|Nintendo|Source|1988|<details><summary>Expand</summary>• [Super Mario Bros. 3 - The Cutting Room Floor](https://tcrf.net/Super_Mario_Bros._3)<br></details>|
 |Kid Icarus|Nintendo R&D1|Internal|1986|<details><summary>Expand</summary>• [Kid Icarus Tricks](http://simonschreibt.de/gat/kid-icarus-tricks/)<br></details>|
 |FIFA|EA Vancouver|Frostbite|N/A|<details><summary>Expand</summary>• [How FIFA Delivers Live Content to Users Fast](https://www.youtube.com/watch?v=YmNgREFUXh0)<br></details>|
+|Path of Exile 2|Grinding Gear Games|Internal|N/A|<details><summary>Expand</summary>• [The rendering techniques of Path of Exile (Alexander Sannikov)](https://www.youtube.com/watch?v=B-ODrtmtpzM)<br></details>|
 
 ---
 
