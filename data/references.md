@@ -27,3 +27,4 @@
 * [80lv](https://80.lv/)
 * [Evan Hill's Blog](https://www.ehilldesign.com/)
 * [SQUARE ENIX Library](http://www.jp.square-enix.com/tech/publications.html)
+* [ExileCon 2019](https://www.youtube.com/playlist?list=PLt5SL2R19SuLYtQ4zvGExBhQTozFRn5z3)
