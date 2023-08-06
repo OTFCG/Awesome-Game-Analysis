@@ -284,6 +284,9 @@ In order to maintain the structure of this repository, please don't directly mak
 * [Open Source Game Clones](https://osgameclones.com/)
 * [Open source games list (OSGL)](https://trilarion.github.io/opensourcegames/index.html)
 * [Vegard Wiki](https://vegard.wiki/w/Frame_analysis)
+* [EA/Dice Slideshare](https://www.slideshare.net/DICEStudio/presentations)
+* [AMD Developer Central Slideshare](https://www.slideshare.net/DevCentralAMD/presentations)
+* [AMD Gpu Open](https://gpuopen.com/)
 
 ---
 
