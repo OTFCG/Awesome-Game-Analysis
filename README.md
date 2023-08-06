@@ -280,6 +280,7 @@ In order to maintain the structure of this repository, please don't directly mak
 * [ExileCon 2019](https://www.youtube.com/playlist?list=PLt5SL2R19SuLYtQ4zvGExBhQTozFRn5z3)
 * [Open Source Game Clones](https://osgameclones.com/)
 * [Open source games list (OSGL)](https://trilarion.github.io/opensourcegames/index.html)
+* [Vegard Wiki](https://vegard.wiki/w/Frame_analysis)
 
 ---
 
