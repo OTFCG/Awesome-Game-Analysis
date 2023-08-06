@@ -289,6 +289,8 @@ In order to maintain the structure of this repository, please don't directly mak
 * [AMD Developer Central Slideshare](https://www.slideshare.net/DevCentralAMD/presentations)
 * [AMD Gpu Open](https://gpuopen.com/)
 * [Poly Count](https://polycount.com/)
+* [Bart Wronski's Blog](https://bartwronski.com/)
+* [Game Opedia](https://www.gameopedia.com/)
 
 ---
 
