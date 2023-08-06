@@ -203,6 +203,8 @@ Analysis = [
   ["Nathan Gordon's Blog", "https://medium.com/@gordonnl/wind-waker-graphics-analysis-a0b575a31127"],
   ["Soenke Seidel's Blog", "https://polycount.com/discussion/104415/zelda-wind-waker-tech-and-texture-analysis-picture-heavy"],
   ["Game Art Tricks", "http://simonschreibt.de/gat/zelda-wind-waker-hyrule-travel-guide/"],
+  ["Zelda Windwaker Textures Yay or Nay ?!", "https://polycount.com/discussion/102634/zelda-windwaker-textures-yay-or-nay"],
+  ["Zelda: Wind waker Tech and Texture Analysis *picture heavy*", "https://polycount.com/discussion/104415/zelda-wind-waker-tech-and-texture-analysis-picture-heavy"],
 ]
 
 ["Doom 3"]
@@ -969,10 +971,16 @@ Developer = "The Coalition"
 Engine = "UE4"
 Year = "2016"
 Analysis = [
-  ["Gears of War 4", "https://www.gdcvault.com/play/1024008/-Gears-of-War-4"],
+  ["GDC Vault Gears of War 4", "https://www.gdcvault.com/play/1024008/-Gears-of-War-4"],
 ]
 
-
+["Gears of War 5"]
+Developer = "The Coalition"
+Engine = "UE5"
+Year = "2019"
+Analysis = [
+  ["The making of Gears 5: how the Coalition hit 60fps - and improved visual quality", "https://www.eurogamer.net/digitalfoundry-2019-gears-5-tech-interview"],
+]
 
 ["Adventure Capitalist"]
 Developer = "Hyper Hippo"
@@ -1016,8 +1024,6 @@ Analysis = [
   ["Fast Iteration for Far Cry 4 - Optimizing Key Parts of the Dunia Pipeline", "https://www.youtube.com/watch?v=AhmlFG1u1wE"],
 ]
 
-
-
 ["Hitman: Absolution"]
 Developer = "IO Interactive"
 Engine = "Glacier 2"
@@ -1025,8 +1031,6 @@ Year = "2012"
 Analysis = [
   ["Creating the AI for the Characters of Hitman: Absolution", "https://www.gdcvault.com/play/1019353/Creating-the-AI-for-the"],
 ]
-
-
 
 ["CityVille"]
 Developer = "Zynga"
@@ -1056,9 +1060,8 @@ Analysis = [
   ["Building the Chat Service for League of Legends", "https://www.gdcvault.com/play/1015092/Building-the-Chat-Service-for"],
   ["League of Legends: Scaling to Millions of Summoners", "https://www.youtube.com/watch?v=yRMM2cEQ89c"],
   ["A Trip Down The LoL Graphics Pipeline", "https://technology.riotgames.com/news/trip-down-lol-graphics-pipeline"],
+  ["Performance analysis in esports part 1", "https://files.osf.io/v1/resources/sm3nj/providers/osfstorage/5d9d8304a7bc73000ce81d40?action=download&direct&version=2"], 
 ]
-
-
 
 ["Crysis"]
 Developer = "Crytek"
@@ -1202,7 +1205,8 @@ Analysis = [
 ["Procedural Grass in 'Ghost of Tsushima'", "https://www.youtube.com/watch?v=Ibe1JBF5i5Y"],
 ["Master of the Katana: Melee Combat in 'Ghost of Tsushima'", "https://www.youtube.com/watch?v=1ih5BxnJu2I"],
 ["Honoring the Blade: Lethality and Combat Balance in 'Ghost of Tsushima'", "https://www.youtube.com/watch?v=dKS2kaI3aXE"],
-["Zen of Streaming: Building and Loading 'Ghost of Tsushima'", "https://www.youtube.com/watch?v=Ur53sJdS8rQ"]
+["Zen of Streaming: Building and Loading 'Ghost of Tsushima'", "https://www.youtube.com/watch?v=Ur53sJdS8rQ"],
+["Samurai Shading in Ghost of Tsushima", "https://blog.selfshadow.com/publications/s2020-shading-course/patry/slides/"],
 ]
 
 
