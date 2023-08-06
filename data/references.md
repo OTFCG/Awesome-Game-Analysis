@@ -34,3 +34,4 @@
 * [EA/Dice Slideshare](https://www.slideshare.net/DICEStudio/presentations)
 * [AMD Developer Central Slideshare](https://www.slideshare.net/DevCentralAMD/presentations)
 * [AMD Gpu Open](https://gpuopen.com/)
+* [Poly Count](https://polycount.com/)
