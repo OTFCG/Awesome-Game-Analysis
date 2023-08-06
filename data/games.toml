@@ -346,6 +346,7 @@ Engine = "Internal"
 Year = "2019"
 Analysis = [
   ["Dissecting A Plague Tale: Innocence", "http://morad.in/2019/06/16/dissecting-a-plague-tale-innocence/"],
+  ["Gamingbolt Graphics Analysis", "https://gamingbolt.com/a-plague-tale-innocence-graphics-analysis-one-of-the-best-looking-games-of-this-gen"]
 ]
 
 
@@ -713,7 +714,13 @@ Analysis = [
   ["The Cutting Room Floor", "https://tcrf.net/BioShock"],
 ]
 
-
+["Bioshock Infinite"]
+Developer = "Irrational Games"
+Engine = "UE3"
+Year = "2013"
+Analysis = [
+  ["BioShock Infinite Lighting", "https://solid-angle.blogspot.com/2014/03/bioshock-infinite-lighting.html"],
+]
 
 ["007 Legends : Moonraker"]
 Developer = "Eurocom"
@@ -757,12 +764,13 @@ Analysis = [
 
 
 
-["Mirror Edge"]
+["Mirror's Edge"]
 Developer = "DICE"
 Engine = "UE3"
 Year = "2008"
 Analysis = [
   ["Henrikgdc09 Compat", "https://fr.slideshare.net/DICEStudio/henrikgdc09-compat"],
+  ["The Unique Lighting of Mirror's Edge", "https://www.slideshare.net/DICEStudio/henrikgdc09-compat"]
 ]
 
 
@@ -855,12 +863,20 @@ Analysis = [
 
 ["Battlefield 3"]
 Developer = "DICE"
-Engine = "Refraction Engine"
+Engine = "Frostbite"
 Year = "2011"
 Analysis = [
   ["Culling the Battlefield: Data Oriented Design in Practice", "https://www.gamedevs.org/uploads/culling-the-battlefield-battlefield3.pdf"],
+  ["DirectX 11 Rendering in Battlefield 3", "https://www.slideshare.net/DICEStudio/directx-11-rendering-in-battlefield-3"]
 ]
 
+["Battlefield 4"]
+Developer = "DICE"
+Engine = "Frostbite"
+Year = "2013"
+Analysis = [
+  ["Rendering Battlefield 4 with Mantle by Yuriy ODonnell", "https://www.slideshare.net/DevCentralAMD/rendering-battlefield-4-with-mantle-yuriy-o-donnell"],
+]
 
 ["Battlefield Bad Company 2"]
 Developer = "DICE"
@@ -870,7 +886,13 @@ Analysis = [
   ["Battlefield Bad Company 2 Smoke Column", "http://simonschreibt.de/gat/battlefield-bad-company-2-smoke-column/"],
 ]
 
-
+["Battlefield Bad Company"]
+Developer = "DICE"
+Engine = "Frostbite 1.0"
+Year = "2008"
+Analysis = [
+  ["Audio for Multiplayer & Beyond - Mixing Case Studies From Battlefield: Bad Company & Frostbite", "https://www.slideshare.net/DICEStudio/audio-for-multiplayer-beyond-mixing-case-studies-from-battlefield-bad-company-frostbite"],
+]
 
 ["Left 4 Dead 2"]
 Developer = "Valve Corporation"
