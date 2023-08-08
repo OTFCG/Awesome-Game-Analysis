@@ -2220,3 +2220,12 @@ Year = "N/A"
 Analysis = [
   ["The rendering techniques of Path of Exile (Alexander Sannikov)", "https://www.youtube.com/watch?v=B-ODrtmtpzM"],
 ]
+
+["Xenoblade Chronicles 3"]
+Developer = "Monolith Soft"
+Engine = "Internal"
+Year = "2022"
+Analysis = [
+["DF Tech Review", "https://www.eurogamer.net/digitalfoundry-2022-xenoblade-chronicles-3-nintendo-switch-tech-review"],
+["「生と死」を物語る陰影表現とは――『Xenoblade3（ゼノブレイド3）』のキャラクターを魅せる2灯トゥーンシェーディング、世界を描くアップサンプリング【CEDEC+KYUSHU 2022】", "https://gamemakers.jp/article/2023_03_22_33475/"]
+]
