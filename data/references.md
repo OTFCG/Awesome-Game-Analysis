@@ -37,3 +37,4 @@
 * [Poly Count](https://polycount.com/)
 * [Bart Wronski's Blog](https://bartwronski.com/)
 * [Game Opedia](https://www.gameopedia.com/)
+* [CEDEC](https://cedil.cesa.or.jp/)
