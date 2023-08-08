@@ -162,7 +162,21 @@ Analysis = [
   ["Game Art Tricks", "https://simonschreibt.de/gat/pokemon-rapidash/"],
 ]
 
+["Pokémon Scarlet/Violet"]
+Developer = "Game Freak"
+Engine = "Internal"
+Year = "2022"
+Analysis = [
+  ["【アルセウス＋スカーレット・バイオレット】ポケモン2つを同時に作る、ポケモンモデル制作環境", "https://cedil.cesa.or.jp/cedil_sessions/view/2586"],
+]
 
+["Pokémon Arceus"]
+Developer = "Game Freak"
+Engine = "Internal"
+Year = "2022"
+Analysis = [
+  ["【アルセウス＋スカーレット・バイオレット】ポケモン2つを同時に作る、ポケモンモデル制作環境", "https://cedil.cesa.or.jp/cedil_sessions/view/2586"],
+]
 
 ["Metal Gear Solid V"]
 Developer = "Kojima Productions"
