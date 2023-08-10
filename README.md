@@ -298,6 +298,10 @@ In order to maintain the structure of this repository, please don't directly mak
 * [Game Opedia](https://www.gameopedia.com/)
 * [CEDEC](https://cedil.cesa.or.jp/)
 * [B3D Forum](https://forum.beyond3d.com/)
+* [Naughty Dog's Presentations from GDC08](https://web.archive.org/web/20160312011838/http://www.naughtydog.com/site/post/presentations_from_game_developers_conference_2008)
+* [Valve's Publications](https://web.archive.org/web/20170606025840/http://www.valvesoftware.com/company/publications.html)
+* [Game Watch](https://game.watch.impress.co.jp/docs/series/3dcg/)
+
 
 ---
 
