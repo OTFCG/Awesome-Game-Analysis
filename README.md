@@ -295,7 +295,7 @@ In order to maintain the structure of this repository, please don't directly mak
 * [Bart Wronski's Blog](https://bartwronski.com/)
 * [Game Opedia](https://www.gameopedia.com/)
 * [CEDEC](https://cedil.cesa.or.jp/)
-* [B3D Forum](https://forum.beyond3d.com/forums/gaming-technology.28/)
+* [B3D Forum](https://forum.beyond3d.com/)
 
 ---
 
