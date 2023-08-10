@@ -277,7 +277,13 @@ Analysis = [
   ["One Frame in 'Halo Infinite'", "https://www.gdcvault.com/play/1027657/One-Frame-in-Halo-Infinite"],
 ]
 
-
+["Halo 3"]
+Developer = "Bungie"
+Engine = "Internal"
+Year = "2007"
+Analysis = [
+  ["Lighting Research at Bungie", "https://web.archive.org/web/20120517153910/http://www.bungie.net/images/Inside/publications/siggraph/Bungie/SIGGRAPH09_LightingResearch.pptx"],
+]
 
 ["Rise of the Tomb Raider"]
 Developer = "Crystal Dynamics"
@@ -581,6 +587,8 @@ Analysis = [
   ["FxGuide's Article", "https://www.fxguide.com/featured/5-things-you-need-to-know-about-the-tech-of-assassins-creed-iv-black-flag/"],
   ["Gamer Nexus's Graphics Analysis", "http://www.gamersnexus.net/gg/1205-assassins-creed-4-black-flag-graphics-analysis"],
   ["Tech Demo", "https://www.youtube.com/watch?app=desktop&v=SMTj3J4H6Gk&t=1m37s"],
+  ["GDC 2014: Road to next-gen graphics", "https://bartwronski.files.wordpress.com/2014/03/ac4_gdc.pdf"],
+  ["NVIDIA's Graphics & Performance Guide", "https://www.nvidia.com/en-us/geforce/news/assassins-creed-iv-black-flag-graphics-and-performance-guide/"],
 ]
 
 
@@ -2228,4 +2236,14 @@ Year = "2022"
 Analysis = [
 ["DF Tech Review", "https://www.eurogamer.net/digitalfoundry-2022-xenoblade-chronicles-3-nintendo-switch-tech-review"],
 ["「生と死」を物語る陰影表現とは――『Xenoblade3（ゼノブレイド3）』のキャラクターを魅せる2灯トゥーンシェーディング、世界を描くアップサンプリング【CEDEC+KYUSHU 2022】", "https://gamemakers.jp/article/2023_03_22_33475/"]
+]
+
+["Lost Planet"]
+Developer = "Spark Unlimited, Capcom, HexaDrive"
+Engine = "MT Framework"
+Year = "2006"
+Analysis = [
+["CEDEC 2007: Capcom on Lost Planet Part I", "https://www.beyond3d.com/content/news/496"],
+["CEDEC 2007: Capcom on Lost Planet Part II", "https://www.beyond3d.com/content/news/499"],
+["カプコン次世代ゲームエンジンの真実！　早くも「ロストプラネット2」のハイテクビジュアルの秘密を公開!!", "https://game.watch.impress.co.jp/docs/series/3dcg/283112.html"],
 ]
