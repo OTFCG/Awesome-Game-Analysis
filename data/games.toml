@@ -920,12 +920,23 @@ Analysis = [
   ["Audio for Multiplayer & Beyond - Mixing Case Studies From Battlefield: Bad Company & Frostbite", "https://www.slideshare.net/DICEStudio/audio-for-multiplayer-beyond-mixing-case-studies-from-battlefield-bad-company-frostbite"],
 ]
 
+["Left 4 Dead"]
+Developer = "Valve"
+Engine = "Source"
+Year = "2008"
+Analysis = [
+  ["The AI Systems of Left 4 Dead", "https://web.archive.org/web/20170606025840/http://www.valvesoftware.com/publications/2009/ai_systems_of_l4d_mike_booth.pdf"],
+  ["Replayable Cooperative Game Design: Left 4 Dead", "https://web.archive.org/web/20170606025840/http://www.valvesoftware.com/publications/2009/GDC2009_ReplayableCooperativeGameDesign_Left4Dead.pdf"],
+]
+
 ["Left 4 Dead 2"]
-Developer = "Valve Corporation"
+Developer = "Valve"
 Engine = "Source"
 Year = "2009"
 Analysis = [
   ["Left 4 Dead 2 Puke", "http://simonschreibt.de/gat/left-4-dead-2-puke/"],
+  ["Rendering Wounds in Left 4 Dead 2", "https://web.archive.org/web/20170606025840/http://www.valvesoftware.com/publications/2010/gdc2010_vlachos_l4d2wounds.pdf"],
+  ["Shading a Bigger, Better Sequel: Techniques in Left 4 Dead 2", "https://web.archive.org/web/20170606025840/http://www.valvesoftware.com/publications/2010/GDC10_ShaderTechniquesL4D2.pdf"],
 ]
 
 ["God of War Ragnarok"]
@@ -1556,6 +1567,7 @@ Engine = "Source"
 Year = "2012"
 Analysis = [
 ["Robocalypse Now: Using Deep Learning to Combat Cheating in Counter-Strike: Global Offensive", "https://www.youtube.com/watch?v=kTiP0zKF9bc"],
+["Building the Content that Drives the Counter-Strike: Global Offensive Economy", "https://web.archive.org/web/20170606025840/http://media.steampowered.com/apps/valve/2014/gdc_2014_grimes_csgo_econ_content.pdf"],
 ]
 
 ["Tom Clancy's The Division 2"]
@@ -2043,7 +2055,18 @@ Developer = "Valve"
 Engine = "GoldSrc"
 Year = "1998"
 Analysis = [
+["The Cabal: Valve’s Design Process For Creating Half-Life", "https://web.archive.org/web/20170606025840/http://www.gamasutra.com/features/19991210/birdwell_01.htm"],
 ["A Full RT/Path-Traced Upgrade For The OG PC Classic Tested!", "https://www.youtube.com/watch?v=BrRmQhaxtF4"],
+]
+
+["Half-Life 2"]
+Developer = "Valve"
+Engine = "Source"
+Year = "2004"
+Analysis = [
+["Valve's Design Process for Creating Half-Life 2.", "https://web.archive.org/web/20170606025840/http://www.valvesoftware.com/publications/2006/GDC2006_HL2DesignProcess.pdf"],
+["Physical Gameplay in Half-Life 2", "https://web.archive.org/web/20170606025840/http://www.valvesoftware.com/publications/2006/GDC2006_PhysicalGameplayInHL2.pdf"],
+["Half-Life 2 / Valve Source Shading", "https://web.archive.org/web/20170606025840/http://www.valvesoftware.com/publications/2004/GDC2004_Half-Life2_Shading.pdf"],
 ]
 
 ["Horizon: Call of the Mountain"]
@@ -2247,3 +2270,32 @@ Analysis = [
 ["CEDEC 2007: Capcom on Lost Planet Part II", "https://www.beyond3d.com/content/news/499"],
 ["カプコン次世代ゲームエンジンの真実！　早くも「ロストプラネット2」のハイテクビジュアルの秘密を公開!!", "https://game.watch.impress.co.jp/docs/series/3dcg/283112.html"],
 ]
+
+["Team Fortress 2"]
+Developer = "Valve"
+Engine = "Source"
+Year = "2007"
+Analysis = [
+["Lessons learned porting Team Fortress 2 to Virtual Reality.", "https://web.archive.org/web/20170606025840/http://media.steampowered.com/apps/valve/2013/Team_Fortress_in_VR_GDC.pdf"],
+["TF2 - From The Orange Box to Free to Play in 'Just' Four Years!", "https://web.archive.org/web/20170606025840/http://www.valvesoftware.com/publications/2012/TF2_Orange_Box_To_Free_To_Play_GDC2012.pdf"],
+["Stylization With a Purpose: The Illustrative World of Team Fortress 2", "https://web.archive.org/web/20170606025840/http://www.valvesoftware.com/publications/2008/GDC2008_StylizationWithAPurpose_TF2.pdf"],
+["Illustrative Rendering in Team Fortress 2", "https://web.archive.org/web/20170606025840/http://www.valvesoftware.com/publications/2007/NPAR07_IllustrativeRenderingInTeamFortress2.pdf"],
+]
+
+["Portal"]
+Developer = "Valve"
+Engine = "Source"
+Year = "2007"
+Analysis = [
+["Integrating Narrative and Design: A Portal Post-Mortem", "https://web.archive.org/web/20170606025840/http://www.valvesoftware.com/publications/2008/GDC2008_PortalPostMortem.pdf"],
+]
+
+["Portal 2"]
+Developer = "Valve"
+Engine = "Source"
+Year = "2011"
+Analysis = [
+["Making and Using Non-Standard Textures: Manipulating UVs through Color Data in Portal 2.", "https://web.archive.org/web/20170606025840/http://www.valvesoftware.com/publications/2011/gdc_2011_grimes_nonstandard_textures.pdf"],
+["Water Flow in Portal 2.", "https://web.archive.org/web/20170606025840/http://www.valvesoftware.com/publications/2010/siggraph2010_vlachos_waterflow.pdf"],
+]
+
