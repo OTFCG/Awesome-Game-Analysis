@@ -2299,3 +2299,10 @@ Analysis = [
 ["Water Flow in Portal 2.", "https://web.archive.org/web/20170606025840/http://www.valvesoftware.com/publications/2010/siggraph2010_vlachos_waterflow.pdf"],
 ]
 
+["Baldur's Gate 3"]
+Developer = "Larian Studios, Elverils"
+Engine = "Divinity 4.0"
+Year = "2023"
+Analysis = [
+["DF Tech Review - Graphics Analysis + Optimised Settings", "https://www.eurogamer.net/digitalfoundry-2023-baldurs-gate-3-pc-tech-review-polish-that-puts-other-aaa-games-to-shame"],
+]
