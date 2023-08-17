@@ -2306,3 +2306,14 @@ Year = "2023"
 Analysis = [
 ["DF Tech Review - Graphics Analysis + Optimised Settings", "https://www.eurogamer.net/digitalfoundry-2023-baldurs-gate-3-pc-tech-review-polish-that-puts-other-aaa-games-to-shame"],
 ]
+
+["The Order: 1886"]
+Developer = "Ready at Dawn"
+Engine = "Ready at Dawn Engine 4.0"
+Year = "2015"
+Analysis = [
+["Rendering The Alternate History of The Order: 1886 (SIGGRAPH 2015)", "https://www.youtube.com/watch?v=nj4puag4hwc"],
+["The Order: 1886 Retrospective + PS5 60fps Gameplay - Made in 2015, Still Stunning Today", "https://www.youtube.com/watch?v=QJm0wreAOK0"],
+["RAD_SIGGRAPH_2015_Character_embed.pptx","https://readyatdawn.com/share_file/Public_Presentations/SIGGRAPH_2015/RAD_SIGGRAPH_2015_Character_embed.pptx"],
+
+]
