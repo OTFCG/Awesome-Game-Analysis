@@ -963,11 +963,12 @@ Analysis = [
 
 ["Final Fantasy 7 Remake"]
 Developer = "Square Enix"
-Engine = "Internal"
+Engine = "UE4"
 Year = "2020"
 Analysis = [
   ["機械学習によるリップシンクアニメーション自動生成技術と FINAL FANTASY VII REMAKEのアセットを訓練データとした実装実例", "http://www.jp.square-enix.com/tech/library/pdf/CEDEC2022_LipSyncML_all.pdf"],
-  ["'Final Fantasy VII' Remake: Automating Quality Assurance and the Tools for the Future", "https://www.youtube.com/watch?v=L2bJ4E_4zN8"]
+  ["'Final Fantasy VII' Remake: Automating Quality Assurance and the Tools for the Future", "https://www.youtube.com/watch?v=L2bJ4E_4zN8"],
+  ["How Square Enix leveraged Unreal Engine to modernize FINAL FANTASY VII REMAKE", "https://www.unrealengine.com/en-US/developer-interviews/how-square-enix-leveraged-unreal-engine-to-modernize-final-fantasy-vii-remake"]
 ]
 
 ["Call of Duty: Modern Warfare"]
