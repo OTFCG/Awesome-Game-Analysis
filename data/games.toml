@@ -2325,3 +2325,11 @@ Year = "2022"
 Analysis = [
 ["Rendering Technologies behind Gran Turismo 7: VR, Ray Tracing and Sky Simulation", "https://s3.amazonaws.com/gran-turismo.com/pdi_publications/SIGGRAPH2023_RenderingTechBehindGT7.pdf"],
 ]
+
+["Immortals of Aveum"]
+Developer = "Ascendant Studios"
+Engine = "UE5"
+Year = "2023"
+Analysis = [
+["IMMORTALS OF AVEUM™: UE5.1, PC OPTIMIZATION, & MORE", "https://www.ea.com/games/immortals-of-aveum/immortals-of-aveum/news/technology?isLocalized=true"],
+]
