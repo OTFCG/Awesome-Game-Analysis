@@ -647,6 +647,7 @@ Engine = "Internal"
 Year = "2021"
 Analysis = [
   ["DF Tech Analysis", "https://www.youtube.com/watch?v=bSdg5sgt6hY"],
+  ["An Overview of the 'Diablo II: Resurrected' Renderer", "https://gdcvault.com/play/1027558/An-Overview-of-the-Diablo"]
 ]
 
 ["Don't Starve"]
