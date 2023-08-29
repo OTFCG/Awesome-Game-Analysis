@@ -583,6 +583,7 @@ Engine = "AnvilNext"
 Year = "2013"
 Analysis = [
   ["Black Flag Waterplane", "https://simonschreibt.de/gat/black-flag-waterplane/"],
+  ["SSAO with temporal supersampling", "https://bartwronski.com/2014/04/27/temporal-supersampling-pt-2-ssao-demonstration/"],
   ["GameDev's Tech Talk", "http://www.gamedev.net/topic/652966-assassins-creed-iv-black-flag-ocean-technology-talk/"],
   ["FxGuide's Article", "https://www.fxguide.com/featured/5-things-you-need-to-know-about-the-tech-of-assassins-creed-iv-black-flag/"],
   ["Gamer Nexus's Graphics Analysis", "http://www.gamersnexus.net/gg/1205-assassins-creed-4-black-flag-graphics-analysis"],
