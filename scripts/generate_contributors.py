@@ -1,14 +1,22 @@
 import requests
 import json
 import sys
+import os
 
 # Replace with your repository's details
 username = 'OTFCG'
 repo = 'Awesome-Game-Analysis'
 
+# Replace with your GitHub token
+token = os.getenv('GITHUB_TOKEN')
+
+headers = {
+    'Authorization': f'token {token}',
+}
+
 try:
     # Call GitHub API for contributors
-    response = requests.get(f'https://api.github.com/repos/{username}/{repo}/contributors')
+    response = requests.get(f'https://api.github.com/repos/{username}/{repo}/contributors', headers=headers)
 
     # If the request was successful
     if response.status_code != 200:
