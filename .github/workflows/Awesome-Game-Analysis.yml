@@ -42,7 +42,6 @@ jobs:
         id: execute-scripts
         run: |
           python scripts/toml_markdown.py -i data/games.toml -t toml --readme
-          python scripts/generate_contributors.py
 
   push_job:
     runs-on: ubuntu-latest
