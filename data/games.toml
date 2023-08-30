@@ -1360,7 +1360,8 @@ Developer = "Bend Studio"
 Engine = "UE4"
 Year = "2019"
 Analysis = [
-["Squad Coordination in 'Days Gone'", "https://www.youtube.com/watch?v=7TQ-WS3MPlE"],
+["Squad Coordination in Days Gone", "https://www.youtube.com/watch?v=7TQ-WS3MPlE"],
+["Screen Space Shadows​", "https://www.bendstudio.com/blog/inside-bend-screen-space-shadows/"],
 ]
 
 
