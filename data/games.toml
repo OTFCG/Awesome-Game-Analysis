@@ -2336,3 +2336,12 @@ Year = "2023"
 Analysis = [
 ["IMMORTALS OF AVEUM™: UE5.1, PC OPTIMIZATION, & MORE", "https://www.ea.com/games/immortals-of-aveum/immortals-of-aveum/news/technology?isLocalized=true"],
 ]
+
+["Dungeon Keeper 2"]
+Developer = "Bullfrog"
+Engine = "Internal"
+Year = "1999"
+Analysis = [
+  ["Wonky walls", "https://simonschreibt.de/gat/dungeon-keeper-2-walls/"],
+  ["Grid-based lighting", "https://www.reddit.com/r/gamedev/comments/hrz910/fake_lights_and_shadows_in_dungeon_keeper_2/"],
+]
