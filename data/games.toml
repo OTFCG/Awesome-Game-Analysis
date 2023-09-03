@@ -1,5 +1,13 @@
 title = "Analysis - Games"
 
+["Starfield"]
+Developer = "Bethesda"
+Engine = "Creation Engine 2"
+Year = "2023"
+Analysis = [
+  ["DF Tech Review", "https://www.eurogamer.net/digitalfoundry-2023-starfield-the-digital-foundry-tech-review"],
+  ["Gameing Bolt Graphics Analysis", "https://gamingbolt.com/starfield-graphics-analysis-xbox-series-x-vs-pc-comparison-and-more"],
+]
 
 
 ["Doom"]
