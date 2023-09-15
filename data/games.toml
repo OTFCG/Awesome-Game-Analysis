@@ -8,6 +8,7 @@ Analysis = [
   ["DF Tech Review", "https://www.eurogamer.net/digitalfoundry-2023-starfield-the-digital-foundry-tech-review"],
   ["Gameing Bolt Graphics Analysis", "https://gamingbolt.com/starfield-graphics-analysis-xbox-series-x-vs-pc-comparison-and-more"],
   ["A Reddit user's tech analysis", "https://www.reddit.com/r/Starfield/comments/15o9pvz/oc_an_enthusiasts_perspective_on_starfields_tech/"],
+  ["Analyzing Starfield’s Performance on Nvidia’s 4090 and AMD’s 7900 XTX", "https://chipsandcheese.com/2023/09/14/analyzing-starfields-performance-on-nvidias-4090-and-amds-7900-xtx/"],
 ]
 
 
@@ -1107,7 +1108,7 @@ Analysis = [
   ["Building the Chat Service for League of Legends", "https://www.gdcvault.com/play/1015092/Building-the-Chat-Service-for"],
   ["League of Legends: Scaling to Millions of Summoners", "https://www.youtube.com/watch?v=yRMM2cEQ89c"],
   ["A Trip Down The LoL Graphics Pipeline", "https://technology.riotgames.com/news/trip-down-lol-graphics-pipeline"],
-  ["Performance analysis in esports part 1", "https://files.osf.io/v1/resources/sm3nj/providers/osfstorage/5d9d8304a7bc73000ce81d40?action=download&direct&version=2"], 
+  ["Performance analysis in esports part 1", "https://files.osf.io/v1/resources/sm3nj/providers/osfstorage/5d9d8304a7bc73000ce81d40?action=download&direct&version=2"],
 ]
 
 ["Crysis"]
