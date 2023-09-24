@@ -1860,6 +1860,7 @@ Engine = "AnvilNext 2.0"
 Year = "2015"
 Analysis = [
 ["Rendering Rainbow Six Siege", "https://www.youtube.com/watch?v=RAy8UoO2blc"],
+["The Art of Destruction in Rainbow Six: Siege", "https://www.youtube.com/watch?v=SjkQxowsL0I"],
 ]
 
 ["Splinter Cell: Blacklist"]
@@ -1907,14 +1908,6 @@ Engine = "Havok"
 Year = "2014"
 Analysis = [
 ["Tech Art in Tamriel: The Elder Scrolls Online's Character Tools and Pipeline", "https://www.youtube.com/watch?v=5YBJaXHFoSA"],
-]
-
-["Rainbow Six: Siege"]
-Developer = "Ubisoft Montreal"
-Engine = "AnvilNext 2.0"
-Year = "2015"
-Analysis = [
-["The Art of Destruction in Rainbow Six: Siege", "https://www.youtube.com/watch?v=SjkQxowsL0I"],
 ]
 
 ["Dragon Age"]
