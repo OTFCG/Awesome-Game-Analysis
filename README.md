@@ -243,7 +243,7 @@ In order to maintain the structure of this repository, please don't directly mak
 |Lost Planet|Spark Unlimited, Capcom, HexaDrive|MT Framework|2006|<details><summary>Expand</summary>• [CEDEC 2007: Capcom on Lost Planet Part I](https://www.beyond3d.com/content/news/496)<br>• [CEDEC 2007: Capcom on Lost Planet Part II](https://www.beyond3d.com/content/news/499)<br>• [カプコン次世代ゲームエンジンの真実！　早くも「ロストプラネット2」のハイテクビジュアルの秘密を公開!!](https://game.watch.impress.co.jp/docs/series/3dcg/283112.html)<br></details>|
 |Shadow of the Colossus|Japan Studio, Team Ico|Internal|2005|<details><summary>Expand</summary>• [Froyok's Blog](https://www.froyok.fr/blog/2012-10-breakdown-shadow-of-the-colossus-pal-ps2/page.html)<br>• [DF Retro](https://www.youtube.com/watch?v=FAQjESB4WOk)<br></details>|
 |Battlefield 2|DICE|Frostbite 2|2005|<details><summary>Expand</summary>• [Battlefield 2 Flag Sound](http://simonschreibt.de/gat/battlefield-2-flag-sound/)<br></details>|
-|Doom 3|id Software|id Tech 4|2004|<details><summary>Expand</summary>• [Game Art Tricks](https://simonschreibt.de/gat/gat-doom-3-hdui/)<br>• [Game Art Tricks](http://simonschreibt.de/gat/doom-3-volumetric-glow/)<br>• [Source code review](https://fabiensanglard.net/doom3_bfg/)<br>• [Vulkan Port](https://github.com/DustinHLand/vkDOOM3)<br></details>|
+|Doom 3|id Software|id Tech 4|2004|<details><summary>Expand</summary>• [Game Art Tricks](https://simonschreibt.de/gat/gat-doom-3-hdui/)<br>• [Game Art Tricks](http://simonschreibt.de/gat/doom-3-volumetric-glow/)<br>• [Source code review](https://fabiensanglard.net/doom3_bfg/)<br>• [Vulkan Port](https://github.com/DustinHLand/vkDOOM3)<br>• [The DOOM III Network Architecture](https://fabiensanglard.net/doom3_documentation/The-DOOM-III-Network-Architecture.pdf)<br></details>|
 |World of Warcraft|Blizzard|Internal|2004|<details><summary>Expand</summary>• [World of Warcraft Balloon](http://simonschreibt.de/gat/world-of-warcraft-balloon/)<br></details>|
 |Far Cry|Crytek|Cry Engine|2004|<details><summary>Expand</summary>• [Far Cry and DX9](https://archive.org/download/crytek_presentations/GDC2005_FarCryAndDX9.ppt)<br></details>|
 |Half-Life 2|Valve|Source|2004|<details><summary>Expand</summary>• [Valve's Design Process for Creating Half-Life 2.](https://web.archive.org/web/20170606025840/http://www.valvesoftware.com/publications/2006/GDC2006_HL2DesignProcess.pdf)<br>• [Physical Gameplay in Half-Life 2](https://web.archive.org/web/20170606025840/http://www.valvesoftware.com/publications/2006/GDC2006_PhysicalGameplayInHL2.pdf)<br>• [Half-Life 2 / Valve Source Shading](https://web.archive.org/web/20170606025840/http://www.valvesoftware.com/publications/2004/GDC2004_Half-Life2_Shading.pdf)<br></details>|
@@ -258,6 +258,8 @@ In order to maintain the structure of this repository, please don't directly mak
 |1nsane|Invictus Games|Internal|2000|<details><summary>Expand</summary>• [1nsane Carpet 2 Repetitive Worlds](http://simonschreibt.de/gat/1nsane-carpet-2-repetitive-worlds/)<br></details>|
 |Deus Ex|Ion Storm|UE1|2000|<details><summary>Expand</summary>• [Deus Ex Scanlines](http://simonschreibt.de/gat/deus-ex-scanlines/)<br>• [Deus Ex Occlusion](http://simonschreibt.de/gat/deus-ex-occlusion/)<br></details>|
 |Dungeon Keeper 2|Bullfrog|Internal|1999|<details><summary>Expand</summary>• [Wonky walls](https://simonschreibt.de/gat/dungeon-keeper-2-walls/)<br>• [Grid-based lighting](https://www.reddit.com/r/gamedev/comments/hrz910/fake_lights_and_shadows_in_dungeon_keeper_2/)<br></details>|
+|Age of EmpiresI&II|Ensemble Studios|Genie|1999|<details><summary>Expand</summary>• [GDC 2001: 1500 Archers on a 28.8: Network Programming in Age of Empires and Beyond](https://zoo.cs.yale.edu/classes/cs538/readings/papers/terrano_1500arch.pdf)<br></details>|
+|MiMaze|Christophe DIOT and Laurent GAUTIER|Internal|1999|<details><summary>Expand</summary>• [Bucket Synchonization](https://www.cs.ubc.ca/~krasic/cpsc538a/papers/diot99distributed.pdf)<br></details>|
 |Half-Life|Valve|GoldSrc|1998|<details><summary>Expand</summary>• [The Cabal: Valve’s Design Process For Creating Half-Life](https://web.archive.org/web/20170606025840/http://www.gamasutra.com/features/19991210/birdwell_01.htm)<br>• [A Full RT/Path-Traced Upgrade For The OG PC Classic Tested!](https://www.youtube.com/watch?v=BrRmQhaxtF4)<br></details>|
 |GoldenEye 007|Rare|Internal|1997|<details><summary>Expand</summary>• [DF Retro EX](https://www.youtube.com/watch?v=ZxuFc0VkxEw)<br></details>|
 |Panzer Dragoon Series|Team Andromeda|Internal|1995|<details><summary>Expand</summary>• [Classic Game Postmortem](https://www.youtube.com/watch?v=gMOMsEmde-w)<br></details>|
@@ -312,7 +314,7 @@ In order to maintain the structure of this repository, please don't directly mak
 * [Valve's Publications](https://web.archive.org/web/20170606025840/http://www.valvesoftware.com/company/publications.html)
 * [Game Watch](https://game.watch.impress.co.jp/docs/series/3dcg/)
 * [MrElusive](https://www.mrelusive.com/publications/pubs_bytype.html)
-
+* [fabiensanglard](https://fabiensanglard.net/doom3_documentation/)
 
 ---
 
