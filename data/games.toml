@@ -242,6 +242,7 @@ Analysis = [
   ["Game Art Tricks", "http://simonschreibt.de/gat/doom-3-volumetric-glow/"],
   ["Source code review", "https://fabiensanglard.net/doom3_bfg/"],
   ["Vulkan Port", "https://github.com/DustinHLand/vkDOOM3"],
+  ["The DOOM III Network Architecture", "https://fabiensanglard.net/doom3_documentation/The-DOOM-III-Network-Architecture.pdf"],
 ]
 
 ["Control"]
@@ -2349,3 +2350,20 @@ Analysis = [
   ["Wonky walls", "https://simonschreibt.de/gat/dungeon-keeper-2-walls/"],
   ["Grid-based lighting", "https://www.reddit.com/r/gamedev/comments/hrz910/fake_lights_and_shadows_in_dungeon_keeper_2/"],
 ]
+
+["Age of EmpiresI&II"]
+Developer = "Ensemble Studios"
+Engine = "Genie"
+Year = "1999"
+Analysis = [
+  ["GDC 2001: 1500 Archers on a 28.8: Network Programming in Age of Empires and Beyond", "https://zoo.cs.yale.edu/classes/cs538/readings/papers/terrano_1500arch.pdf"],
+]
+
+["MiMaze"]
+Developer = "Christophe DIOT and Laurent GAUTIER"
+Engine = "Internal"
+Year = "1999"
+Analysis = [
+  ["Bucket Synchonization", "https://www.cs.ubc.ca/~krasic/cpsc538a/papers/diot99distributed.pdf"],
+]
+

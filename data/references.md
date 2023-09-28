@@ -43,4 +43,4 @@
 * [Valve's Publications](https://web.archive.org/web/20170606025840/http://www.valvesoftware.com/company/publications.html)
 * [Game Watch](https://game.watch.impress.co.jp/docs/series/3dcg/)
 * [MrElusive](https://www.mrelusive.com/publications/pubs_bytype.html)
-
+* [fabiensanglard](https://fabiensanglard.net/doom3_documentation/)
