@@ -2351,7 +2351,7 @@ Analysis = [
   ["Grid-based lighting", "https://www.reddit.com/r/gamedev/comments/hrz910/fake_lights_and_shadows_in_dungeon_keeper_2/"],
 ]
 
-[Age of EmpiresI&II]
+["Age of EmpiresI&II"]
 Developer = "Ensemble Studios"
 Engine = "Genie"
 Year = "1999"
@@ -2360,7 +2360,7 @@ Analysis = [
 of Empires and Beyond", "https://zoo.cs.yale.edu/classes/cs538/readings/papers/terrano_1500arch.pdf"],
 ]
 
-[MiMaze]
+["MiMaze"]
 Developer = "Christophe DIOT and Laurent GAUTIER"
 Engine = "Internal"
 Year = "1999"
