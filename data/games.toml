@@ -2356,8 +2356,7 @@ Developer = "Ensemble Studios"
 Engine = "Genie"
 Year = "1999"
 Analysis = [
-  ["GDC 2001: 1500 Archers on a 28.8: Network Programming in Age
-of Empires and Beyond", "https://zoo.cs.yale.edu/classes/cs538/readings/papers/terrano_1500arch.pdf"],
+  ["GDC 2001: 1500 Archers on a 28.8: Network Programming in Age of Empires and Beyond", "https://zoo.cs.yale.edu/classes/cs538/readings/papers/terrano_1500arch.pdf"],
 ]
 
 ["MiMaze"]
