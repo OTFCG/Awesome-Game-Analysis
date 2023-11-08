@@ -1,5 +1,15 @@
 title = "Analysis - Games"
 
+["Alan Wake 2"]
+Developer = "Remedy"
+Engine = "Northlight"
+Year = "2023"
+Analysis = [
+  ["How Northlight makes Alan Wake 2 shine", "https://www.remedygames.com/article/how-northlight-makes-alan-wake-2-shine"],
+  ["Developing Northlight: OpenUSD content workflows", "https://www.remedygames.com/article/developing-northlight-openusd-content-workflows"],
+  ["Northlight in 2023", "https://www.remedygames.com/article/northlight-in-2023"],
+]
+
 ["Starfield"]
 Developer = "Bethesda"
 Engine = "Creation Engine 2"
