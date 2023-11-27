@@ -2377,3 +2377,10 @@ Analysis = [
   ["Bucket Synchonization", "https://www.cs.ubc.ca/~krasic/cpsc538a/papers/diot99distributed.pdf"],
 ]
 
+["Yandere Simulator"]
+Developer = "Alex Mahan (YandereDev)"
+Engine = "Unity"
+Year = "2014"
+Analysis = [
+  ["Yandere Simulator Complete Source Code Analysis - Code Review", "https://www.youtube.com/watch?v=LleJbZ3FOPU"],
+]
