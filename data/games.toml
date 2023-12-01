@@ -2384,3 +2384,11 @@ Year = "2014"
 Analysis = [
   ["Yandere Simulator Complete Source Code Analysis - Code Review", "https://www.youtube.com/watch?v=LleJbZ3FOPU"],
 ]
+
+["The Callisto Protocol"]
+Developer = "Striking Distance Studios"
+Engine = "UE4"
+Year = "2022"
+Analysis = [
+  ["SIGGRAPH2023-Advances-The-Rendering-of-The-Callisto-Protocol-JimenezPetersen.pptx", "https://advances.realtimerendering.com/s2023/SIGGRAPH2023-Advances-The-Rendering-of-The-Callisto-Protocol-JimenezPetersen.pptx"],
+]
