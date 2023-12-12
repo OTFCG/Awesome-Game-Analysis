@@ -44,3 +44,6 @@
 * [Game Watch](https://game.watch.impress.co.jp/docs/series/3dcg/)
 * [MrElusive](https://www.mrelusive.com/publications/pubs_bytype.html)
 * [fabiensanglard](https://fabiensanglard.net/doom3_documentation/)
+* [Activision Tech Reports](https://research.activision.com/tech-reports)
+* [Activision Publications](https://research.activision.com/publications)
+
