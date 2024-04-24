@@ -16,9 +16,17 @@ Engine = "Creation Engine 2"
 Year = "2023"
 Analysis = [
   ["DF Tech Review", "https://www.eurogamer.net/digitalfoundry-2023-starfield-the-digital-foundry-tech-review"],
-  ["Gameing Bolt Graphics Analysis", "https://gamingbolt.com/starfield-graphics-analysis-xbox-series-x-vs-pc-comparison-and-more"],
+  ["Gaming Bolt Graphics Analysis", "https://gamingbolt.com/starfield-graphics-analysis-xbox-series-x-vs-pc-comparison-and-more"],
   ["A Reddit user's tech analysis", "https://www.reddit.com/r/Starfield/comments/15o9pvz/oc_an_enthusiasts_perspective_on_starfields_tech/"],
   ["Analyzing Starfield’s Performance on Nvidia’s 4090 and AMD’s 7900 XTX", "https://chipsandcheese.com/2023/09/14/analyzing-starfields-performance-on-nvidias-4090-and-amds-7900-xtx/"],
+]
+
+["Hifi Rush"]
+Developer = "Tango Gameworks"
+Engine = "UE4"
+Year = "2023"
+Analysis = [
+  ["3D Toon Rendering in 'Hi-Fi RUSH'", "https://gdcvault.com/play/1034330/3D-Toon-Rendering-in-Hi"],
 ]
 
 
