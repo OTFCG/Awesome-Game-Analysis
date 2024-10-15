@@ -124,6 +124,14 @@ Analysis = [
   ["SIG 2019: Creating the Atmospheric World", "https://www.youtube.com/watch?v=9-HTvoBi0Iw&t=7100s"],
 ]
 
+["Ys X: Nordics"]
+Developer = "Nihon Falcom"
+Engine = "Internal"
+Year = "2023"
+Analysis = [
+  ["PC Optimization Journey", "https://store.steampowered.com/news/app/2731870/view/4666382742870026335"],
+]
+
 ["The Witcher 3"]
 Developer = "CD Projekt Red"
 Engine = "RED Engine 3"
