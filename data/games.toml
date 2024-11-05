@@ -1,5 +1,14 @@
 title = "Analysis - Games"
 
+["Monster Hunter Wilds"]
+Developer = "Capcom"
+Engine = "RE Engine"
+Year = "2025"
+Analysis = [
+  ["Is Rendering Still Evolving?", "https://www.docswell.com/s/CAPCOM_RandD/524Y6M-RE2023"],
+  ["New Rendering Features Rundown", "https://www.docswell.com/s/CAPCOM_RandD/KENVMJ-RE2023"],
+]
+
 ["Alan Wake 2"]
 Developer = "Remedy"
 Engine = "Northlight"
