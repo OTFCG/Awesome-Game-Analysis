@@ -46,4 +46,5 @@
 * [fabiensanglard](https://fabiensanglard.net/doom3_documentation/)
 * [Activision Tech Reports](https://research.activision.com/tech-reports)
 * [Activision Publications](https://research.activision.com/publications)
+* [Capcom R&D (docswell)](https://www.docswell.com/user/CAPCOM_RandD)
 
