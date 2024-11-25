@@ -1,5 +1,13 @@
 title = "Analysis - Games"
 
+["STALKER 2"]
+Developer = "GSC Game World"
+Engine = "UE5"
+Year = "2024"
+Analysis = [
+  ["Technical Breakdown", "https://www.linkedin.com/posts/mikhail-dergauz_as-promised-heres-a-post-with-a-technical-activity-7265754056915099649-dQsK/"],
+]
+
 ["Monster Hunter Wilds"]
 Developer = "Capcom"
 Engine = "RE Engine"
