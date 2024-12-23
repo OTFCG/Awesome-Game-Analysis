@@ -46,6 +46,9 @@ Engine = "UE4"
 Year = "2023"
 Analysis = [
   ["3D Toon Rendering in 'Hi-Fi RUSH'", "https://gdcvault.com/play/1034330/3D-Toon-Rendering-in-Hi"],
+  ["DF Tech Review", "https://www.youtube.com/watch?v=8qppoWhanwk"],
+  ["CGWorldJP: Character, motion, and effects edition", "https://cgworld.jp/article/202306-hifirush01.html"],
+  ["CGWorldJP: Background/Lighting", "https://cgworld.jp/article/202306-hifirush02.html"],
 ]
 
 
@@ -2154,16 +2157,6 @@ Engine = "Luminous Engine"
 Year = "2022"
 Analysis = [
 ["DF Tech Review", "https://www.youtube.com/watch?v=j8_HcLb4ajY"],
-]
-
-["Hi-Fi Rush"]
-Developer = "Tango Gameworks"
-Engine = "UE4"
-Year = "2023"
-Analysis = [
-["DF Tech Review", "https://www.youtube.com/watch?v=8qppoWhanwk"],
-["CGWorldJP: Character, motion, and effects edition", "https://cgworld.jp/article/202306-hifirush01.html"],
-["CGWorldJP: Background/Lighting", "https://cgworld.jp/article/202306-hifirush02.html"],
 ]
 
 ["Shadow of the Colossus Remake"]
