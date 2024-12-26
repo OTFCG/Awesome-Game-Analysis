@@ -1,5 +1,16 @@
 title = "Analysis - Games"
 
+["Indiana Jones and the Great Circle"]
+Developer = "MachineGames"
+Engine = "id Tech 7"
+Year = "2024"
+Analysis = [
+  ["Inside Indiana Jones and the Great Circle: The Ray Tracing Breakdown", "https://www.youtube.com/watch?v=k2SBZSm2mOw"],
+  ["Eurogamer tech review", "https://www.eurogamer.net/digitalfoundry-2024-indiana-jones-and-the-great-circle-tech-review"],
+  ["Gaming Bolt graphcis analysis", "https://gamingbolt.com/indiana-jones-and-the-great-circle-graphics-analysis-a-masterclass-on-pc-and-xbox-series-x"]
+]
+
+
 ["STALKER 2"]
 Developer = "GSC Game World"
 Engine = "UE5"
