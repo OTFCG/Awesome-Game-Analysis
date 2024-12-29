@@ -10,6 +10,17 @@ Analysis = [
   ["Gaming Bolt graphcis analysis", "https://gamingbolt.com/indiana-jones-and-the-great-circle-graphics-analysis-a-masterclass-on-pc-and-xbox-series-x"]
 ]
 
+["Alan Wake 2"]
+Developer = "Remedy"
+Engine = "Northlight"
+Year = "2023"
+Analysis = [
+  ["How Northlight makes Alan Wake 2 shine", "https://www.remedygames.com/article/how-northlight-makes-alan-wake-2-shine"],
+  ["Developing Northlight: OpenUSD content workflows", "https://www.remedygames.com/article/developing-northlight-openusd-content-workflows"],
+  ["Northlight in 2023", "https://www.remedygames.com/article/northlight-in-2023"],
+  ["A Deep Dive into Path Tracing Technology", "https://www.nvidia.com/en-us/on-demand/session/gdc24-gdc1003"],
+  ["GPU driven Rendering with Mesh Shaders in Alan Wake 2", "https://www.youtube.com/watch?v=EtX7WnFhxtQ"]
+]
 
 ["STALKER 2"]
 Developer = "GSC Game World"
@@ -28,16 +39,12 @@ Analysis = [
   ["New Rendering Features Rundown", "https://www.docswell.com/s/CAPCOM_RandD/KENVMJ-RE2023"],
 ]
 
-["Alan Wake 2"]
-Developer = "Remedy"
-Engine = "Northlight"
-Year = "2023"
+["Metaphor: ReFantazio"]
+Developer = "Studio Zero"
+Engine = "Internal"
+Year = "2024"
 Analysis = [
-  ["How Northlight makes Alan Wake 2 shine", "https://www.remedygames.com/article/how-northlight-makes-alan-wake-2-shine"],
-  ["Developing Northlight: OpenUSD content workflows", "https://www.remedygames.com/article/developing-northlight-openusd-content-workflows"],
-  ["Northlight in 2023", "https://www.remedygames.com/article/northlight-in-2023"],
-  ["A Deep Dive into Path Tracing Technology", "https://www.nvidia.com/en-us/on-demand/session/gdc24-gdc1003"],
-  ["GPU driven Rendering with Mesh Shaders in Alan Wake 2", "https://www.youtube.com/watch?v=EtX7WnFhxtQ"]
+  ["Performance and frame analysis - Metaphor ReFantazio", "https://vkguide.dev/docs/extra-chapter/graphics_analysis_metafor/"],
 ]
 
 ["Starfield"]
