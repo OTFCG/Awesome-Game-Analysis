@@ -135,6 +135,7 @@ Analysis = [
   ["Anton Schreiner's Blog", "https://aschrein.github.io/2019/08/01/re2_breakdown.html"],
 ]
 
+
 ["God of War 4"]
 Developer = "Santa Monica Studio"
 Engine = "Internal"
@@ -169,6 +170,22 @@ Engine = "Internal"
 Year = "2023"
 Analysis = [
   ["PC Optimization Journey", "https://store.steampowered.com/news/app/2731870/view/4666382742870026335"],
+]
+
+["Detroit Become Human"]
+Developer = "Quantic Dream"
+Engine = "Internal"
+Year = "2018"
+Analysis = [
+  ["Behind the Pretty Frames", "https://mamoniem.com/behind-the-pretty-frames-detroit-become-human/"],
+]
+
+["Dying Light"]
+Developer = "Techland"
+Engine = "Chrome Engine 6"
+Year = "2015"
+Analysis = [
+  ["Deferred rendering in Dying Light", "https://www.slideshare.net/maciejjamrozik/deferred-rendering-in-dying-light"],
 ]
 
 ["The Witcher 3"]
