@@ -10,6 +10,14 @@ Analysis = [
   ["Gaming Bolt graphcis analysis", "https://gamingbolt.com/indiana-jones-and-the-great-circle-graphics-analysis-a-masterclass-on-pc-and-xbox-series-x"]
 ]
 
+["The Gunk"]
+Developer = "Image & Form Games"
+Engine = "UE4"
+Year = "2021"
+Analysis = [
+  ["Raymarching The Gunk", "https://jarllarsson.github.io/gen/gunkraymarcher.html"],
+]
+
 ["Alan Wake 2"]
 Developer = "Remedy"
 Engine = "Northlight"
