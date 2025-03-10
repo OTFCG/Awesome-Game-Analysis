@@ -2464,3 +2464,12 @@ Year = "2022"
 Analysis = [
   ["SIGGRAPH2023-Advances-The-Rendering-of-The-Callisto-Protocol-JimenezPetersen.pptx", "https://advances.realtimerendering.com/s2023/SIGGRAPH2023-Advances-The-Rendering-of-The-Callisto-Protocol-JimenezPetersen.pptx"],
 ]
+
+["GRANBLUE FANTASY: Relink"]
+Developer = "	Osaka Cygames"
+Engine = "PlatinumGames Engine"
+Year = "2024"
+Analysis = [
+  ["『GRANBLUE FANTASY: Relink』イラストを再現する為のキャラクターモデル制作事例", "https://www.youtube.com/watch?v=rrDDT2nKseg&list=PLSx6MdBnoFbBwxTSwPsa3AaIWJ-mO-hO9&index=11"],
+  ["『GRANBLUE FANTASY_ Relink』角色渲染环节技术分享", "https://www.bilibili.com/video/BV1oKC5Y7E55/"],
+]
