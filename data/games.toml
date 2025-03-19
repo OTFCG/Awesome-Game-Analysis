@@ -2473,3 +2473,22 @@ Analysis = [
   ["『GRANBLUE FANTASY: Relink』イラストを再現する為のキャラクターモデル制作事例", "https://www.youtube.com/watch?v=rrDDT2nKseg&list=PLSx6MdBnoFbBwxTSwPsa3AaIWJ-mO-hO9&index=11"],
   ["『GRANBLUE FANTASY_ Relink』角色渲染环节技术分享", "https://www.bilibili.com/video/BV1oKC5Y7E55/"],
 ]
+
+["黑暗之潮"]
+Developer = "掌趣"
+Engine = "Unity"
+Year = "2024"
+Analysis = [
+  ["[Unity 活动]-游戏专场｜Unity 2019 新特性在次时代手游 《黑暗之潮》中的应用经验及技术分享", "https://www.bilibili.com/video/BV1ca4y1W7wN/"],
+  ["Unity线上技术大会干货盘点（2020）-《黑暗之潮》中次时代技术的应用经验及技术", "https://zhuanlan.zhihu.com/p/355729231"],
+]
+
+["Genshin impact"]
+Developer = "Mihoyo"
+Engine = "Unity"
+Year = "2020"
+Analysis = [
+  ["[Unity 活动]-游戏专场｜从手机走向主机 -《原神》主机版渲染技术分享", "https://www.bilibili.com/video/BV1Za4y1s7VL/"],
+  ["《原神》主机版渲染技术要点和解决方案", "https://zhuanlan.zhihu.com/p/356435019"],
+]
+
