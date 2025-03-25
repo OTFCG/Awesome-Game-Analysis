@@ -1,5 +1,13 @@
 title = "Analysis - Games"
 
+["Assassin's Creed Shadows"]
+Developer = "Ubisoft"
+Engine = "Anvil Engine"
+Year = "2025"
+Analysis = [
+  ["Inside the technologically revamped Anvil Engine", "https://www.eurogamer.net/digitalfoundry-2025-assassins-creed-shadows-tech-qa-rtgi-shader-compilation-taa-and-more"],
+]
+
 ["Indiana Jones and the Great Circle"]
 Developer = "MachineGames"
 Engine = "id Tech 7"
