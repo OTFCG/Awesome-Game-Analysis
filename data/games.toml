@@ -6,6 +6,7 @@ Engine = "Anvil Engine"
 Year = "2025"
 Analysis = [
   ["Inside the technologically revamped Anvil Engine", "https://www.eurogamer.net/digitalfoundry-2025-assassins-creed-shadows-tech-qa-rtgi-shader-compilation-taa-and-more"],
+  ["How Ubisoft Brought Feudal Japan to Life: Rendering 'Assassin's Creed Shadows' with Nicolas Lopez", "https://www.youtube.com/watch?v=Z0TMRCTuKsc"],
 ]
 
 ["Indiana Jones and the Great Circle"]
@@ -31,6 +32,7 @@ Developer = "Remedy"
 Engine = "Northlight"
 Year = "2023"
 Analysis = [
+  ["Modernizing geometry rendering in Alan Wake 2", "https://enginearchitecture.org/downloads/REAC_2024_Remedy.pdf"],
   ["How Northlight makes Alan Wake 2 shine", "https://www.remedygames.com/article/how-northlight-makes-alan-wake-2-shine"],
   ["Developing Northlight: OpenUSD content workflows", "https://www.remedygames.com/article/developing-northlight-openusd-content-workflows"],
   ["Northlight in 2023", "https://www.remedygames.com/article/northlight-in-2023"],
@@ -121,6 +123,7 @@ Analysis = [
   ["Behind the Pretty Frames", "https://mamoniem.com/behind-the-pretty-frames-diablo-iv/"],
   ["Peeling Back The Varnish: The Graphics Of Diablo IV", "https://news.blizzard.com/en-us/diablo4/23964183/peeling-back-the-varnish-the-graphics-of-diablo-iv"],
   ["Developers talk ray tracing", "https://www.shacknews.com/article/115065/diablo-4-developers-talk-ray-tracing-an-all-new-game-engine"],
+  ["Ray Tracing in Diablo IV", "https://enginearchitecture.org/downloads/REAC_2024_Blizzard.pdf"],
 ]
 
 ["Death Stranding"]
@@ -316,6 +319,7 @@ Developer = "4A Games"
 Engine = "4A Engine"
 Year = "2019"
 Analysis = [
+  ["Resource Management Architecture in 4A Engine", "https://enginearchitecture.org/downloads/REAC_2024_4A.pdf"],
   ["Anton Schreiner's Blog", "https://aschrein.github.io/2019/08/11/metro_breakdown.html"],
   ["Balázs Török's Blog", "http://morad.in/2019/03/27/observations-about-the-rendering-of-metro-exodus/"],
 ]
@@ -1061,6 +1065,7 @@ Analysis = [
   ["Rendering 'God of War Ragnarök'", "https://sms.playstation.com/media/documents/GOWR_Stephen_Mcauley_RenderingGOWR_GDC23.pdf"],
   ["Real-Time Neural Texture Upsampling in 'God of War Ragnarök'", "https://sms.playstation.com/media/documents/GOWR_Neural_Image_Upsampling_Zhou_Xuanyi_GDC23.pdf"],
   ["A Deep Dive Into God of War Ragnarök's User Interface", "https://80.lv/articles/a-deep-dive-into-god-of-war-ragnar-k-s-user-interface/"],
+  ["Maya as Editor: The game development approach of Santa Monica Studio", "https://enginearchitecture.org/downloads/REAC_2024_SMS.pdf"],
 ]
 
 ["Knockout City"]
@@ -1600,8 +1605,11 @@ Analysis = [
 Developer = "DICE"
 Engine = "Frostbite"
 Year = "2018"
-Analysis = [["AI for Testing: The Development of Bots that Play Battlefield V", "https://www.youtube.com/watch?v=s1JOSbUR6KE"],
-["It Just Works: Ray-Traced Reflections in Battlefield V", "https://www.youtube.com/watch?v=ncUNLDQZMzQ"]]
+Analysis = [
+["AI for Testing: The Development of Bots that Play Battlefield V", "https://www.youtube.com/watch?v=s1JOSbUR6KE"],
+["It Just Works: Ray-Traced Reflections in Battlefield V", "https://www.youtube.com/watch?v=ncUNLDQZMzQ"],
+["REAC 2024 DAY 1 Testing Rendering Code at Frostbite", "https://www.youtube.com/watch?v=1OhWTLNESlc"]
+]
 
 ["Marvel's Spider-Man"]
 Developer = "Insomniac Games"
@@ -1750,6 +1758,7 @@ Engine = "IW engine, Treyarch NGL"
 Year = "2003"
 Analysis = [
 ["Automated Testing and Profiling for Call of Duty", "https://www.youtube.com/watch?v=8d0wzyiikXM"],
+["Optimizing the UI’s CPU bound frame rate in Call of Duty", "https://enginearchitecture.org/downloads/REAC_2024_ATVI.pdf"],
 ]
 
 ["Horizon: Zero Dawn"]
