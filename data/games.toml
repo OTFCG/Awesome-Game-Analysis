@@ -1,5 +1,13 @@
 title = "Analysis - Games"
 
+["Grand Theft Auto VI"]
+Developer = "Rockstar Games"
+Engine = "RAGE"
+Year = "2026"
+Analysis = [
+  ["Grand Theft Auto 6 Trailer 2 Tech Breakdown", "https://www.eurogamer.net/digitalfoundry-2025-gta-6-trailer-2-tech-breakdown-incredible-realism-impressive-rt-astonishing-detail"],
+]
+
 ["Assassin's Creed Shadows"]
 Developer = "Ubisoft"
 Engine = "Anvil Engine"
