@@ -116,11 +116,12 @@ Developer = "CD Projekt Red"
 Engine = "REDengine 4"
 Year = "2020"
 Analysis = [
-  ["c0de517e", "https://c0de517e.blogspot.com/2020/12/hallucinations-re-rendering-of.html"],
+  ["Hallucinations re: the rendering of Cyberpunk 2077", "https://c0de517e.blogspot.com/2020/12/hallucinations-re-rendering-of.html"],
   ["Hang Zhang's Blog", "https://zhangdoa.com/rendering-analysis-cyberpunk-2077"],
   ["Shader Execution Reordering", "https://chipsandcheese.com/2023/05/16/shader-execution-reordering-nvidia-tackles-divergence/"],
   ["Tech Focus: Cyberpunk 2077 RT Overdrive", "https://www.youtube.com/watch?v=vigxRma2EPA"],
   ["Overdrive Technology Preview on RTX 4090", "https://www.youtube.com/watch?v=I-ORt8313Og"],
+  ["Next-Gen Tech Analysis: Ray Tracing and Night City Density", "https://www.eurogamer.net/digitalfoundry-2020-cyberpunk-2077-high-end-pc-tech-analysis"]
 ]
 
 ["Diablo 4"]
@@ -168,6 +169,8 @@ Developer = "Santa Monica Studio"
 Engine = "Internal"
 Year = "2018"
 Analysis = [
+  ["God of War Tech Analysis: A New Benchmark for PS4", "https://www.eurogamer.net/digitalfoundry-2018-god-of-war-tech-analysis"],
+  ["PC Port Deep Dive: From Checkerboarding to Native 4K", "https://www.eurogamer.net/digitalfoundry-2022-god-of-war-on-pc-is-a-simply-sensational-port"],
   ["Raising Atreus for Battle in God of War", "https://www.youtube.com/watch?v=lbyGzzcKg9U"],
   ["Behind the Pretty Frames", "https://mamoniem.com/behind-the-pretty-frames-god-of-war/"],
 ]
@@ -180,6 +183,15 @@ Analysis = [
   ["Behind the Pretty Frames", "https://mamoniem.com/behind-the-pretty-frames-elden-ring/"],
   ["狭間の地へようこそ！「ELDEN RING」における オープンフィールドおもてなし術", "https://cedil.cesa.or.jp/cedil_sessions/view/2673"],
   ["DF Tech Analysis about Elden Ring's RT upgrade", "https://www.eurogamer.net/digitalfoundry-2023-ray-tracing-comes-to-elden-ring-ps5-series-x-pc"],
+  ["The Elden Ring tech report", "https://www.eurogamer.net/digitalfoundry-2022-elden-ring-ps5-xbox-series-tech-report"]
+]
+
+["Elden Ring: Nightreign"]
+Developer = "FromSoftware"
+Engine = "Proprietary"
+Year = "2025"
+Analysis = [
+  ["Multiplayer Spin-Off Technical Limitations Analysis", "https://www.eurogamer.net/digitalfoundry-2025-elden-ring-nightreins-network-test-beta-impresses-on-ps5-ps5-pro-and-xbox-series-xs"]
 ]
 
 ["Red Dead Redemption 2"]
@@ -189,6 +201,7 @@ Year = "2018"
 Analysis = [
   ["imgeself's Blog", "https://imgeself.github.io/posts/2020-06-19-graphics-study-rdr2/"],
   ["SIG 2019: Creating the Atmospheric World", "https://www.youtube.com/watch?v=9-HTvoBi0Iw&t=7100s"],
+  ["Technical Masterpiece: Breaking Down Rockstar's Open World", "https://www.eurogamer.net/digitalfoundry-2018-red-dead-redemption-2-tech-analysis"],
 ]
 
 ["Ys X: Nordics"]
@@ -330,6 +343,7 @@ Analysis = [
   ["Resource Management Architecture in 4A Engine", "https://enginearchitecture.org/downloads/REAC_2024_4A.pdf"],
   ["Anton Schreiner's Blog", "https://aschrein.github.io/2019/08/11/metro_breakdown.html"],
   ["Balázs Török's Blog", "http://morad.in/2019/03/27/observations-about-the-rendering-of-metro-exodus/"],
+  ["Full Ray Tracing Overhaul Technical Breakdown", "https://www.eurogamer.net/digitalfoundry-2021-metro-exodus-enhanced-edition-tech-review"],
 ]
 
 ["Zelda - Wind Waker"]
@@ -1332,7 +1346,9 @@ Analysis = [
   ["SIGGRAPH 2022 Real-Time Live", "https://www.youtube.com/watch?v=MAXJWEoKbxY&t=357s"],
   ["The Cinematics of 'Horizon Forbidden West'", "https://www.youtube.com/watch?v=gSzOv4e1ej4&list=PL2e4mYbwSTbaw1l65rE0Gv6_B9ctOzYyW&index=2"],
   ["Building Machines for a Better Future in 'Horizon'", "https://www.youtube.com/watch?v=dr17S0I_h78"],
-  ["Knocking on Death's Door: Designing a New Bunker for 'Horizon Forbidden West'", "https://www.youtube.com/watch?v=KxcXUYx3eLQ"]
+  ["Knocking on Death's Door: Designing a New Bunker for 'Horizon Forbidden West'", "https://www.youtube.com/watch?v=KxcXUYx3eLQ"],
+  ["Cross-Gen Rendering Strategies: PS4 to PS5 Pro", "https://www.eurogamer.net/digitalfoundry-2022-horizon-forbidden-west-the-digital-foundry-tech-review"],
+  ["PC Port Optimization vs Console Baseline", "https://www.youtube.com/watch?v=xTwEGy6HHKo"],
 ]
 
 
@@ -1377,7 +1393,8 @@ Developer = "Playground Games"
 Engine = "ForzaTech"
 Year = "2021"
 Analysis = [
-["How Parameters Drive the Particle Effects of 'Forza Horizon 5'", "https://www.youtube.com/watch?v=8Pk-yAp7J_8"],
+  ["How Parameters Drive the Particle Effects of 'Forza Horizon 5'", "https://www.youtube.com/watch?v=8Pk-yAp7J_8"],
+  ["PS5 Pro Enhancements: Foliage Density and Ray Tracing", "https://www.youtube.com/watch?v=82ceExNpBQA"],
 ]
 
 
@@ -1387,7 +1404,8 @@ Developer = "Housemarque"
 Engine = "UE4"
 Year = "2021"
 Analysis = [
-["Can We Do It with Particles?: VFX Learnings from 'Returnal'", "https://www.youtube.com/watch?v=qbkb8ap7vts"]
+["Can We Do It with Particles?: VFX Learnings from 'Returnal'", "https://www.youtube.com/watch?v=qbkb8ap7vts"],
+["Particle System and Volumetric Lighting Deep Dive", "https://www.eurogamer.net/digitalfoundry-2021-returnal-absolute-housemarque"]
 ]
 
 
@@ -1507,6 +1525,7 @@ Year = "2020"
 Analysis = [
 ["An Explosive New Spider-Man: Creating VFX for Miles Morales", "https://www.youtube.com/watch?v=hvU2EVGTOp0"],
 ["Real-Time Cloth Solutions on 'Marvel's Spider-Man'", "https://www.youtube.com/watch?v=kGvqlLlZUis"],
+["Ray Traced Reflections and Performance Mode Analysis", "https://www.youtube.com/watch?v=mGTNTpuJspo"]
 ]
 
 
@@ -2174,6 +2193,7 @@ Engine = "RE Engine"
 Year = "2017"
 Analysis = [
 ["RE Engine Analysis", "https://cgworld.jp/feature/201702-cgw222T2-bio.html"],
+["Next-Gen Ray Tracing and High Frame-Rate Implementation", "https://www.eurogamer.net/digitalfoundry-2021-resident-evil-village-tech-review"]
 ]
 
 ["Half-Life"]
