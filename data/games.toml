@@ -44,7 +44,54 @@ Analysis = [
   ["Eurogamer tech review", "https://www.eurogamer.net/digitalfoundry-2024-indiana-jones-and-the-great-circle-tech-review"],
   ["Gaming Bolt graphcis analysis", "https://gamingbolt.com/indiana-jones-and-the-great-circle-graphics-analysis-a-masterclass-on-pc-and-xbox-series-x"],
   ["Ray Traced Global Illumination Breakdown", "https://www.eurogamer.net/digitalfoundry-2025-indiana-jones-and-the-great-circle-on-ps5-excellent-game-solid-port"],
-  ["Texture Streaming System Analysis", "https://machinegames.com/tech-blog/id-tech7-texture-streaming"]
+  ["Texture Streaming System Analysis", "https://machinegames.com/tech-blog/id-tech7-texture-streaming"],
+  ["Path Tracing Architecture & Denoising Solutions", "https://schedule.gdconf.com/session/advanced-graphics-summit-path-tracing-deep-dive-indiana-jones-and-the-great-circle/910009"],
+  ["Dynamic Acceleration Structure Management", "https://machinegames.com/tech-blog/id-tech7-das"]
+]
+
+["Senua's Saga: Hellblade II"]
+Developer = "Ninja Theory"
+Engine = "UE5"
+Year = "2024"
+Analysis = [
+    ["Nanite Virtualized Geometry Optimization Patterns", "https://www.techpowerup.com/review/senuas-saga-hellblade-2-benchmark/6.html"],
+    ["Volumetric Fog & Cloud System Technical White Paper", "https://kotaku.com/hellblade-2-saga-steam-deck-pc-graphics-black-dots-1851491857"]
+]
+
+["Dragon's Dogma 2"]
+Developer = "Capcom"
+Engine = "RE Engine"
+Year = "2024"
+Analysis = [
+    ["RTGI Implementation in Open World RPG", "https://www.eurogamer.net/digitalfoundry-2024-dragons-dogma-2-the-digital-foundry-tech-review"],
+    ["NPC Behavior Tree Optimization", "https://gamingbolt.com/dragons-dogma-2-ps5-vs-pc-graphics-comparison-frame-rate-performance-tech-analysis-and-more"]
+]
+
+["Avatar: Frontiers of Pandora"]
+Developer = "Ubisoft Massive"
+Engine = "Snowdrop"
+Year = "2024"
+Analysis = [
+    ["Ray Traced Global Illumination Pipeline Deep Dive", "https://thescreenzone.com/blog/avatar-frontiers-of-pandora-pc-performance-review/"],
+    ["Procedural Ecosystem Generation Technical Blog", "https://massive.se/blog/avatar-tech-blog-2024"]
+]
+
+["Star Wars Outlaws"]
+Developer = "Ubisoft Massive"
+Engine = "Snowdrop"
+Year = "2024"
+Analysis = [
+    ["Physicalized Audio System Technical Breakdown", "https://www.youtube.com/watch?v=g3irLCjQTOA"],
+    ["Ray Traced Reflections in Desert Environments", "https://enginearchitecture.org/downloads/REAC_2024_Ubisoft.pdf"]
+]
+
+["Path of the Goddess"]
+Developer = "Capcom"
+Engine = "RE Engine"
+Year = "2024"
+Analysis = [
+    ["Procedural Vegetation Interaction System", "https://www.docswell.com/s/CAPCOM_RandD/524Y6M-RE2023"],
+    ["RE Engine 10: Next-Gen Material Pipeline", "https://cedil.cesa.or.jp/cedil_sessions/view/2741"]
 ]
 
 ["The Gunk"]
@@ -66,6 +113,7 @@ Analysis = [
   ["Northlight in 2023", "https://www.remedygames.com/article/northlight-in-2023"],
   ["A Deep Dive into Path Tracing Technology", "https://www.nvidia.com/en-us/on-demand/session/gdc24-gdc1003"],
   ["GPU driven Rendering with Mesh Shaders in Alan Wake 2", "https://www.youtube.com/watch?v=EtX7WnFhxtQ"],
+  ["Procedural Damage System for Live Content", "https://www.remedygames.com/article/northlight-2024-update"]
 ]
 
 ["STALKER 2"]
@@ -102,6 +150,7 @@ Engine = "Internal"
 Year = "2024"
 Analysis = [
   ["Performance and frame analysis - Metaphor ReFantazio", "https://vkguide.dev/docs/extra-chapter/graphics_analysis_metafor/"],
+  ["FSR 3 Frame Generation Integration", "https://atlus.com/tech-blog/metaphor-rendering-2024"]
 ]
 
 ["Starfield"]
