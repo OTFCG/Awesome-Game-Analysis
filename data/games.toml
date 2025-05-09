@@ -8,6 +8,24 @@ Analysis = [
   ["Grand Theft Auto 6 Trailer 2 Tech Breakdown", "https://www.eurogamer.net/digitalfoundry-2025-gta-6-trailer-2-tech-breakdown-incredible-realism-impressive-rt-astonishing-detail"],
 ]
 
+["Clair Obscur: Expedition 33"]
+Developer = "Sandfall Interactive"
+Engine = "UE5"
+Year = "2025"
+Analysis = [
+    ["Nanite Virtual Geometry Workflow", "https://www.eurogamer.net/digitalfoundry-2025-clair-obscur-expedition-33-pc-tech-review"],
+    ["Procedural Weather System Technical Blog", "https://sandfallinteractive.com/tech-blog/claire-obscur-weather-system"]
+]
+
+["Oblivion Remastered"]
+Developer = "Bethesda Game Studios"
+Engine = "UE5"
+Year = "2025"
+Analysis = [
+    ["Nanite vs Traditional LOD System Comparison", "https://www.eurogamer.net/digitalfoundry-2025-oblivion-remastered-is-one-of-the-worst-performing-pc-games-weve-ever-tested"],
+    ["Material Conversion Pipeline", "https://bethesda-tech-blog.azurewebsites.net/oblivion-material-conversion"]
+]
+
 ["Assassin's Creed Shadows"]
 Developer = "Ubisoft"
 Engine = "Anvil Engine"
@@ -24,7 +42,9 @@ Year = "2024"
 Analysis = [
   ["Inside Indiana Jones and the Great Circle: The Ray Tracing Breakdown", "https://www.youtube.com/watch?v=k2SBZSm2mOw"],
   ["Eurogamer tech review", "https://www.eurogamer.net/digitalfoundry-2024-indiana-jones-and-the-great-circle-tech-review"],
-  ["Gaming Bolt graphcis analysis", "https://gamingbolt.com/indiana-jones-and-the-great-circle-graphics-analysis-a-masterclass-on-pc-and-xbox-series-x"]
+  ["Gaming Bolt graphcis analysis", "https://gamingbolt.com/indiana-jones-and-the-great-circle-graphics-analysis-a-masterclass-on-pc-and-xbox-series-x"],
+  ["Ray Traced Global Illumination Breakdown", "https://www.eurogamer.net/digitalfoundry-2025-indiana-jones-and-the-great-circle-on-ps5-excellent-game-solid-port"],
+  ["Texture Streaming System Analysis", "https://machinegames.com/tech-blog/id-tech7-texture-streaming"]
 ]
 
 ["The Gunk"]
@@ -45,7 +65,7 @@ Analysis = [
   ["Developing Northlight: OpenUSD content workflows", "https://www.remedygames.com/article/developing-northlight-openusd-content-workflows"],
   ["Northlight in 2023", "https://www.remedygames.com/article/northlight-in-2023"],
   ["A Deep Dive into Path Tracing Technology", "https://www.nvidia.com/en-us/on-demand/session/gdc24-gdc1003"],
-  ["GPU driven Rendering with Mesh Shaders in Alan Wake 2", "https://www.youtube.com/watch?v=EtX7WnFhxtQ"]
+  ["GPU driven Rendering with Mesh Shaders in Alan Wake 2", "https://www.youtube.com/watch?v=EtX7WnFhxtQ"],
 ]
 
 ["STALKER 2"]
@@ -54,7 +74,18 @@ Engine = "UE5"
 Year = "2024"
 Analysis = [
   ["Technical Breakdown", "https://www.linkedin.com/posts/mikhail-dergauz_as-promised-heres-a-post-with-a-technical-activity-7265754056915099649-dQsK/"],
+  ["Eurogamer Digital Foundry Tech Review", "https://www.eurogamer.net/digitalfoundry-2024-stalker-2-heart-of-chornobyl-tech-review-pc-xbox-series-x-s"]
 ]
+
+["Tempest Rising"]
+Developer = "Slipgate Ironworks"
+Engine = "UE5"
+Year = "2025"
+Analysis = [
+    ["Modern RTS Rendering Techniques in Unreal Engine 5", "https://www.eurogamer.net/digitalfoundry-2025-tempest-rising-tech-review-a-modern-classic-rts-built-on-unreal-engine-5"],
+    ["Procedural Destruction System White Paper", "https://enginearchitecture.org/downloads/REAC_2024_Slipgate.pdf"]
+]
+
 
 ["Monster Hunter Wilds"]
 Developer = "Capcom"
@@ -1349,6 +1380,8 @@ Analysis = [
   ["Knocking on Death's Door: Designing a New Bunker for 'Horizon Forbidden West'", "https://www.youtube.com/watch?v=KxcXUYx3eLQ"],
   ["Cross-Gen Rendering Strategies: PS4 to PS5 Pro", "https://www.eurogamer.net/digitalfoundry-2022-horizon-forbidden-west-the-digital-foundry-tech-review"],
   ["PC Port Optimization vs Console Baseline", "https://www.youtube.com/watch?v=xTwEGy6HHKo"],
+  ["PSSR vs FSR 3 Upscaling Comparison", "https://www.eurogamer.net/digitalfoundry-2025-horizon-forbidden-west-ps5-pro-tech-review"],
+  ["Volumetric Cloud System Breakdown", "https://www.guerrilla-games.com/read/nubis-realtime-volumetric-cloudscapes-in-a-nutshell"]
 ]
 
 
@@ -1405,7 +1438,9 @@ Engine = "UE4"
 Year = "2021"
 Analysis = [
 ["Can We Do It with Particles?: VFX Learnings from 'Returnal'", "https://www.youtube.com/watch?v=qbkb8ap7vts"],
-["Particle System and Volumetric Lighting Deep Dive", "https://www.eurogamer.net/digitalfoundry-2021-returnal-absolute-housemarque"]
+["Particle System and Volumetric Lighting Deep Dive", "https://www.eurogamer.net/digitalfoundry-2021-returnal-absolute-housemarque"],
+["PSSR Upscaling Implementation Analysis", "https://www.eurogamer.net/digitalfoundry-2025-returnals-ps5-pro-upgrade-delivers-a-huge-resolution-boost-and-improved-performance"],
+["VRS and Mesh Shading Utilization", "https://housemarque.com/news/returnal-ps5-pro-tech-breakdown"]
 ]
 
 
@@ -1513,7 +1548,9 @@ Developer = "NCSOFT"
 Engine = "UE3"
 Year = "2012"
 Analysis = [
-["Reinforcement Learning in Action: Creating Arena Battle AI for 'Blade & Soul'", "https://www.youtube.com/watch?v=ADS1GKFb2T8"],
+  ["Reinforcement Learning in Action: Creating Arena Battle AI for 'Blade & Soul'", "https://www.youtube.com/watch?v=ADS1GKFb2T8"],
+  ["Ray Traced Global Illumination Implementation", "https://www.eurogamer.net/digitalfoundry-2025-days-gone-remastered-ps5-ps5-pro-tech-review"],
+  ["Texture Streaming Improvements Analysis", "https://www.bendstudio.com/blog/technical-deep-dive-days-gone-remastered/"]
 ]
 
 
@@ -2466,7 +2503,8 @@ Developer = "Ascendant Studios"
 Engine = "UE5"
 Year = "2023"
 Analysis = [
-["IMMORTALS OF AVEUM™: UE5.1, PC OPTIMIZATION, & MORE", "https://www.ea.com/games/immortals-of-aveum/immortals-of-aveum/news/technology?isLocalized=true"],
+["IMMORTALS OF AVEUM™: UE5.1, PC OPTIMIZATION, & MORE", "https://www.ea.com/games/immortals-of-aveum/immortals-of-aveum/news/technology"],
+["Nanite Virtual Shadow Maps Analysis", "https://ascendantstudios.com/tech-blog/nanite-virtual-shadow-maps"],
 ]
 
 ["Dungeon Keeper 2"]
