@@ -14,16 +14,6 @@ Engine = "UE5"
 Year = "2025"
 Analysis = [
     ["Nanite Virtual Geometry Workflow", "https://www.eurogamer.net/digitalfoundry-2025-clair-obscur-expedition-33-pc-tech-review"],
-    ["Procedural Weather System Technical Blog", "https://sandfallinteractive.com/tech-blog/claire-obscur-weather-system"]
-]
-
-["Oblivion Remastered"]
-Developer = "Bethesda Game Studios"
-Engine = "UE5"
-Year = "2025"
-Analysis = [
-    ["Nanite vs Traditional LOD System Comparison", "https://www.eurogamer.net/digitalfoundry-2025-oblivion-remastered-is-one-of-the-worst-performing-pc-games-weve-ever-tested"],
-    ["Material Conversion Pipeline", "https://bethesda-tech-blog.azurewebsites.net/oblivion-material-conversion"]
 ]
 
 ["Assassin's Creed Shadows"]
@@ -33,6 +23,14 @@ Year = "2025"
 Analysis = [
   ["Inside the technologically revamped Anvil Engine", "https://www.eurogamer.net/digitalfoundry-2025-assassins-creed-shadows-tech-qa-rtgi-shader-compilation-taa-and-more"],
   ["How Ubisoft Brought Feudal Japan to Life: Rendering 'Assassin's Creed Shadows' with Nicolas Lopez", "https://www.youtube.com/watch?v=Z0TMRCTuKsc"],
+]
+
+["Oblivion Remastered"]
+Developer = "Bethesda Game Studios"
+Engine = "UE5"
+Year = "2025"
+Analysis = [
+    ["Nanite vs Traditional LOD System Comparison", "https://www.eurogamer.net/digitalfoundry-2025-oblivion-remastered-is-one-of-the-worst-performing-pc-games-weve-ever-tested"],
 ]
 
 ["Indiana Jones and the Great Circle"]
