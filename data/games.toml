@@ -1,5 +1,13 @@
 title = "Analysis - Games"
 
+["The Witcher 4"]
+Developer = "CD Projekt Red"
+Engine = "Unreal Engine 5"
+Year = "2027"
+Analysis = [
+  ["Unreal Engine 5 Demo", "https://www.youtube.com/watch?v=xPR305id0H0"],
+]
+
 ["Grand Theft Auto VI"]
 Developer = "Rockstar Games"
 Engine = "RAGE"
