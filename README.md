@@ -22,7 +22,7 @@ In order to maintain the structure of this repository, please don't directly mak
 ## Analysis - Games
 |Game|Developer|Engine|Year|Analysis|
 |:---|:---|:---|:---|:---|
-|The Witcher 4|CD Projekt Red|Unreal Engine 5|2027|<details open><summary>Expand</summary>• [Unreal Engine 5 Demo](https://www.youtube.com/watch?v=xPR305id0H0)<br></details>|
+|The Witcher 4|CD Projekt Red|UE5|2027|<details open><summary>Expand</summary>• [Unreal Engine 5 Demo](https://www.youtube.com/watch?v=xPR305id0H0)<br></details>|
 |Grand Theft Auto VI|Rockstar Games|RAGE|2026|<details open><summary>Expand</summary>• [Grand Theft Auto 6 Trailer 2 Tech Breakdown](https://www.eurogamer.net/digitalfoundry-2025-gta-6-trailer-2-tech-breakdown-incredible-realism-impressive-rt-astonishing-detail)<br></details>|
 |Clair Obscur: Expedition 33|Sandfall Interactive|UE5|2025|<details open><summary>Expand</summary>• [Nanite Virtual Geometry Workflow](https://www.eurogamer.net/digitalfoundry-2025-clair-obscur-expedition-33-pc-tech-review)<br></details>|
 |Assassin's Creed Shadows|Ubisoft|Anvil Engine|2025|<details><summary>Expand</summary>• [Inside the technologically revamped Anvil Engine](https://www.eurogamer.net/digitalfoundry-2025-assassins-creed-shadows-tech-qa-rtgi-shader-compilation-taa-and-more)<br>• [How Ubisoft Brought Feudal Japan to Life: Rendering 'Assassin's Creed Shadows' with Nicolas Lopez](https://www.youtube.com/watch?v=Z0TMRCTuKsc)<br></details>|
