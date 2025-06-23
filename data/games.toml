@@ -1,5 +1,13 @@
 title = "Analysis - Games"
 
+["Death Stranding 2"]
+Developer = "Kojima Productions"
+Engine = "Decima"
+Year = "2025"
+Analysis = [
+  ["Death Stranding 2 tech review: one of the best-looking games of this console generation", "https://www.eurogamer.net/digitalfoundry-2025-death-stranding-2-tech-review"],
+]
+
 ["The Witcher 4"]
 Developer = "CD Projekt Red"
 Engine = "UE5"
