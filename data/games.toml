@@ -58,6 +58,14 @@ Analysis = [
     ["Nanite vs Traditional LOD System Comparison", "https://www.eurogamer.net/digitalfoundry-2025-oblivion-remastered-is-one-of-the-worst-performing-pc-games-weve-ever-tested"],
 ]
 
+["Doom: The Dark Ages"]
+Developer = "id Software"
+Engine = "id Tech 8"
+Year = "2025"
+Analysis = [
+  ["Anisotropic Scaling in Indiana Jones and the Great Circle and DOOM: The Dark Ages","https://martinfullerblog.wordpress.com/2025/09/26/anisotropic-scaling-in-indiana-jones-and-the-great-circle-and-doom-the-dark-ages/"]
+]
+
 ["Indiana Jones and the Great Circle"]
 Developer = "MachineGames"
 Engine = "id Tech 7"
@@ -70,7 +78,8 @@ Analysis = [
   ["Texture Streaming System Analysis", "https://machinegames.com/tech-blog/id-tech7-texture-streaming"],
   ["Path Tracing Architecture & Denoising Solutions", "https://schedule.gdconf.com/session/advanced-graphics-summit-path-tracing-deep-dive-indiana-jones-and-the-great-circle/910009"],
   ["Dynamic Acceleration Structure Management", "https://machinegames.com/tech-blog/id-tech7-das"],
-  ["Pushing 60hz. Shipping Indiana Jones and The Great Circle", "https://enginearchitecture.org/2025.htm#5"]
+  ["Pushing 60hz. Shipping Indiana Jones and The Great Circle", "https://enginearchitecture.org/2025.htm#5"],
+  ["Anisotropic Scaling in Indiana Jones and the Great Circle and DOOM: The Dark Ages","https://martinfullerblog.wordpress.com/2025/09/26/anisotropic-scaling-in-indiana-jones-and-the-great-circle-and-doom-the-dark-ages/"]
 ]
 
 ["Dragon Age: The Veilguard"]
@@ -79,6 +88,14 @@ Engine = "Frostbite"
 Year = "2024"
 Analysis = [
     ["GI, RT, Character Creator and other systems", "https://enginearchitecture.org/2025.htm#6"],
+]
+
+["Avowed"]
+Developer = "Obsidian"
+Engine = "UE5"
+Year = "2025"
+Analysis = [
+    ["Avowed: A GPU Technical Retrospective | Unreal Fest Orlando 2025", "https://www.youtube.com/watch?v=BKaAzhMHJZ0"],
 ]
 
 ["Senua's Saga: Hellblade II"]
