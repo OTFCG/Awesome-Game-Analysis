@@ -326,6 +326,7 @@ In order to maintain the structure of this repository, please don't directly mak
 * [Guerrilla's News feed](https://www.guerrilla-games.com/read)
 * [Digital Foundry](https://www.digitalfoundry.net/)
 * [Anything about game](https://github.com/killop/anything_about_game/blob/master/FamousGame.md)
+* [RespawnStack](https://respawnstack.com) - Curated directory of AI tools for game development (art, audio, code, production).
 * [CGWorld.jp](https://cgworld.jp/game/)
 * [Gaming Bolt](https://gamingbolt.com/category/graphics-analysis)
 * [80lv](https://80.lv/)
